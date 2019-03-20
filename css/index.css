@@ -1,0 +1,420 @@
+
+body {
+    margin: 0px;
+}
+
+/*---make a basic box ---*/
+.box {
+    float: left;
+}
+
+.bannertext {
+    color: white;
+    font-size: 35px;
+}
+
+.hvr-bounce-to-right:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #fed116;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+
+.reuniao {
+    border: 2px;
+    border-style: solid;
+    border-color: #fed116;
+    background-color: transparent;
+    color: white;
+    height: 40px;
+    width: 310px;
+}
+
+.reuniao:hover {
+    background-color: black;
+    color: white;
+}
+
+.texto {
+    height: 50vh;
+    background: transparent;
+}
+
+.texto2 {
+    height: 25vh;
+    background: transparent;
+}
+
+.projetos-title {
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 180%;
+}
+
+.card {
+    text-align: center;
+    width: 25%;
+    margin: 10%;
+}
+
+.card3 {
+    text-align: center;
+    width: 115%;
+    height: 30%;
+    /*margin: 10%;*/
+    margin-right: 27%;
+}
+
+.card1 {
+    text-align: center;
+    width: 25%;
+    margin: 10%;
+    margin-left: 5%;
+}
+
+.cardmgpreco {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.cardimginovacao {
+    margin-right: 1%;
+    /*margin-top: 5%;*/
+}
+
+.textoP {
+    font-family: normal;
+    text-align: center;
+}
+
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    padding-bottom: 10px;
+}
+
+.nav.navbar-nav.pull-right {
+    padding-top: 0px !important;
+}
+
+
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+.section--blue {
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.banner {
+    background-image: url(../images/bg.jpg);
+    height: 100vh;
+}
+
+.banner .row {
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#row1 {
+    /*height: 10000px;*/
+}
+
+.banner h1 {
+    color: white;
+
+}
+
+.atuacao {
+    display: flex;
+}
+
+.atuacoes1 {
+    display: flex;
+    width: 100%;
+    height: 10%;
+}
+
+.atuacoes {
+    display: flex;
+    width: 100%;
+    height: 10%;
+}
+
+div.op1 {
+    width: 25%;
+    display: inline-block;
+    font-size: 3vw;
+    padding: 3vw 0vw 5vw 0vw;
+    min-width: 27vw;
+    margin-left: 7%;
+}
+
+div.op2 {
+    width: 25%;
+    display: inline-block;
+    font-size: 3vw;
+    padding: 3vw 0vw 5vw 0vw;
+    min-width: 27vw;
+    float: right;
+    margin-left: 7%;
+}
+
+.auto-mec {
+    height: 100%;
+    width: 30%;
+}
+
+.civ {
+    width: 23%;
+}
+
+.civ-web {
+    float: right;
+    width: 30%;
+}
+
+.auto {
+    float: left;
+    width: 23%;
+    margin-left: 0.5%;
+}
+
+.auto-list {
+    float: left;
+}
+
+.mec {
+    float: left;
+    width: 23%;
+    margin-top: 3%;
+}
+
+.mec-list {
+    float: left;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 11px 0px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.navbar-brand img {
+    height: 50px;
+}
+
+.nav.navbar-nav.pull-right {
+    padding-top: 10px;
+}
+
+.nav.navbar-nav.pull-right a:after {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #fed116;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+}
+
+.nav.navbar-nav.pull-right a:hover:after {
+    width: 100%;
+    left: 0;
+}
+
+
+/***********************************************************************
+*  OPAQUE NAVBAR SECTION
+***********************************************************************/
+.opaque-navbar {
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 18px;
+    /* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
+    height: 75px;
+    border-bottom: 0px;
+    transition: background-color .5s ease 0s;
+
+}
+
+.opaque-navbar.opaque {
+    background-color: black;
+    height: 75px;
+    transition: background-color .5s ease 0s;
+}
+
+ul.dropdown-menu {
+    background-color: black;
+}
+
+.reuniao {
+    position: center;
+    margin-top: 5%;
+    margin-left: 36%;
+    border-radius: 40px;
+    transition: 0.25s;
+}
+
+#log {
+    height: 110px;
+}
+
+#numero{
+    color: #f8be0a;
+    font-size: 80px;
+}
+h2{
+    margin-bottom: 0%;
+    margin-top: 0%;
+
+}
+
+
+
+@media (max-width: 992px) {
+    .opaque-navbar {
+        background-color: black;
+        height: 75px;
+        transition: background-color .5s ease 0s;
+    }
+
+}
+
+@media (max-width: 820px) {
+    .section--blue {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    .card {
+        margin-left: 0%;
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+
+    .reuniao {
+        margin-top: 7%;
+        margin-left: 11%;
+        margin-right: 11%;
+    }
+
+    .row {
+        height: 100%;
+    }
+
+    #log {
+        height: 300px;
+    }
+
+    .card31 {
+        height: 100%;
+        margin-bottom: 9%;
+        padding-top: 8%;
+    }
+
+    .card {
+        height: 300px;
+    }
+
+    .textocard {
+        margin-left: 16%;
+    }
+
+    .titulocard {
+        margin-left: 21%;
+    }
+
+    #atuacoesres {
+        padding-left: 30px;
+    }
+
+    #cardimginovacao1 {
+        height: 80px;
+    }
+
+    #projetos {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .item {
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    #siganos {
+        width: 40%;
+    }
+
+    #sigamos1 {
+        width: 100%;
+    }
+
+    #lista {
+        width: 40%;
+        padding-left: 2%;
+    }
+
+    #lista1 {
+        width: 100%;
+        /*padding-left: 0%;*/
+    }
+
+    #seila {
+        width: 100%;
+    }
+
+    #seila1 {
+        width: 100%;
+        padding-left: 15%;
+    }
+}
+
+
+@media (max-width: 375px) {
+    .reuniao {
+        margin-top: 7%;
+        margin-left: 5%;
+        margin-right: 11%;
+    }
+}
+
+.segunda {
+    height: 100vh;
+}
+
+.servicos {
+    height: 55vh;
+    background-color: white;
+}
+
+.portfolio {
+    background-color: darkgray;
+    height: 45vh;
+}
+
+ 
