@@ -90,10 +90,10 @@ include 'componentes/navbar.html';
 
     <section class="section--blue wow slideInLeft" data-wow-delay="0.9s">
 
-        <div class="card">
+        <div class="car">
             <div class="cardimginovacao"></div>
-            <div class="card-title1"><h3>Valores</h3></div>
-            <div class="card-text"><p>Trabalhamos junto à sua necessidade para trazer soluções práticas e inovadoras</p>
+            <div class="card-title1" style="text-align: center"><h3>Valores</h3></div>
+            <div class="card-text" style="text-align: center"><p>Trabalhamos junto à sua necessidade para trazer soluções práticas e inovadoras</p>
             </div>
         </div>
     </section>

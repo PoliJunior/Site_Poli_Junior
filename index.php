@@ -108,9 +108,9 @@ include 'componentes/navbar.html';
 
         <div class="card31">
             <div id="cardimginovacao1" class="cardimginovacao"></div>
-            <div class="card-title1"><h3 style="text-align: center;" class="titulocard">Inovação</h3></div>
+            <div class="card-title1"><h3 style="text-align: center; margin-top:10%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center;" class="textocard">Trabalhamos junto à sua necessidade
-                    para<br> trazer
+                    para trazer
                     soluções práticas e inovadoras
                 </p></div>
         </div>
@@ -154,7 +154,7 @@ include 'componentes/navbar.html';
     <div class="row">
         <div class="col-xs-12">
             <h2 style="text-transform: uppercase;font-weight: bold;font-family:edoo; padding-top:2%;">OS NOSSOS
-                RESULTADOS<h2 style="text-transform: uppercase;font-weight: bold;font-family:edoo; color:yellow;">EM TEMPO REAL</h2></h2>
+                RESULTADOS <b style="color: yellow">EM TEMPO REAL</b></h2>
             <div class="row" style="text-align: center">
 
                 <div class="col-xs-6"

@@ -104,6 +104,21 @@
         font-size: 15px;
         margin-top: 50px;
     }
+    #siganos{
+        margin-left: 5%;
+    }
+
+    #siganos1{
+        margin-left: 9%;
+    }
+
+    #lista{
+        padding-left: 0%;
+    }
+
+    #lista1{
+        padding-left: 0%;
+    }
 
     @media (max-width: 900px) {
         .col-lg-6{
@@ -120,29 +135,30 @@
 
 <footer class="footer_area p_120">
     <div class="container">
-        <div class="row footer_inner">
+        <div class="row footer_inner" style="font-size: 30%;">
             <div class="col-lg-6">
 
                 <div class="f_title">
                     <img src="images/logo_POLIJUNIOR.png" style="width: 50%">
                 </div>
-                <p style="text-align: left">If you own an Iphone, you’ve probably already worked out how much fun it is
+                <p style="text-align: left; font-size: 320%;">If you own an Iphone, you’ve probably already worked out how much fun it is
                     to use it to watch movies-it has that nice big screen, and the sound quality already worked out how
                     much fun it is to use it to watch movies-it has that nice big screen, and the sound qualit.</p>
             </div>
 <!--            style="width: 20%;"-->
-            <div class="col-lg-15" id="siganos" style="float: left;">
+            <div class="col-lg-15" id="siganos" style="float: left; text-align: center;">
 <!--                style="width: 40%;"-->
                 <aside class="f_widget social_widget" id="seila">
                     <div class="f_title">
-                        <h3 style="width: 100%;"><font color="#ffffff">Siga-nos</font></h3>
+                        <h3 style="width: 100%;"><font color="#ffffff">Contate-nos</font></h3>
                     </div>
-                    <p style="width: 100%;">Let us be social</p>
+                    <p style="width: 100%;;margin-bottom: 0%;font-size: 320%;">(81) 99999-9999</p>
+                    <p style="width: 100%; margin-top: 0%;font-size: 320%;">emailempresa@polijuniorengenharia.com.br</p>
                     <ul class="list" id="lista" style="width: 100%;">
-                        <a href="#"><img src="./images/fac.png" style="width: 25px"></a>
-                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
-                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
-                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
+<!--                        <a href="#"><img src="./images/fac.png" style="width: 25px"></a>-->
+<!--                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>-->
+<!--                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>-->
+<!--                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>-->
                     </ul>
                 </aside>
             </div>
@@ -157,12 +173,12 @@
                     <ul class="list" id="lista1" style="width: 100%;">
                         <a href="#"><img src="./images/fac.png" style="width: 25px"></a>
                         <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
-                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
+                        <a href="#"><img src="./images/fac.png" style="width: 25px"></a>
                         <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
                     </ul>
                 </aside>
             </div>
-    <div class="copy_right_text" style="float: right;">
+    <div class="copy_right_text" style="position: center; padding-top: 18%;">
         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             Copyright &copy;<script>document.write(new Date().getFullYear());</script>
             Poli Junior Engenharia All rights reserved

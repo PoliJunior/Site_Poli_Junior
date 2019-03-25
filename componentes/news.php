@@ -5,6 +5,10 @@
 	font-size: 1.5em;
 }
 
+.form-control{
+    width: 100%;
+}
+
 .news2 {
 	 text-align: left;
 }

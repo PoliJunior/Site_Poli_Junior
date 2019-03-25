@@ -92,8 +92,9 @@ body {
 }
 
 .cardimginovacao {
-    margin-right: 1%;
-    /*margin-top: 5%;*/
+    margin-right: 0%;
+    margin: 0% 0% 6% 30%;
+
 }
 
 .textoP {
@@ -283,17 +284,25 @@ ul.dropdown-menu {
     height: 110px;
 }
 
-#numero{
+#numero {
     color: #f8be0a;
-    font-size: 80px;
+    font-size: 60px;
 }
-h2{
+
+.col-xs-12 {
+    border-bottom: 25px;
+    border-bottom-style: wave;
+}
+
+.projetos-title {
+    padding-top: 2%;
+}
+
+h2 {
     margin-bottom: 0%;
     margin-top: 0%;
 
 }
-
-
 
 @media (max-width: 992px) {
     .opaque-navbar {
@@ -346,6 +355,7 @@ h2{
 
     .titulocard {
         margin-left: 21%;
+        margin-top: 2%;
     }
 
     #atuacoesres {
