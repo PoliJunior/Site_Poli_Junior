@@ -150,11 +150,11 @@ include 'componentes/navbar.html';
         </div>
 </section>
 
-<section class="resultado" style="background-image: url(images/resultados_POLIJUNIOR.png);">
+<section class="resultado" style="background-image: url(images/projetos.jpeg);">
     <div class="row">
         <div class="col-xs-12">
             <h2 style="text-transform: uppercase;font-weight: bold;font-family:edoo; padding-top:2%;">OS NOSSOS
-                RESULTADOS <b style="color: yellow">EM TEMPO REAL</b></h2>
+                RESULTADOS <b style="color: #ffff1b">EM TEMPO REAL</b></h2>
             <div class="row" style="text-align: center">
 
                 <div class="col-xs-6"

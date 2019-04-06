@@ -276,7 +276,7 @@ ul.dropdown-menu {
     position: center;
     margin-top: 5%;
     margin-left: 36%;
-    border-radius: 40px;
+    /*border-radius: 40px;*/
     transition: 0.25s;
 }
 
@@ -285,7 +285,7 @@ ul.dropdown-menu {
 }
 
 #numero {
-    color: #f8be0a;
+    color: #f8e81a;
     font-size: 60px;
 }
 

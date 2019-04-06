@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Institucional</title>
 </head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -22,25 +22,20 @@ include 'componentes/navbar.html';
 ?>
 
 <div class="row-textos1">
-        <div class="texto1">
-    <p>
-    <h2>Quem somos</h2></p>
-    <p style="width: 100%;">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a
-        piece of classical Latin
-        literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
-        Hampden-Sydney
-        College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-        and going through the cites of the word in classical literature, discovered the undoubtable source.
-        Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum"
-        (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-        ethics,
-        very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..",
-        comes from a line in section 1.10.32.<br>
-        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
-        Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
-        Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur,
-        from a Lorem Ipsum passage.</p>
-        </div>
+    <div class="texto1">
+        <p>
+        <h2>Quem somos</h2></p>
+        <p style="width: 100%;">Desde de 2006 impactando a sociedade Pernambucana, a Poli Júnior Engenharia, mais do que
+            faz projetos de engenharia, cria e desenvolve soluções inovadoras para o mercado, transformando ideias em
+            realidade. Alinhando nossa capacidade as necessidades dos nossos clientes, entregamos soluções
+            personalizadas, principalmente, para empresas de pequeno e médio porte, estabelecidas ou sediadas em
+            Pernambuco e estados adjacentes.
+            <br>
+            A Poli Júnior Engenharia, em Recife, foi a primeira empresa Júnior de engenharia do estado de Pernambuco.
+            Estruturada e gerida por alunos de graduação da Universidade de Pernambuco auxiliados por mestres e
+            doutores, além de profissionais da área. Apaixonados por desenvolver pessoas que impactem cada vez mais a
+            sociedade brasileira.</p>
+    </div>
     <div class="imagem" system="float:left;">.col-xs-6 .col-md-4</div>
 </div>
 
@@ -93,7 +88,8 @@ include 'componentes/navbar.html';
         <div class="car">
             <div class="cardimginovacao"></div>
             <div class="card-title1" style="text-align: center"><h3>Valores</h3></div>
-            <div class="card-text" style="text-align: center"><p>Trabalhamos junto à sua necessidade para trazer soluções práticas e inovadoras</p>
+            <div class="card-text" style="text-align: center"><p>Trabalhamos junto à sua necessidade para trazer
+                    soluções práticas e inovadoras</p>
             </div>
         </div>
     </section>
@@ -104,11 +100,14 @@ include 'componentes/navbar.html';
         <div class="parceirias" style="padding-bottom: 7%; padding-top: 0.5%;">
             <a href="https://www.ambev.com.br/"><img src="images/parceiros/AMBEV_LOGO.png"
                                                      style="height: 10%; width: 10%; margin-left: 16%;"></a>
-            <img src="images/parceiros/fejepe.png" style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;">
-            <img src="images/parceiros/upe.png" style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;">
-            <img src="images/parceiros/poli.png" style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;">
-            <img src="images/parceiros/empreender.png"
-                 style="height: 29%; width: 19%; margin-top: 1%; margin-left: 2%;">
+            <a href="http://www.fejepe.org.br/"><img src="images/parceiros/fejepe.png"
+                                                     style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;"></a>
+            <a href="http://www.upe.br/"><img src="images/parceiros/upe.png"
+                                              style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;"></a>
+            <a href="http://www.poli.br/"><img src="images/parceiros/poli.png"
+                                               style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;"></a>
+            <a href="http://www.empreenderdinheiro.com/"><img src="images/parceiros/empreender.png"
+                                                              style="height: 29%; width: 19%; margin-top: 1%; margin-left: 2%;"></a>
         </div>
     </div>
 </div>
