@@ -1,4 +1,6 @@
-
+body,html{
+	font-family: 'Montserrat';
+}
 #titulo{
 	margin-top: 12%;
 	padding-bottom: 3%;
