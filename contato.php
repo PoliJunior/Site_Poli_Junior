@@ -106,6 +106,9 @@
         <script type="text/javascript" src="js/map-script.js"></script>
         <script type="text/javascript" src="js/app.js"></script>
         <script type="text/javascript" src="js/funcoes.js"></script>
+        <script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css'></script>
+        <script src='http://code.jquery.com/jquery-1.11.1.min.js'></script>
+        <script  src="js/index.js"></script>
 
         </html>
     </DOCTYPE>

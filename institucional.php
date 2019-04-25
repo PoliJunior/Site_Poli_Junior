@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Institucional</title>
 </head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
@@ -15,16 +16,20 @@
 <link rel="stylesheet" href="css/responsive.css">
 <link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="css/institucional.css">
+<link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css'>
+
 
 <body>
     <?php
     include 'componentes/navbar.html';
     ?>
+
+    
 <div class="geral">
+    <div class="fundo">
 <div class="textos">
-    <!-- <canvas id="playArea"> -->
+    <div id="particles-js"></div>
     <div class="row-textos1">
-        <img class="imagem" src="./images/coisinha.jpeg">
         <div class="texto1">
             <p>
                 <h2>Quem somos</h2></p>
@@ -43,11 +48,10 @@
             </div>
         </div>
         <div class="row-textos2">
-                <img class="imagem" src="./images/coisinha.jpeg">
             <div class="texto2">
                 <p>
                     <h2>Movimento Empresa Junior</h2></p>
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
+                    <p style="margin-bottom: 0% !important;">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
                     
                         literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
                         Hampden-Sydney
@@ -67,10 +71,8 @@
                     </p>
                 </div>
             </div>
-        </canvas>
-        </canvas>
         </div>
-
+        </div>
             <div class="porque">
                 <section class="section--blue wow slideInLeft" data-wow-delay="0.1s">
 
@@ -206,6 +208,11 @@
 <script type="text/javascript" src="js/map-script.js"></script>
 <script type="text/javascript" src="js/app.js"></script>
 <script type="text/javascript" src="js/funcoes.js"></script>
+<script src="js/institucional.js"></script>
+<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
+<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>
+<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js'></script>
+
 
 </body>
 </html>
