@@ -16,7 +16,6 @@
 <link rel="stylesheet" href="css/responsive.css">
 <link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="css/institucional.css">
-<link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css'>
 
 
 <body>

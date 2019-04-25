@@ -130,21 +130,21 @@
     <div class="atuacoes">
         <div class="atuacoes1">
             <div class="op1">
-                <img src="images/atuacao/automacaoPOLIJUNIOR.png" style="margin-left: 0.5%;"><a
+                <img src="images/atuacao/ino.png" style="margin-left: 0.5%;"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%;" href="">AUTOMAÇÃO </a>
             </div>
             <div class="op1">
-                <img src="images/atuacao/mecanicaPOLIJUNIOR.png"><a
+                <img src="images/atuacao/industria.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">MECÂNICA </a>
             </div>
             <div class="op2">
-                <img src="images/atuacao/civilPOLIJUNIOR.png"><a
+                <img src="images/atuacao/cc.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CIVIL</a>
             </div>
         </div>
         <div class="atuacoes1">
             <div class="op1">
-                <img src="images/atuacao/webPOLIJUNIOR.png"> <a
+                <img src="images/atuacao/inst.png"> <a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">WEB</a>
             </div>
             <div class="op1">
@@ -152,7 +152,7 @@
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">ELÉTRICA</a>
             </div>
             <div class="op2">
-                <img src="images/atuacao/sistemasPOLIJUNIOR.png"><a
+                <img src="images/atuacao/ino.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">SISTEMAS</a>
             </div>
         </div>
