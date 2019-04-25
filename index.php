@@ -157,7 +157,7 @@
         </div>
     </section>
 
-    <section class="resultado" style="background-image: url(images/projetos.jpeg);">
+    <section class="resultado" style="background-image: url(images/Novas/lolo.jpg); background-position: 25% 60%;">
         <div class="row">
             <div class="col-xs-12">
                 <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;">OS NOSSOS

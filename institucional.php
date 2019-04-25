@@ -21,6 +21,7 @@
     include 'componentes/navbar.html';
     ?>
 <div class="geral">
+<div class="textos">
     <!-- <canvas id="playArea"> -->
     <div class="row-textos1">
         <img class="imagem" src="./images/coisinha.jpeg">
@@ -41,7 +42,6 @@
                 sociedade brasileira.</p>
             </div>
         </div>
-
         <div class="row-textos2">
                 <img class="imagem" src="./images/coisinha.jpeg">
             <div class="texto2">
@@ -67,10 +67,11 @@
                     </p>
                 </div>
             </div>
-     <!-- </canvas> -->
+        </canvas>
+        </canvas>
         </div>
-            <div class="porque">
 
+            <div class="porque">
                 <section class="section--blue wow slideInLeft" data-wow-delay="0.1s">
 
                     <div class="card">
@@ -150,6 +151,7 @@
                             ea commodo consequat.</p>
                         </div>
                     </div>
+                </div>
 
                     <?php
                     include 'componentes/news.php';
