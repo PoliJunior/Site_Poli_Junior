@@ -1,0 +1,23 @@
+html body{
+	font-family: 'Montserrat';
+}
+#card{
+	width: 23%; 
+	height:40%;
+	text-align: center;
+	margin-left: 12%;
+	border-style: solid;
+	border-width: 9px 7px 5px 7px;
+	border-color: #ff0000 #00ff00 #0000ff rgb(250,0,255);
+}
+.btn{
+	background-color: yellow;
+}
+.card-title{
+	font-size: 25px;
+}
+
+.card-text{
+	width: 55%;
+	margin-left: 22%;
+}

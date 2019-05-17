@@ -32,10 +32,36 @@
         padding-bottom: 10px;
     }
 
+    #item{
+        padding: 48% 0% 0% 0% !important;
+        /*margin-left: 30% !important;*/
+    }
+
+    #item1{
+        padding: 48% 0% 0% 50% !important;
+
+    }
+    #navMain{
+        width:70% !important;
+        margin-left: 20% !important;
+    }
+    #container{
+        margin: 0% 0% 0% 0% !important;
+        width: 100% !important;
+    }
+
+    #menu{
+        pa
+    }
+
+    #logo{
+        margin-left: 95% !important;
+    }
+
 </style>
 
 <div class="navbar navbar-inverse navbar-fixed-top opaque-navbar" style="height: 9.7%;">
-    <div class="container">
+    <div class="container" id="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navMain">
                 <span class="glyphicon glyphicon-chevron-right" style="color:white;"></span>
@@ -46,8 +72,8 @@
         <div class="collapse navbar-collapse" id="navMain">
 
             <ul class="nav navbar-nav pull-right social">
-                <li><a href="#" classe="item"><img style="height: 25px" src="./images/fac.png"></a></li>
-                <li><a href="#" classe="item"><img style="height: 25px" src="./images/lin.png"></a></li>
+                <li><a href="#" id="item"><img style="height: 25px" src="./images/fac.png"></a></li>
+                <li><a href="#" id="item1"><img style="height: 25px" src="./images/lin.png"></a></li>
             </ul>
 
             <ul class="nav navbar-nav pull-right">
@@ -57,7 +83,7 @@
                     <a href="#" id="menu" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                        aria-expanded="false">Serviços<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Civíl</a></li>
+                        <li><a href="./civil-servico.php">Civíl</a></li>
                         <li><a href="#">Elétrica</a></li>
                         <li><a href="./ecomp-servico.php">Computação</a></li>
                         <li><a href="#">Automação</a></li>

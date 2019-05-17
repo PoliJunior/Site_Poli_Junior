@@ -121,8 +121,8 @@ body,html {
 
 
 .section--blue {
-    margin-left: 7%;
-    margin-right: 7%;
+  margin-left: 8.5%;
+  margin-right: 7%;
 }
 
 .banner {
@@ -132,6 +132,7 @@ body,html {
 
 .banner .row {
     text-align: center;
+    width: 100% !important;
     margin-top: 50px;
     display: flex;
     flex-direction: column;
@@ -146,6 +147,9 @@ body,html {
 .banner h1 {
     color: white;
 
+}
+#atuacao{
+    height:99% !important; 
 }
 
 .atuacao {
@@ -164,10 +168,16 @@ body,html {
     height: 10%;
 }
 
-.resultado{
-    height: 400px !important;
+#resultado{
+    height: 615px !important;
     background:no-repeat;
     background-size: cover;
+
+}
+
+.resultado:after{
+    background-color:black;
+     content:'';
 }
 .row{
     /*height: 40% !important;*/
@@ -303,8 +313,9 @@ ul.dropdown-menu {
 }
 
 .col-xs-12 {
-    border-bottom: 25px;
-    border-bottom-style: wave;
+    width: 90%;
+    /*border-bottom: 25px;*/
+    /*border-bottom-style: wave;*/
 }
 
 .projetos-title {

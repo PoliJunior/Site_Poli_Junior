@@ -10,6 +10,7 @@
 
     <!-- // CSS FILES // -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link rel="stylesheet" href="css/animate.min.css">
@@ -126,7 +127,7 @@
 </div>
 
 <section id="atuacao">
-    <h1 id="atuacoesres" style="font-family: 'Montserrat'"> Nossa Atuação </h1>
+    <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> Nossa Atuação </h1>
     <div class="atuacoes">
         <div class="atuacoes1">
             <div class="op1">
@@ -157,313 +158,307 @@
             </div>
         </div>
     </section>
+    <div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 
+    background-attachment: fixed; filter:brightness(100%);">
+    <div class="row-resultado" style="width: 100%; height: 100%;">
+        <div class="col-xs-12" style="width: 70%; height: 60%;">
+            <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;float: left; margin-left: 7%;">OS NOSSOS
+            RESULTADOS</h2>
+            <div class="row" style="text-align: center; width: 100%; margin-top:33%; margin-left: 25%;  ">
 
-    <section class="resultado" style="background-image: url(images/Novas/lolo.jpg); background-position: 25% 60%;">
-        <div class="row">
-            <div class="col-xs-12">
-                <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;">OS NOSSOS
-                    RESULTADOS <b style="color: #ffff1">EM TEMPO REAL</b></h2>
-                    <div class="row" style="text-align: center">
-
-                        <div class="col-xs-6"
-                        "><h2 id="numero" style="margin-left: 5%;">390</h2></div>
-                        <div class="col-xs-6"><h2 id="numero">100%</h2></div>
-                    </div>
-                    <div class="row" style="text-align: center">
-                        <div class="col-xs-6"><h2>Consultorias realizadas</h2></div>
-                        <div class="col-xs-6"><h2>Clientes satisfeitos</h2></div>
-                    </div>
-
-
-                </div>
+                <div class="col-xs-6"
+                "><h2 id="numero" style="padding-top: 5%; float:right; width: 100%;margin-top: 33%;">390</h2></div>
+                <div class="col-xs-6"><h2 id="numero">100%</h2></div>
             </div>
+            <div class="row" style="text-align: center; margin-left: 30%;">
+                <div class="col-xs-6"><h2>Consultorias realizadas</h2></div>
+                <div class="col-xs-6" style="margin-left:;"><h2>Clientes satisfeitos</h2></div>
+            </div>
+        </div>
+    </div>
+</div>
 
-        </section>
+<div id="project-section">
+    <div class="container">
+        <div class="theme-title">
+            <h2 class="projetos-title">Nossos melhores projetos</h2>
+            <p class="textoP">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has
+                been<br> the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+            of type.</p>
+        </div> <!-- /.theme-title -->
 
+        <div class="project-menu">
+            <ul id="projetos">
+                <li class="filter tran3s" data-filter=".web">Cívil</li>
+                <li class="filter tran3s" data-filter=".photo">Elétrica</li>
+                <li class="filter tran3s" data-filter=".webd">Web</li>
+                <li class="filter tran3s" data-filter=".om">Automação</li>
+                <li class="filter tran3s" data-filter=".dmedia">Mecanica</li>
+                <li class="filter tran3s" data-filter=".support">Sistemas</li>
+            </ul>
+        </div>
 
-        <div id="project-section">
-            <div class="container">
-                <div class="theme-title">
-                    <h2 class="projetos-title">Nossos melhores projetos</h2>
-                    <p class="textoP">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has
-                        been<br> the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                    of type.</p>
-                </div> <!-- /.theme-title -->
+        <div class="project-gallery clear-fix">
+            <div class="mix grid-item web webd dmedia support">
+                <div class="single-img">
+                    <img src="images/project/1.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Ferrazcon</a></h6>
+                                    <ul>
+                                        <li>Site /</li>
+                                        <li>Institucional /</li>
+                                        <li>Desenvolvimento /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
 
-                <div class="project-menu">
-                    <ul id="projetos">
-                        <li class="filter tran3s" data-filter=".web">Cívil</li>
-                        <li class="filter tran3s" data-filter=".photo">Elétrica</li>
-                        <li class="filter tran3s" data-filter=".webd">Web</li>
-                        <li class="filter tran3s" data-filter=".om">Automação</li>
-                        <li class="filter tran3s" data-filter=".dmedia">Mecanica</li>
-                        <li class="filter tran3s" data-filter=".support">Sistemas</li>
-                    </ul>
-                </div>
+            <div class="mix grid-item web webd dmedia support">
+                <div class="single-img">
+                    <img src="images/project/2.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Poli Junior</a></h6>
+                                    <ul>
+                                        <li>Site /</li>
+                                        <li>Institucional /</li>
+                                        <li>Produto /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
 
-                <div class="project-gallery clear-fix">
-                    <div class="mix grid-item web webd dmedia support">
-                        <div class="single-img">
-                            <img src="images/project/1.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Ferrazcon</a></h6>
-                                            <ul>
-                                                <li>Site /</li>
-                                                <li>Institucional /</li>
-                                                <li>Desenvolvimento /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
+            <div class="mix grid-item photo webd support">
+                <div class="single-img">
+                    <img src="images/project/3.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Sweet Photo</a></h6>
+                                    <ul>
+                                        <li>Business /</li>
+                                        <li>Service /</li>
+                                        <li>Product /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
+
+            <div class="mix grid-item web om">
+                <div class="single-img">
+                    <img src="images/project/4.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Sweet Photo</a></h6>
+                                    <ul>
+                                        <li>Business /</li>
+                                        <li>Service /</li>
+                                        <li>Product /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
+
+            <div class="mix grid-item photo webd dmedia om">
+                <div class="single-img">
+                    <img src="images/project/5.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Sweet Photo</a></h6>
+                                    <ul>
+                                        <li>Business /</li>
+                                        <li>Service /</li>
+                                        <li>Product /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
+
+            <div class="mix grid-item web webd dmedia om">
+                <div class="single-img">
+                    <img src="images/project/6.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Sweet Photo</a></h6>
+                                    <ul>
+                                        <li>Business /</li>
+                                        <li>Service /</li>
+                                        <li>Product /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
+
+            <div class="mix grid-item photo om support">
+                <div class="single-img">
+                    <img src="images/project/7.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Sweet Photo</a></h6>
+                                    <ul>
+                                        <li>Business /</li>
+                                        <li>Service /</li>
+                                        <li>Product /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
+
+            <div class="mix grid-item web support">
+                <div class="single-img">
+                    <img src="images/project/8.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Sweet Photo</a></h6>
+                                    <ul>
+                                        <li>Business /</li>
+                                        <li>Service /</li>
+                                        <li>Product /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
+
+            <div class="mix grid-item photo webd dmedia support">
+                <div class="single-img">
+                    <img src="images/project/9.jpg" alt="Image">
+                    <div class="opacity">
+                        <div class="border-shape">
+                            <div>
+                                <div>
+                                    <h6><a href="#">Sweet Photo</a></h6>
+                                    <ul>
+                                        <li>Business /</li>
+                                        <li>Service /</li>
+                                        <li>Product /</li>
+                                        <li>Template</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> <!-- /.border-shape -->
+                    </div> <!-- /.opacity -->
+                </div> <!-- /.single-img -->
+            </div> <!-- /.grid-item -->
+
+        </div> <!-- /.project-gallery -->
+    </div> <!-- /.container -->
+</div> <!-- /#project-section -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Carousel indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+                <!-- Wrapper for carousel items -->
+                <div class="carousel-inner">
+                    <div class="item carousel-item active">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="media">
+                                    <div class="media-left d-flex mr-3">
+                                        <a href="#">
+                                            <img src="images/primeiro.png" alt="">
+                                        </a>
                                     </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item web webd dmedia support">
-                        <div class="single-img">
-                            <img src="images/project/2.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Poli Junior</a></h6>
-                                            <ul>
-                                                <li>Site /</li>
-                                                <li>Institucional /</li>
-                                                <li>Produto /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item photo webd support">
-                        <div class="single-img">
-                            <img src="images/project/3.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Sweet Photo</a></h6>
-                                            <ul>
-                                                <li>Business /</li>
-                                                <li>Service /</li>
-                                                <li>Product /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item web om">
-                        <div class="single-img">
-                            <img src="images/project/4.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Sweet Photo</a></h6>
-                                            <ul>
-                                                <li>Business /</li>
-                                                <li>Service /</li>
-                                                <li>Product /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item photo webd dmedia om">
-                        <div class="single-img">
-                            <img src="images/project/5.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Sweet Photo</a></h6>
-                                            <ul>
-                                                <li>Business /</li>
-                                                <li>Service /</li>
-                                                <li>Product /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item web webd dmedia om">
-                        <div class="single-img">
-                            <img src="images/project/6.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Sweet Photo</a></h6>
-                                            <ul>
-                                                <li>Business /</li>
-                                                <li>Service /</li>
-                                                <li>Product /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item photo om support">
-                        <div class="single-img">
-                            <img src="images/project/7.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Sweet Photo</a></h6>
-                                            <ul>
-                                                <li>Business /</li>
-                                                <li>Service /</li>
-                                                <li>Product /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item web support">
-                        <div class="single-img">
-                            <img src="images/project/8.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Sweet Photo</a></h6>
-                                            <ul>
-                                                <li>Business /</li>
-                                                <li>Service /</li>
-                                                <li>Product /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                    <div class="mix grid-item photo webd dmedia support">
-                        <div class="single-img">
-                            <img src="images/project/9.jpg" alt="Image">
-                            <div class="opacity">
-                                <div class="border-shape">
-                                    <div>
-                                        <div>
-                                            <h6><a href="#">Sweet Photo</a></h6>
-                                            <ul>
-                                                <li>Business /</li>
-                                                <li>Service /</li>
-                                                <li>Product /</li>
-                                                <li>Template</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div> <!-- /.border-shape -->
-                            </div> <!-- /.opacity -->
-                        </div> <!-- /.single-img -->
-                    </div> <!-- /.grid-item -->
-
-                </div> <!-- /.project-gallery -->
-            </div> <!-- /.container -->
-        </div> <!-- /#project-section -->
-
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
-                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                        <!-- Carousel indicators -->
-                        <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                        </ol>
-                        <!-- Wrapper for carousel items -->
-                        <div class="carousel-inner">
-                            <div class="item carousel-item active">
-                                <div class="row">
-                                    <div class="col-sm-12">
-                                        <div class="media">
-                                            <div class="media-left d-flex mr-3">
-                                                <a href="#">
-                                                    <img src="images/primeiro.png" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="media-body">
-                                                <div class="testimonial">
-                                                    <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                                    tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                                    <p class="overview"><b>Paula Wilson</b>, Media Analyst</p>
-                                                </div>
-                                            </div>
+                                    <div class="media-body">
+                                        <div class="testimonial">
+                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
+                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
+                                            <p class="overview"><b>Paula Wilson</b>, Media Analyst</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="item carousel-item">
-                                <div class="row">
-                                    <div class="col-sm-12">
-                                        <div class="media">
-                                            <div class="media-left d-flex mr-3">
-                                                <a href="#">
-                                                    <img src="images/primeiro.png" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="media-body">
-                                                <div class="testimonial">
-                                                    <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                                    tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                                    <p class="overview"><b>Michael Holz</b>, Seo Analyst</p>
-                                                </div>
-                                            </div>
+                        </div>
+                    </div>
+                    <div class="item carousel-item">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="media">
+                                    <div class="media-left d-flex mr-3">
+                                        <a href="#">
+                                            <img src="images/primeiro.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="testimonial">
+                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
+                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
+                                            <p class="overview"><b>Michael Holz</b>, Seo Analyst</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="item carousel-item">
-                                <div class="row">
-                                    <div class="col-sm-12">
-                                        <div class="media">
-                                            <div class="media-left d-flex mr-3">
-                                                <a href="#">
-                                                    <img src="images/primeiro.png" alt="">
-                                                </a>
-                                            </div>
-                                            <div class="media-body">
-                                                <div class="testimonial">
-                                                    <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                                    tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                                    <p class="overview"><b>Martin Sommer</b>, UX Analyst</p>
-                                                </div>
-                                            </div>
+                        </div>
+                    </div>
+                    <div class="item carousel-item">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="media">
+                                    <div class="media-left d-flex mr-3">
+                                        <a href="#">
+                                            <img src="images/primeiro.png" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="testimonial">
+                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
+                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
+                                            <p class="overview"><b>Martin Sommer</b>, UX Analyst</p>
                                         </div>
                                     </div>
                                 </div>
@@ -472,46 +467,48 @@
                     </div>
                 </div>
             </div>
-        </div> <!-- /#depoimento-section -->
-
-        <?php
-        include 'componentes/news.php';
-        ?>
-
-        <?php
-        include 'componentes/footer.php';
-        ?>
-
-        <!-- Js File_________________________________ -->
-
+        </div>
     </div>
-    <script src="js/wow.js"></script>
-    <script>
-        wow = new WOW(
-        {
-            animateClass: 'animated',
-            offset: 100,
-            callback: function (box) {
-                console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
-            }
-        }
-        );
-        wow.init();
-        document.getElementById('moar').onclick = function () {
-            var section = document.createElement('section');
-            section.className = 'section--purple wow fadeInDown';
-            this.parentNode.insertBefore(section, this);
-        };
-    </script>
-    <!-- j Query -->
+</div> <!-- /#depoimento-section -->
 
-    <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
-    <script type="text/javascript" src="js/theme.js"></script>
-    <script type="text/javascript" src="js/map-script.js"></script>
-    <script type="text/javascript" src="js/app.js"></script>
-    <script type="text/javascript" src="js/funcoes.js"></script>
-    <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
+<?php
+include 'componentes/news.php';
+?>
+
+<?php
+include 'componentes/footer.php';
+?>
+
+<!-- Js File_________________________________ -->
+
+</div>
+<script src="js/wow.js"></script>
+<script>
+    wow = new WOW(
+    {
+        animateClass: 'animated',
+        offset: 100,
+        callback: function (box) {
+            console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+        }
+    }
+    );
+    wow.init();
+    document.getElementById('moar').onclick = function () {
+        var section = document.createElement('section');
+        section.className = 'section--purple wow fadeInDown';
+        this.parentNode.insertBefore(section, this);
+    };
+</script>
+<!-- j Query -->
+
+<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+<script type="text/javascript" src="js/theme.js"></script>
+<script type="text/javascript" src="js/map-script.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript" src="js/funcoes.js"></script>
+<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js'></script>
 

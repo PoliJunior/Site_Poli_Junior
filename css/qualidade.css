@@ -40,7 +40,9 @@ body,html{
 .cardimginovacao{
     width: 350px;
     height: 110px;
-    background-image: url("../images/qualidade/inovacaoPOLIJUNIOR.png");
+    margin: 0px 0px 0px 66px;
+    overflow: hidden;
+    background-image: url("../images/qualidade/lamp.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

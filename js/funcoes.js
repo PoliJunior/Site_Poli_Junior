@@ -24,4 +24,4 @@ function typeWritter(texto, idElemento, tempo) {
     }, tempo);
 }
 
-typeWritter('HÁ 16 ANOS SOLUCIONANDO PROBLEMAS\n DE ENGENHARIA EM PROL DA SOCIEDADE. ', 'log', 50);
+typeWritter('HÁ 13 ANOS SOLUCIONANDO PROBLEMAS\n DE ENGENHARIA EM PROL DA SOCIEDADE. ', 'log', 50);
