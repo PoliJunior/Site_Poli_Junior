@@ -308,8 +308,15 @@ ul.dropdown-menu {
 #numero {
     color: #f8e81a;
     font-size: 60px;
-    padding-top: 21%;
+    padding-top: 35%;
     padding-bottom: 0% !important;
+}
+
+#consultoria{
+    margin-left: 2%;
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+    width: 34%;
 }
 
 .col-xs-12 {
