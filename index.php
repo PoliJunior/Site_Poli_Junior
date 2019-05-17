@@ -9,8 +9,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
     <!-- // CSS FILES // -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="https://maxcdn.boo;tstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
     <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link rel="stylesheet" href="css/animate.min.css">
@@ -116,7 +117,9 @@
     <section class="section--blue wow slideInLeft" data-wow-delay="0.9s">
 
         <div class="card31">
-            <div id="cardimginovacao1" class="cardimginovacao"></div>
+            <div id="cardimginovacao1" class="">
+                <img src="images/qualidade/lamp.png" width="230" height="128">
+            </div>
             <div class="card-title1"><h3 style="text-align: center; margin-top:10%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center;" class="textocard">Trabalhamos junto à sua necessidade
                 para trazer
@@ -164,7 +167,7 @@
         <div class="col-xs-12" style="width: 70%; height: 60%;">
             <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;float: left; margin-left: 7%;">OS NOSSOS
             RESULTADOS</h2>
-            <div class="row" style="text-align: center; width: 100%; margin-top:33%; margin-left: 25%;  ">
+            <div class="row" style="text-align: center; width: 100% !important; margin-top:33%; margin-left: 25%;  ">
 
                 <div class="col-xs-6"
                 "><h2 id="numero" style="padding-top: 5%; float:right; width: 100%;margin-top: 33%;">390</h2></div>
