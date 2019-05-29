@@ -133,34 +133,35 @@
     <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> Nossa Atuação </h1>
     <div class="atuacoes">
         <div class="atuacoes1">
-            <div class="op1">
+            <div class="box">
                 <img src="images/atuacao/ino.png" style="margin-left: 0.5%;"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%;" href="">AUTOMAÇÃO </a>
             </div>
-            <div class="op1">
+            <div class="box">
                 <img src="images/atuacao/industria.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">MECÂNICA </a>
             </div>
-            <div class="op2">
+            <!-- <div class="op2">
                 <img src="images/atuacao/cc.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CIVIL</a>
-            </div>
+            </div> -->
         </div>
         <div class="atuacoes1">
-            <div class="op1">
+            <div class="box">
                 <img src="images/atuacao/inst.png"> <a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">WEB</a>
             </div>
-            <div class="op1">
-                <img src="images/atuacao/eletricaPOLIJUNIOR.png"><a
+            <div class="box">
+                <img src="images/atuacao/cc.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">ELÉTRICA</a>
             </div>
-            <div class="op2">
+           <!--  <div class="op2">
                 <img src="images/atuacao/ino.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">SISTEMAS</a>
-            </div>
+            </div> -->
         </div>
     </section>
+    <section style="height: 50px;"></section>
     <div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 
     background-attachment: fixed; filter:brightness(100%);">
     <div class="row-resultado" style="width: 100%; height: 100%;">
@@ -185,9 +186,7 @@
     <div class="container">
         <div class="theme-title">
             <h2 class="projetos-title">Nossos melhores projetos</h2>
-            <p class="textoP">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has
-                been<br> the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-            of type.</p>
+            <p class="textoP"></p>
         </div> <!-- /.theme-title -->
 
         <div class="project-menu">
