@@ -10,6 +10,7 @@ body,html{
     
     width: 100%;
     box-sizing: border-box;
+    margin-top: 3% !important;
 }   
 .card{
     width: 100%;
@@ -23,8 +24,8 @@ body,html{
 
 .cardimgqualidade{
     width: 350px;
-    height: 138px;
-    background-image: url("../images/qualidade/qualidadePOLIJUNIOR.png");
+    height: 128px !important;
+    background-image: url("../images/qualidade/QUALI.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -32,17 +33,17 @@ body,html{
 .cardimgpreco{
     width: 350px;
     height: 138px;
-    background-image: url("../images/qualidade/precoPOLIJUNIOR.png");
+    background-image: url("../images/qualidade/SIFRAO.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-.cardimginovacao{
+.cardimginovacao1{
     width: 350px;
     height: 110px;
     margin: 0px 0px 0px 66px;
     overflow: hidden;
-    /*background-image: url("../images/qualidade/lamp.png");*/
+    background-image: url("../images/qualidade/INO.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
