@@ -76,6 +76,9 @@ body,html {
     width: 25%;
     margin: 10%;
 }
+.card-title1{
+    margin-top: 4% !important;
+}
 
 .card3 {
     text-align: center;
@@ -83,7 +86,6 @@ body,html {
     height: 30%;
     margin-right: 27%;
 }
-
 .card1 {
     text-align: center;
     width: 25%;

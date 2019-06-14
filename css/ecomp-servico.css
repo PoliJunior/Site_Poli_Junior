@@ -4,6 +4,8 @@
 
 body{
 	margin-top: 90px;
+  background-image: linear-gradient(to bottom, transparent -50%, #fff 20%), url("../images/Novas/tec.jpg") !important;
+  background-position: 25% 90%;
 }
 
 .site-header{

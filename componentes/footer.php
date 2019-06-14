@@ -105,7 +105,7 @@
         margin-top: 50px;
     }
     #siganos{
-        margin-left: 5%;
+        margin-left: 3%;
     }
 
     #siganos1{

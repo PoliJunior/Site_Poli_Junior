@@ -1,6 +1,27 @@
 /** ************************************************************************************************
 *********************************************** CARDS **********************************************
 ****************************************************************************************************/
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700');
+/*----bootstrap css ----- */
+@import url('../vendor/bootstrap/bootstrap.css');
+/*----font awesome -------*/
+@import url('../fonts/font-awesome/css/font-awesome.min.css');
+/*----revolution-slider---*/
+@import url('../vendor/revolution/settings.css');
+@import url('../vendor/revolution/layers.css');
+@import url('../vendor/revolution/navigation.css');
+/*----owl-carousel css----*/
+@import url('../vendor/owl-carousel/owl.carousel.css');
+@import url('../vendor/owl-carousel/owl.theme.css');
+/*-------- animated css ------*/
+@import url('../vendor/WOW-master/css/libs/animate.css');
+/*---- Progress bar css----*/
+@import url('../vendor/skills-master/source/habilidades.css');
+/*-------- hover css ------*/
+@import url('../vendor/hover.css');
+/*----calendar css--------*/
+@import url('../vendor/monthly-master/css/monthly.css');
+
 body,html{
     font-family: 'Montserrat';
     height: 100%;
@@ -21,7 +42,8 @@ text {
     position: absolute;
     top: 0px;
     z-index:0;
-    margin-left: 70%;
+    margin-left: 80%;
+    margin-top: 5%;
 }
 .fundo{
      z-index: -3;
@@ -125,11 +147,27 @@ text {
     padding-left: 4%;
     margin-bottom: 1%;
 }
+#partner-section {
+  margin: 100px 0 0 0;
+  background-image:linear-gradient(to right,#b90012,#750209);
+  padding: 50px 0;
+}
+#partner-section .item {
+  border:1px solid #dfdfdf;
+  height: 118px;
+  display: flex;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+#partner-section .item img {
+  margin: 0 auto;
+  height: 100px;
+}
 
 .cardimgqualidade {
     width: 350px;
     height: 138px;
-    background-image: url("../images/qualidade/qualidadePOLIJUNIOR.png");
+    background-image: url("../images/qualidade/QUALI.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -138,7 +176,7 @@ text {
 .cardimgpreco {
     width: 350px;
     height: 138px;
-    background-image: url("../images/qualidade/precoPOLIJUNIOR.png");
+    background-image: url("../images/qualidade/QUALI.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -148,7 +186,7 @@ text {
     width: 350px;
     height: 110px;
     margin: 0% 0% 0% 32%;
-    background-image: url("../images/qualidade/inovacaoPOLIJUNIOR.png");
+    background-image: url("../images/qualidade/QUALI.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
