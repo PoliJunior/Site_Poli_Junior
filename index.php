@@ -130,16 +130,16 @@
 </div>
 
 <section id="atuacao">
-    <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> Nossa Atuação </h1>
+    <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> NOSSA ATUAÇÃO </h1>
     <div class="atuacoes">
         <div class="atuacoes1">
             <div class="box">
-                <img src="images/atuacao/ino.png" style="margin-left: 0.5%;"><a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%;" href="">AUTOMAÇÃO </a>
+                <img src="images/atuacao/ino.png" style="margin-left: 0.5%;">
+                <a style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left:5%;" href="">INOVAÇÃO</a>
             </div>
             <div class="box">
                 <img src="images/atuacao/industria.png"><a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">MECÂNICA </a>
+                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA </a>
             </div>
             <!-- <div class="op2">
                 <img src="images/atuacao/cc.png"><a
@@ -149,11 +149,11 @@
         <div class="atuacoes1">
             <div class="box">
                 <img src="images/atuacao/inst.png"> <a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">WEB</a>
+                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
             </div>
             <div class="box">
                 <img src="images/atuacao/cc.png"><a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">ELÉTRICA</a>
+                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
             </div>
            <!--  <div class="op2">
                 <img src="images/atuacao/ino.png"><a
@@ -259,6 +259,9 @@
             </div>
         </div>
     </div>
+    <a id="subirTopo" style="z-index:999 !important;">
+   <img src="images/up.png" height="20" width="25">
+</a>
 </div> <!-- /#depoimento-section -->
 
 <?php
@@ -289,6 +292,28 @@ include 'componentes/footer.php';
         section.className = 'section--purple wow fadeInDown';
         this.parentNode.insertBefore(section, this);
     };
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+
+jQuery("#subirTopo").hide();
+
+jQuery('a#subirTopo').click(function () {
+         jQuery('body,html').animate({
+           scrollTop: 0
+         }, 800);
+        return false;
+   });
+
+jQuery(window).scroll(function () {
+         if (jQuery(this).scrollTop() > 1000) {
+            jQuery('#subirTopo').fadeIn();
+         } else {
+            jQuery('#subirTopo').fadeOut();
+         }
+     });
+});
 </script>
 <!-- j Query -->
 

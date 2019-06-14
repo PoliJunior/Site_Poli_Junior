@@ -9,6 +9,31 @@ body,html {
     float: left;
 }
 
+.porque{
+    /*text-align: center;*/
+}
+#subirTopo {
+text-decoration: none;
+/*background: rgba(30,156,161,.9);*/
+background: #f2f2f2 ;
+bottom: 30px;
+right: 30px;
+color: #f2f2f2;
+text-align: center;
+cursor: pointer;
+padding: 15px;
+font-size: 15px;
+font-weight: bold;
+text-transform: uppercase;
+position: fixed;
+border: 0;
+font-family: sans-serif;
+opacity: .8;
+}
+
+#subirTopo:hover {
+opacity:1;
+}
 .bannertext {
     color: white;
     font-size: 35px;
@@ -173,7 +198,7 @@ body,html {
 }
 
 #resultado{
-    height: 615px !important;
+    height: 515px !important;
     background:no-repeat;
     background-size: cover;
 
@@ -404,7 +429,7 @@ body,html {
 ***********************************************************************/
 .opaque-navbar {
     background-color: rgba(0, 0, 0, 0);
-    font-size: 18px;
+    font-size: 15px;
     /* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
     height: 75px;
     border-bottom: 0px;
