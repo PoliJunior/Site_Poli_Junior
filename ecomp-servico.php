@@ -5,6 +5,9 @@
 </head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="js/canva.js"></script> -->
+<!-- <script type="text/javascript" src="js/canva2.js"></script> -->
+<script type="text/javascript" src="js/canva3.js"></script>
 
 <!-- // CSS FILES // -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
@@ -15,6 +18,7 @@
 <link rel="stylesheet" href="css/responsive.css">
 <link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="css/ecomp-servico.css">
+<link rel="stylesheet" href="css/canva.css">
 
 <body>
 
@@ -42,11 +46,20 @@ include 'componentes/navbar.html';
 </div>
 </div>
 
+<!-- JavaScript do Canvas -->
+
+<div id= "root">
+    <div class= "_29dFFT66p2ix2AqEl1i9BW">
+        <div class="_3WrtIJ-YlwaUREj8EmCy5b">
+            <canvas class="_3IU0rZ8x7BTKfGuggf-4OS" width="1366" height="635"></canvas>
+        </div>
+    </div>
+</div>
+
 
 <div class="site-header wow slideInLeft" data-wow-delay="0.6s">
     <p>DESENVOLVIMENTO DE SITES</p>
 </div>
-
 <div class="color">
     <div class="container">
         <div class="col-xs-8 col-sm-6 wow slideInLeft" data-wow-delay="0.9s">
@@ -128,6 +141,10 @@ include 'componentes/footer.php';
 </script>
 <!-- j Query -->
 
+<!-- <script type="text/javascript" src="js/canva.js"></script> -->
+<!-- <script type="text/javascript" src="js/canva2.js"></script> -->
+<!-- <script type="text/javascript" src="js/canva3.js"></script> -->
+<script crossorigin= "anonymous" src="js/canva3.js"></script>
 <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
 <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
 <script type="text/javascript" src="js/theme.js"></script>
