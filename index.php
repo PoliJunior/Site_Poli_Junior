@@ -118,9 +118,9 @@
 
         <div class="card31">
             <div id="cardimginovacao1" class="">
-                <img src="images/qualidade/INO.png" width="130" height="128" style="margin-left: 21.5%;">
+                <img src="images/icon/Q.png" width="130" height="128" style="margin-left: 28.5%;">
             </div>
-            <div class="card-title1"><h3 style="text-align: center; margin-top:10%;" class="titulocard">Inovação</h3></div>
+            <div class="card-title1"><h3 style="text-align: center; margin-top:0%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center;" class="textocard">Trabalhamos junto à sua necessidade
                 para trazer
                 soluções práticas e inovadoras
@@ -133,10 +133,11 @@
     <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> NOSSA ATUAÇÃO </h1>
     <div class="atuacoes">
         <div class="atuacoes1">
+
             <div class="box">
                 <img src="images/atuacao/ino.png" style="margin-left: 0.5%;">
                 <a style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left:5%;" href="">INOVAÇÃO</a>
-            </div>
+                </div>
             <div class="box">
                 <img src="images/atuacao/industria.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA </a>
@@ -147,11 +148,40 @@
             </div> -->
         </div>
         <div class="atuacoes1">
-            <div class="box">
+        <div class="container-fluid">
+    <div class="row">
+        <div class="profile-head">
+            <div class="profiles col-xs-8 col-xs-push-2  col-sm-10 col-sm-push-1 thumbnail">
+                <div class="col-md-3 col-sm-3 col-xs-12">
+                    <div class="row">
+                        <img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-responsive" style="float:left;" />
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="row" style="float:left; width:20%;">
+                        <span class="col-sm-12"><h5>John Doe</h5></span>
+                        <div class="col-md-4 col-sm-6 col-xs-12" style="width:20%;">
+                            <p>Web Designer / Develpor </p>
+                            <ul>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            <!-- <div class="box">
+
                 <img src="images/atuacao/inst.png"> <a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
-            </div>
+            </div> -->
             <div class="box">
+                
                 <img src="images/atuacao/cc.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
             </div>
@@ -159,7 +189,46 @@
                 <img src="images/atuacao/ino.png"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">SISTEMAS</a>
             </div> -->
+            </div>
+            <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
+            <div class="container-fluid">
+    <div class="row">
+        <div class="profile-head">
+            <div class="profiles col-xs-8 col-xs-push-2  col-sm-10 col-sm-push-1 thumbnail">
+                <div class="col-md-3 col-sm-3 col-xs-12">
+                    <div class="row">
+                        <img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-responsive" style="float:left;" />
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="row">
+                        <span class="col-sm-12"><h5>John Doe</h5></span>
+                        <div class="col-md-4 col-sm-6 col-xs-12" style="float:right;">
+                            <p>Web Designer / Develpor </p>
+                            <ul>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <p>Web Designer / Develpor </p>
+                            <ul>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                                <li><span>Lorem ipsum</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+    </div>
+</div>
+<!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
+        
     </section>
     <section style="height: 50px;"></section>
     <div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 

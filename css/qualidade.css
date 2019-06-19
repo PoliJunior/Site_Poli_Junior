@@ -23,28 +23,28 @@ body,html{
 }
 
 .cardimgqualidade{
-    width: 350px;
+    width: 130px !important;
     height: 128px !important;
-    background-image: url("../images/qualidade/QUALI.png");
+    background-image: url("../images/icon/I.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 
 }
 .cardimgpreco{
-    width: 350px;
-    height: 138px;
-    background-image: url("../images/qualidade/SIFRAO.png");
+    width: 130px !important;
+    height: 128px;
+    background-image: url("../images/icon/PC.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .cardimginovacao1{
-    width: 350px;
-    height: 110px;
-    margin: 0px 0px 0px 66px;
+    width: 130px !important;
+    height: 128px !important;
+    margin: 0px 0px 66px !important;
     overflow: hidden;
-    background-image: url("../images/qualidade/INO.png");
+    background-image: url("../images/icon/Q.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
