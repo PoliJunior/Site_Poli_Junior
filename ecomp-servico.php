@@ -5,11 +5,7 @@
 </head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<!-- <script type="text/javascript" src="js/canva.js"></script> -->
-<!-- <script type="text/javascript" src="js/canva2.js"></script> -->
-<script src="js/webpack.js"></script>
 <script type="text/javascript" src="js/MainTemplat.js"></script>
-<script type="text/javascript" src="js/canva3.js"></script>
 
 <!-- // CSS FILES // -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
@@ -36,20 +32,7 @@ include 'componentes/navbar.html';
             electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
             Letraset sheets containing Lorem Ipsum passages.
     </div>
-    <!-- <div class="col-xs-8 col-sm-6 txt-setor wow slideInRight" data-wow-delay="0.1s">
-        <img src="images/servico/pc_POLIJUNIOR.png">
-    </div> -->
 </div>
-</div>
-
-<!-- JavaScript do Canvas -->
-
-<div id= "root">
-    <div class= "_29dFFT66p2ix2AqEl1i9BW">
-        <div class="_3WrtIJ-YlwaUREj8EmCy5b">
-            <canvas class="_3IU0rZ8x7BTKfGuggf-4OS" width="1366" height="635"></canvas>
-        </div>
-    </div>
 </div>
 
 <div class="container" >

@@ -108,7 +108,7 @@
 
         <div class="card" style="margin-right: 18%;">
             <div class="cardimgpreco"></div>
-            <div class="card-title1"><h3 style="text-align: center">Preços Competitivos</h3></div>
+            <div class="card-title1"><h3 style="text-align: center; margin-bottom:0px !important;">Preços Competitivos</h3></div>
             <div class="card-text"><p style="text-align: center">O melhor custo-benefício em serviços de engenharia</p>
             </div>
         </div>
@@ -117,8 +117,8 @@
     <section class="section--blue wow slideInLeft" data-wow-delay="0.9s">
 
         <div class="card31">
-            <div id="cardimginovacao1" class="">
-                <img src="images/icon/Q.png" width="130" height="128" style="margin-left: 28.5%;">
+            <div id="cardimginovacao1" class="" style="height:128px; width:130px; margin:0px;">
+                <img src="images/icon/Q.png" width="130" height="128" style="margin-left: 120%;">
             </div>
             <div class="card-title1"><h3 style="text-align: center; margin-top:0%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center;" class="textocard">Trabalhamos junto à sua necessidade
@@ -135,107 +135,58 @@
         <div class="atuacoes1">
 
             <div class="box">
-                <img src="images/atuacao/ino.png" style="margin-left: 0.5%;">
-                <a style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left:5%;" href="">INOVAÇÃO</a>
+                <img src="images/atuacao/ino.png" style="float:left; margin-top:0px !important;"><a
+                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0%;" href="">INOVAÇÃO</a>
+                <div style="width:100%;height:40%; margin-left:40%; width:60%;">
+                    <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
                 </div>
-            <div class="box">
-                <img src="images/atuacao/industria.png"><a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA </a>
+                <div style="width:23%;height:25%;float:left; margin-left:9%;">
+                 <a class="btn btn-warning">Saiba +</a> 
+             </div>
+         </div>
+         <div class="box">
+            <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
+            style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
+            <div style="width:100%;height:40%; margin-left:40%; width:60%;">
+                <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
             </div>
-            <!-- <div class="op2">
-                <img src="images/atuacao/cc.png"><a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CIVIL</a>
-            </div> -->
-        </div>
-        <div class="atuacoes1">
-        <div class="container-fluid">
-    <div class="row">
-        <div class="profile-head">
-            <div class="profiles col-xs-8 col-xs-push-2  col-sm-10 col-sm-push-1 thumbnail">
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <div class="row">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-responsive" style="float:left;" />
-                    </div>
-                </div>
-                <div class="col-md-9">
-                    <div class="row" style="float:left; width:20%;">
-                        <span class="col-sm-12"><h5>John Doe</h5></span>
-                        <div class="col-md-4 col-sm-6 col-xs-12" style="width:20%;">
-                            <p>Web Designer / Develpor </p>
-                            <ul>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-            <!-- <div class="box">
+            <div style="width:23%;height:25%;float:left; margin-left:9%;">
+             <a class="btn btn-warning">Saiba +</a> 
+         </div>
+     </div>
+ </div>
 
-                <img src="images/atuacao/inst.png"> <a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
-            </div> -->
-            <div class="box">
-                
-                <img src="images/atuacao/cc.png"><a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
-            </div>
-           <!--  <div class="op2">
-                <img src="images/atuacao/ino.png"><a
-                style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">SISTEMAS</a>
-            </div> -->
-            </div>
-            <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
-            <div class="container-fluid">
-    <div class="row">
-        <div class="profile-head">
-            <div class="profiles col-xs-8 col-xs-push-2  col-sm-10 col-sm-push-1 thumbnail">
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <div class="row">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-responsive" style="float:left;" />
-                    </div>
-                </div>
-                <div class="col-md-9">
-                    <div class="row">
-                        <span class="col-sm-12"><h5>John Doe</h5></span>
-                        <div class="col-md-4 col-sm-6 col-xs-12" style="float:right;">
-                            <p>Web Designer / Develpor </p>
-                            <ul>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <p>Web Designer / Develpor </p>
-                            <ul>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                                <li><span>Lorem ipsum</span></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+ <div class="atuacoes1">
+    <div class="box">
+        <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
+        style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
+        <div style="width:100%;height:40%; margin-left:40%; width:60%;">
+            <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
         </div>
+        <div style="width:23%;height:25%;float:left; margin-left:8%;">
+         <a class="btn btn-warning">Saiba +</a> 
+     </div>
+ </div>
+ <div class="box">
+    <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
+    style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
+    <div style="width:100%;height:40%; margin-left:40%; width:60%;">
+        <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
     </div>
+    <div style="width:23%;height:25%;float:left; margin-left:9%;">
+     <a class="btn btn-warning">Saiba +</a> 
+ </div>
 </div>
-<!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
-        
-    </section>
-    <section style="height: 50px;"></section>
-    <div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 
-    background-attachment: fixed; filter:brightness(100%);">
-    <div class="row-resultado" style="width: 100%; height: 100%;">
-        <div class="col-xs-12" style="width: 70%; height: 60%;">
-            <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;float: left; margin-left: 7%;">OS NOSSOS
+</div>
+
+</section>
+
+<section style="height: 50px;"></section>
+<div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 
+background-attachment: fixed; filter:brightness(100%);">
+<div class="row-resultado" style="width: 100%; height: 100%;">
+    <div class="col-xs-12" style="width: 70%; height: 60%;">
+        <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;float: left; margin-left: 7%;">OS NOSSOS
             RESULTADOS</h2>
             <div class="row" style="text-align: center; width: 145% !important; margin-top:23%; margin-left: 0%;  ">
 
@@ -276,48 +227,51 @@
                                     <div class="media-body">
                                         <div class="testimonial">
                                             <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                            <p class="overview"><b>Paula Wilson</b>, Media Analyst</p>
+                                                tempor, varius quam luctus dui. Mauris magna metus nec.</p>
+                                                <p class="overview"><b>Paula Wilson</b>, Media Analyst</p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="item carousel-item">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                            <p class="overview"><b>Michael Holz</b>, Seo Analyst</p>
+                        <div class="item carousel-item">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="media">
+                                        <div class="media-left d-flex mr-3">
+                                            <a href="#">
+                                                <img src="images/primeiro.png" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="testimonial">
+                                                <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
+                                                    tempor, varius quam luctus dui. Mauris magna metus nec.</p>
+                                                    <p class="overview"><b>Michael Holz</b>, Seo Analyst</p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="item carousel-item">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                            <p class="overview"><b>Martin Sommer</b>, UX Analyst</p>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
+                                                        tempor, varius quam luctus dui. Mauris magna metus nec.</p>
+                                                        <p class="overview"><b>Martin Sommer</b>, UX Analyst</p>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -325,76 +279,73 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <a id="subirTopo" style="z-index:999 !important;">
-   <img src="images/up.png" height="20" width="25">
-</a>
-</div> <!-- /#depoimento-section -->
+                <a id="subirTopo" style="z-index:999 !important;">
+                 <img src="images/up.png" height="20" width="25">
+             </a>
+         </div> <!-- /#depoimento-section -->
 
-<?php
-include 'componentes/news.php';
-?>
+         <?php
+         include 'componentes/news.php';
+         ?>
 
-<?php
-include 'componentes/footer.php';
-?>
+         <?php
+         include 'componentes/footer.php';
+         ?>
 
-<!-- Js File_________________________________ -->
+         <!-- Js File_________________________________ -->
 
-</div>
-<script src="js/wow.js"></script>
-<script>
-    wow = new WOW(
-    {
-        animateClass: 'animated',
-        offset: 100,
-        callback: function (box) {
-            console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+     </div>
+     <script src="js/wow.js"></script>
+     <script>
+        wow = new WOW(
+        {
+            animateClass: 'animated',
+            offset: 100,
+            callback: function (box) {
+                console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+            }
         }
-    }
-    );
-    wow.init();
-    document.getElementById('moar').onclick = function () {
-        var section = document.createElement('section');
-        section.className = 'section--purple wow fadeInDown';
-        this.parentNode.insertBefore(section, this);
-    };
-</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-<script type="text/javascript">
-jQuery(document).ready(function(){
+        );
+        wow.init();
+        document.getElementById('moar').onclick = function () {
+            var section = document.createElement('section');
+            section.className = 'section--purple wow fadeInDown';
+            this.parentNode.insertBefore(section, this);
+        };
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function(){
 
-jQuery("#subirTopo").hide();
+            jQuery("#subirTopo").hide();
 
-jQuery('a#subirTopo').click(function () {
-         jQuery('body,html').animate({
-           scrollTop: 0
-         }, 800);
-        return false;
-   });
+            jQuery('a#subirTopo').click(function () {
+               jQuery('body,html').animate({
+                 scrollTop: 0
+             }, 800);
+               return false;
+           });
 
-jQuery(window).scroll(function () {
-         if (jQuery(this).scrollTop() > 1000) {
-            jQuery('#subirTopo').fadeIn();
-         } else {
-            jQuery('#subirTopo').fadeOut();
-         }
-     });
-});
-</script>
-<!-- j Query -->
+            jQuery(window).scroll(function () {
+               if (jQuery(this).scrollTop() > 1000) {
+                jQuery('#subirTopo').fadeIn();
+            } else {
+                jQuery('#subirTopo').fadeOut();
+            }
+        });
+        });
+    </script>
+    <!-- j Query -->
 
-<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
-<script type="text/javascript" src="js/theme.js"></script>
-<script type="text/javascript" src="js/map-script.js"></script>
-<script type="text/javascript" src="js/app.js"></script>
-<script type="text/javascript" src="js/funcoes.js"></script>
-<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
-<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>
-<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js'></script>
+    <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+    <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+    <script type="text/javascript" src="js/theme.js"></script>
+    <script type="text/javascript" src="js/map-script.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/funcoes.js"></script>
+    <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
+    <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>
+    <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js'></script>
 
 </body>
 </html>
