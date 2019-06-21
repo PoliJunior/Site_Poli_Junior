@@ -99,7 +99,7 @@
 
         <div class="card">
             <div class="cardimgqualidade"></div>
-            <div class="card-title1"><h3>Qualidade</h3></div>
+            <div class="card-title1"><h3 style="margin-bottom: 0px;">Qualidade</h3></div>
             <div class="card-text"><p>Revisão feita por consultores e especialistas</p></div>
         </div>
     </section>
@@ -145,10 +145,10 @@
                     automatizar processos, prepare-se para facilitar ainda mais sua rotina.</h5>
                 </div>
                 <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-                   <a class="btn btn-warning">Saiba +</a> 
-               </div>
-           </div>
-           <div class="box">
+                 <a class="btn btn-warning">Saiba +</a> 
+             </div>
+         </div>
+         <div class="box">
             <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
             <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -157,12 +157,12 @@
                 vemos grande valor em projetar para o secundário.</h5>
             </div>
             <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-               <a class="btn btn-warning">Saiba +</a> 
-           </div>
-       </div>
-   </div>
+             <a class="btn btn-warning">Saiba +</a> 
+         </div>
+     </div>
+ </div>
 
-   <div class="atuacoes1">
+ <div class="atuacoes1">
     <div class="box">
         <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
         style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
@@ -174,10 +174,10 @@
             você precisa para que seus empreendimentos tornem se verdadeiros sucessos.</h5>
         </div>
         <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-           <a class="btn btn-warning">Saiba +</a> 
-       </div>
-   </div>
-   <div class="box">
+         <a class="btn btn-warning">Saiba +</a> 
+     </div>
+ </div>
+ <div class="box">
     <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
     <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -189,8 +189,8 @@
         qualidade e experiência possível para nossos clientes.</h5>
     </div>
     <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-       <a class="btn btn-warning">Saiba +</a> 
-   </div>
+     <a class="btn btn-warning">Saiba +</a> 
+ </div>
 </div>
 </div>
 
@@ -203,18 +203,76 @@ background-attachment: fixed; filter:brightness(100%);">
     <div class="col-xs-12" style="width: 70%; height: 60%;">
         <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;float: left; margin-left: 7%;">OS NOSSOS
         RESULTADOS</h2>
-        <div class="row" style="text-align: center; width: 145% !important; margin-top:23%; margin-left: 0%;  ">
+        <div class="row" style="text-align: center; width: 145% !important; margin-top:13%; margin-left: 0%;  ">
 
             <div class="col-xs-6" style="  
-            "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%;">390</h2></div>
-            <div class="col-xs-6"><h2 id="numero">100%</h2></div>
+            "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%;">86</h2></div>
+            <div class="col-xs-6"><h2 id="numero">274</h2></div>
         </div>
         <div class="row" style="text-align: center; margin-left: 15%; width: 129%;">
-            <div class="col-xs-6" id="consultoria"><h2>Consultorias realizadas</h2></div>
+            <div class="col-xs-6" id="consultoria"><h2>Associados</h2></div>
             <div class="col-xs-6" style="margin-left: 23%; margin-bottom: 2%;width: 30%;"><h2>Clientes satisfeitos</h2></div>
         </div>
     </div>
 </div>
+</div>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ul>
+  <ul class="caror">
+      <li>a</li>
+  </ul>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="la.jpg" alt="Los Angeles">
+    </div>
+
+    <div class="item">
+      <img src="chicago.jpg" alt="Chicago">
+    </div>
+
+    <div class="item">
+      <img src="ny.jpg" alt="New York">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<div class="carousel-control">
+     <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+     </ul>
+     <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+     </ul>
+     <ul>
+        <li>1</li>
+        <li>2</li>
+     </ul>
 </div>
 
 <div class="container">
@@ -241,9 +299,9 @@ background-attachment: fixed; filter:brightness(100%);">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
-                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                            <p class="overview"><b>Paula Wilson</b>, Media Analyst</p>
+                                            <p>O trabalho da equipe da Poli Junior foi muito bem executado, sempre bastante atenciosos
+                                            comigo e com o projeto. A solução encontrada por eles foi fundamental para a regularizaçãoda construção da minha casa na prefeitura. Recomendo-os com olhos fechados.</p>
+                                            <p class="overview"><b>Victor Matheus Santos</b>,cliente de nosso Projeto de Arquitetônico (Construção Civil).</p>
                                         </div>
                                     </div>
                                 </div>
@@ -261,9 +319,8 @@ background-attachment: fixed; filter:brightness(100%);">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
-                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                            <p class="overview"><b>Michael Holz</b>, Seo Analyst</p>
+                                            <p>Sobre o projeto, eu gostei e aprovo. Fiquei satisfeito e recomendo a Poli Junior Engenharia.</p>
+                                            <p class="overview"><b>José Carlos da Silva</b>,cliente de nosso Projeto arquitetônico(Construção Civil).</p>
                                         </div>
                                     </div>
                                 </div>
@@ -281,9 +338,15 @@ background-attachment: fixed; filter:brightness(100%);">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
-                                            <p>Lorem ipsum dolor sit amet, consec adipiscing elit. Nam eusem scelerisque
-                                            tempor, varius quam luctus dui. Mauris magna metus nec.</p>
-                                            <p class="overview"><b>Martin Sommer</b>, UX Analyst</p>
+                                            <p>“Nunca tive dúvidas em contratar o serviço. Conheço a cultura de trabalho das empresas
+                                                juniores, por isso sempre confiei que teria o que esperava. E as expectativas foram superadas.
+                                                Além do atendimento excelente e da flexibilidade que tivemos em todos os momentos, o
+                                                principal, a qualidade do serviço foi extremamente satisfatória. Aprovei o resultado final e
+                                                indiquei até para o meu professor da faculdade que também adorou. Já faço planos para novas
+                                                formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
+                                            graças a Poli Jr.”</p>
+                                            <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
+(Tecnologia).</p>
                                         </div>
                                     </div>
                                 </div>
@@ -295,8 +358,8 @@ background-attachment: fixed; filter:brightness(100%);">
         </div>
     </div>
     <a id="subirTopo" style="z-index:999 !important;">
-       <img src="images/up.png" height="20" width="25">
-   </a>
+     <img src="images/up.png" height="20" width="25">
+ </a>
 </div> <!-- /#depoimento-section -->
 
 <?php
@@ -328,11 +391,6 @@ include 'componentes/footer.php';
         this.parentNode.insertBefore(section, this);
     };
 </script>
-<script type="text/javascript">
-    $('#MyCarousel').carousel({
-    pause: true,
-    interval: false
-});</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script type="text/javascript">
     jQuery(document).ready(function(){
@@ -340,14 +398,14 @@ include 'componentes/footer.php';
         jQuery("#subirTopo").hide();
 
         jQuery('a#subirTopo').click(function () {
-         jQuery('body,html').animate({
-           scrollTop: 0
-       }, 800);
-         return false;
-     });
+           jQuery('body,html').animate({
+             scrollTop: 0
+         }, 800);
+           return false;
+       });
 
         jQuery(window).scroll(function () {
-         if (jQuery(this).scrollTop() > 1000) {
+           if (jQuery(this).scrollTop() > 1000) {
             jQuery('#subirTopo').fadeIn();
         } else {
             jQuery('#subirTopo').fadeOut();
