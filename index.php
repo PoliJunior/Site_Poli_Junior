@@ -120,8 +120,8 @@
             <div id="cardimginovacao1" class="" style="height:128px; width:130px; margin:0px;">
                 <img src="images/icon/Q.png" width="130" height="128" style="margin-left: 120%;">
             </div>
-            <div class="card-title1"><h3 style="text-align: center; margin-top:0%;" class="titulocard">Inovação</h3></div>
-            <div class="card-text"><p style="text-align: center;" class="textocard">Trabalhamos junto à sua necessidade
+            <div class="card-title1"><h3 style="text-align: center; margin-top:9%;" class="titulocard">Inovação</h3></div>
+            <div class="card-text"><p style="text-align: center; margin-left: 33%;" class="textocard">Trabalhamos junto à sua necessidade
                 para trazer
                 soluções práticas e inovadoras
             </p></div>
@@ -137,8 +137,11 @@
             <div class="box">
                 <img src="images/atuacao/ino.png" style="float:left; margin-top:0px !important;"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0%;" href="">INOVAÇÃO</a>
-                <div style="width:100%;height:40%; margin-left:40%; width:60%;">
-                    <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
+                <div style="width:100%;height:40%; margin-left:38%; width:60%;">
+                    <h5 style="height:100% !important; position:flex !important;">Nossas inovações, alinhadas com os conhecimentos de eletrônica e programação,
+buscam solucionar os seus problemas. Trabalhamos totalmente de acordo com as
+ideias e as necessidades que vocês nos trazem, buscando sempre uma forma mais
+simples e tecnológica de solucionar problemas do nosso cotidiano.</h5>
                 </div>
                 <div style="width:23%;height:25%;float:left; margin-left:9%;">
                  <a class="btn btn-warning">Saiba +</a> 
@@ -147,8 +150,8 @@
          <div class="box">
             <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
-            <div style="width:100%;height:40%; margin-left:40%; width:60%;">
-                <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
+            <div style="width:100%;height:40%; margin-left:38%; width:60%;">
+                <h5 style="height:100% !important; position:flex !important;">Nosso setor de indústria trabalha com empresas de todos os portes, de pequeno a grande, sempre priorizando o resultado da mais alta qualidade para que a vontade de nossos clientes seja completamente atendida.</h5>
             </div>
             <div style="width:23%;height:25%;float:left; margin-left:9%;">
              <a class="btn btn-warning">Saiba +</a> 
@@ -160,8 +163,10 @@
     <div class="box">
         <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
         style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
-        <div style="width:100%;height:40%; margin-left:40%; width:60%;">
-            <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
+        <div style="width:100%;height:40%; margin-left:38%; width:60%;">
+            <h5 style="height:100% !important; position:flex !important;">Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
+solução concreta. Explanamos tudo o que nossos clientes desejam do projeto para
+realizá-lo com a identidade e ideal que você precisa.</h5>
         </div>
         <div style="width:23%;height:25%;float:left; margin-left:8%;">
          <a class="btn btn-warning">Saiba +</a> 
@@ -170,8 +175,13 @@
  <div class="box">
     <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
-    <div style="width:100%;height:40%; margin-left:40%; width:60%;">
-        <h5 style="height:100% !important; position:flex !important;">aaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaa</h5>
+    <div style="width:100%;height:40%; margin-left:38%; width:60%;">
+        <h5 style="height:100% !important; position:flex !important;">Em Construção Civil, composto pelas áreas de Engenharia Civil e Elétrica,
+trabalhamos cada vez mais nos mínimos detalhes para que a entrega do seu projeto
+seja feita com a eficácia que você precisa. Além de todas as necessidades básicas,
+buscamos as tecnologias mais completas para dinamizar todo o processo do seu
+serviço.<br>Conseguirmos entregar desde projetos do zero até revitalizações, garantindo a melhor
+qualidade e experiência possível para nossos clientes.</h5>
     </div>
     <div style="width:23%;height:25%;float:left; margin-left:9%;">
      <a class="btn btn-warning">Saiba +</a> 

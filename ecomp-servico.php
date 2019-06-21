@@ -143,11 +143,20 @@ include 'componentes/navbar.html';
         <li>Sites institucionais</li>
         <li>Sistemas sob demanda</li>
     </div>
-    <div class="col-xs-8 col-sm-6 txt-setor wow slideInRight" data-wow-delay="0.1s">
+   <div class="col-xs-8 col-sm-6 txt-setor wow slideInRight" data-wow-delay="0.1s">
         <img src="images/servico/pc_POLIJUNIOR.png">
 
     </div>
 </div>
+</div>
+
+<div class="vocesabia">
+  <div class="titulo-voce">
+    <h2>VOÇÊ SABIA?</h2>
+  </div>
+  <div class="texto" style="height: 60%; margin-bottom: 4%; margin-top: 3%;">
+    <p style="margin-left: 12.5%;">A implementação dessas plataformas otimiza em até x% o seu negócio!Saiba mais <a>clicando aqui</a>.</p>
+  </div>
 </div>
 
 <div style="height: 6vh"></div>
