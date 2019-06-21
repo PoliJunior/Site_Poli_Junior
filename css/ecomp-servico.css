@@ -4,9 +4,11 @@
 
 body{
 	margin-top: 90px;
-  background-image: linear-gradient(to bottom, transparent -50%, #fff 20%), url("../images/Novas/tec.jpg") !important;
+  background-image: linear-gradient(to bottom, transparent -80%, #fff 10%), url("../images/Novas/tec.jpg") !important;
   background-position: 25% 90%;
 }
+
+
 
 .site-header{
   text-align: center;
@@ -35,7 +37,17 @@ body{
   border-color: #e6e6e6;
 }
 .container{
-  margin-top: 9% !important;
+  margin-top: 5% !important;
+}
+
+.vocesabia{
+  margin-bottom: 0px !important;
+  margin-top: 3% !important;
+}
+
+.titulo-voce{
+  margin-left: 12% !important;
+
 }
 
 .txt-servico{

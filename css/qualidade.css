@@ -5,7 +5,18 @@ body,html{
 .card-text{ 
     width: 100%;
     box-sizing: border-box;
+    margin-bottom: 0px !important;
 }
+.textocard{
+    margin-bottom: 0px;
+    width:100%;
+}
+
+.titulocard{
+    margin:40px 0px 0px 63% !important;
+    text-align: center;
+}
+
 .card-title1{
     
     width: 100%;
@@ -42,7 +53,7 @@ body,html{
 .cardimginovacao1{
     width: 130px !important;
     height: 128px !important;
-    margin: 0px 0px 66px !important;
+    margin: 0px 0px 0px 0px !important;
     overflow: hidden;
     background-image: url("../images/icon/Q.png");
     background-size: contain;
@@ -58,6 +69,10 @@ body,html{
     justify-content: center;
     width: 100%;
     box-sizing: border-box;
+  }
+
+  .card31{
+    width:60% !important;
   }
 
 

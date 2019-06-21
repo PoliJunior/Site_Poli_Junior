@@ -335,12 +335,12 @@ opacity:1;
 }
 
 .box {
-    width:20%;
-    height: 240px;
+    width: 40%;
+    height: 280px;
     display: inline-block;
     font-size: 3vw;
     padding: 0vw 0vw 0vw 0vw;
-    margin-left: 15% !important;
+    margin-left: 8% !important;
     min-width: 27vw;
     margin-left: 17%;
     margin-top:4%;
@@ -507,7 +507,7 @@ h2 {
     }
 
     .textocard {
-        margin-left: 16%;
+        margin-left: 0% !important;
         text-align: center;
         width: 50% !important;
     }
