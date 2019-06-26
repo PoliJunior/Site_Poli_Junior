@@ -145,10 +145,10 @@
                     automatizar processos, prepare-se para facilitar ainda mais sua rotina.</h5>
                 </div>
                 <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-                 <a class="btn btn-warning">Saiba +</a> 
-             </div>
-         </div>
-         <div class="box">
+                   <a class="btn btn-warning">Saiba +</a> 
+               </div>
+           </div>
+           <div class="box">
             <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
             <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -157,12 +157,12 @@
                 vemos grande valor em projetar para o secundário.</h5>
             </div>
             <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-             <a class="btn btn-warning">Saiba +</a> 
-         </div>
-     </div>
- </div>
+               <a class="btn btn-warning">Saiba +</a> 
+           </div>
+       </div>
+   </div>
 
- <div class="atuacoes1">
+   <div class="atuacoes1">
     <div class="box">
         <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
         style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
@@ -174,10 +174,10 @@
             você precisa para que seus empreendimentos tornem se verdadeiros sucessos.</h5>
         </div>
         <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-         <a class="btn btn-warning">Saiba +</a> 
-     </div>
- </div>
- <div class="box">
+           <a class="btn btn-warning">Saiba +</a> 
+       </div>
+   </div>
+   <div class="box">
     <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
     <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -189,8 +189,8 @@
         qualidade e experiência possível para nossos clientes.</h5>
     </div>
     <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-     <a class="btn btn-warning">Saiba +</a> 
- </div>
+       <a class="btn btn-warning">Saiba +</a> 
+   </div>
 </div>
 </div>
 </section>
@@ -200,181 +200,94 @@
 <div class="container">
   <a role="button" class="btn btn-primary" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
     Tecnologia
-  </a>
-  <a class="btn btn-primary" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+</a>
+<a class="btn btn-primary" role="button2" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
     Industria
-  </a>
-  <a class="btn btn-primary" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+</a>
+<a class="btn btn-primary" role="button3" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
     Inovação
-  </a>
-  <a class="btn btn-primary" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+</a>
+<a class="btn btn-primary" role="button4" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
     Construção Civil
-  </a>
-  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+</a>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
     <div class="panel">
       <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel">
         <div>
           <div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-            <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
-            <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-                <!-- Carousitel indicators -->
-                <ol class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0"  class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                </ol>
-                <!-- Wrapper for carousel items -->
-                <div class="carousel-inner">
-                    <div class="item carousel-item active">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>O trabalho da equipe da Poli Junior foi muito bem executado, sempre bastante atenciosos
-                                            comigo e com o projeto. A solução encontrada por eles foi fundamental para a regularizaçãoda construção da minha casa na prefeitura. Recomendo-os com olhos fechados.</p>
-                                            <p class="overview"><b>Victor Matheus Santos</b>,cliente de nosso Projeto de Arquitetônico (Construção Civil).</p>
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                        <!-- Carousitel indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0"  class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Wrapper for carousel items -->
+                        <div class="carousel-inner">
+                            <div class="item carousel-item active">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>O trabalho da equipe da Poli Junior foi muito bem executado, sempre bastante atenciosos
+                                                    comigo e com o projeto. A solução encontrada por eles foi fundamental para a regularizaçãoda construção da minha casa na prefeitura. Recomendo-os com olhos fechados.</p>
+                                                    <p class="overview"><b>Victor Matheus Santos</b>,cliente de nosso Projeto de Arquitetônico (Construção Civil).</p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="item carousel-item">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>Sobre o projeto, eu gostei e aprovo. Fiquei satisfeito e recomendo a Poli Junior Engenharia.</p>
-                                            <p class="overview"><b>José Carlos da Silva</b>,cliente de nosso Projeto arquitetônico(Construção Civil).</p>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>Sobre o projeto, eu gostei e aprovo. Fiquei satisfeito e recomendo a Poli Junior Engenharia.</p>
+                                                    <p class="overview"><b>José Carlos da Silva</b>,cliente de nosso Projeto arquitetônico(Construção Civil).</p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="item carousel-item">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>“Nunca tive dúvidas em contratar o serviço. Conheço a cultura de trabalho das empresas
-                                                juniores, por isso sempre confiei que teria o que esperava. E as expectativas foram superadas.
-                                                Além do atendimento excelente e da flexibilidade que tivemos em todos os momentos, o
-                                                principal, a qualidade do serviço foi extremamente satisfatória. Aprovei o resultado final e
-                                                indiquei até para o meu professor da faculdade que também adorou. Já faço planos para novas
-                                                formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
-                                            graças a Poli Jr.”</p>
-                                            <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
-(Tecnologia).</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-        </div>
-      </div>
-    </div>
-    <div class="panel">
-      <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel">
-        <div>
-    <div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-            <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
-            <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-                <!-- Carousitel indicators -->
-                <ol class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                </ol>
-                <!-- Wrapper for carousel items -->
-                <div class="carousel-inner">
-                    <div class="item carousel-item active">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>O trabalho da equipe da Poli Junior foi muito bem executado, sempre bastante atenciosos
-                                            comigo e com o projeto. A solução encontrada por eles foi fundamental para a regularizaçãoda construção da minha casa na prefeitura. Recomendo-os com olhos fechados.</p>
-                                            <p class="overview"><b>Victor Matheus Santos</b>,cliente de nosso Projeto de Arquitetônico (Construção Civil).</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item carousel-item">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>Sobre o projeto, eu gostei e aprovo. Fiquei satisfeito e recomendo a Poli Junior Engenharia.</p>
-                                            <p class="overview"><b>José Carlos da Silva</b>,cliente de nosso Projeto arquitetônico(Construção Civil).</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item carousel-item">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="media">
-                                    <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="testimonial">
-                                            <p>“Nunca tive dúvidas em contratar o serviço. Conheço a cultura de trabalho das empresas
-                                                juniores, por isso sempre confiei que teria o que esperava. E as expectativas foram superadas.
-                                                Além do atendimento excelente e da flexibilidade que tivemos em todos os momentos, o
-                                                principal, a qualidade do serviço foi extremamente satisfatória. Aprovei o resultado final e
-                                                indiquei até para o meu professor da faculdade que também adorou. Já faço planos para novas
-                                                formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
-                                            graças a Poli Jr.”</p>
-                                            <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
-(Tecnologia).</p>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>“Nunca tive dúvidas em contratar o serviço. Conheço a cultura de trabalho das empresas
+                                                        juniores, por isso sempre confiei que teria o que esperava. E as expectativas foram superadas.
+                                                        Além do atendimento excelente e da flexibilidade que tivemos em todos os momentos, o
+                                                        principal, a qualidade do serviço foi extremamente satisfatória. Aprovei o resultado final e
+                                                        indiquei até para o meu professor da faculdade que também adorou. Já faço planos para novas
+                                                        formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
+                                                    graças a Poli Jr.”</p>
+                                                    <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
+                                                    (Tecnologia).</p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -384,26 +297,190 @@
                 </div>
             </div>
         </div>
-    </div>
-</div>
-        </div>
-    <div class="panel">
-      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel">
-        <div>
 
-        </div>
     </div>
+</div>
 </div>
 <div class="panel">
-      <div id="collapseFours" class="panel-collapse collapse" role="tabpanel">
-        <div>
-
+  <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                        <!-- Carousitel indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Wrapper for carousel items -->
+                        <div class="carousel-inner">
+                            <div class="item carousel-item active">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>O trabalho da equipe da Poli Junior foi muito bem executado, sempre bastante atenciosos
+                                                    comigo e com o projeto. A solução encontrada por eles foi fundamental para a regularizaçãoda construção da minha casa na prefeitura. Recomendo-os com olhos fechados.</p>
+                                                    <p class="overview"><b>Victor Matheus Santos</b>,cliente de nosso Projeto de Arquitetônico (Construção Civil).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>Sobre o projeto, eu gostei e aprovo. Fiquei satisfeito e recomendo a Poli Junior Engenharia.</p>
+                                                    <p class="overview"><b>José Carlos da Silva</b>,cliente de nosso Projeto arquitetônico(Construção Civil).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>“Nunca tive dúvidas em contratar o serviço. Conheço a cultura de trabalho das empresas
+                                                        juniores, por isso sempre confiei que teria o que esperava. E as expectativas foram superadas.
+                                                        Além do atendimento excelente e da flexibilidade que tivemos em todos os momentos, o
+                                                        principal, a qualidade do serviço foi extremamente satisfatória. Aprovei o resultado final e
+                                                        indiquei até para o meu professor da faculdade que também adorou. Já faço planos para novas
+                                                        formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
+                                                    graças a Poli Jr.”</p>
+                                                    <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
+                                                    (Tecnologia).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
-      </div>
+</div>
+<div class="panel">
+  <div id="collapseThree" class="panel-collapse collapse" role="tabpanel">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                        <!-- Carousitel indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Wrapper for carousel items -->
+                        <div class="carousel-inner">
+                            <div class="item carousel-item active">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>O trabalho da equipe da Poli Junior foi muito bem executado, sempre bastante atenciosos
+                                                    comigo e com o projeto. A solução encontrada por eles foi fundamental para a regularizaçãoda construção da minha casa na prefeitura. Recomendo-os com olhos fechados.</p>
+                                                    <p class="overview"><b>Victor Matheus Santos</b>,cliente de nosso Projeto de Arquitetônico (Construção Civil).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>Sobre o projeto, eu gostei e aprovo. Fiquei satisfeito e recomendo a Poli Junior Engenharia.</p>
+                                                    <p class="overview"><b>José Carlos da Silva</b>,cliente de nosso Projeto arquitetônico(Construção Civil).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>“Nunca tive dúvidas em contratar o serviço. Conheço a cultura de trabalho das empresas
+                                                        juniores, por isso sempre confiei que teria o que esperava. E as expectativas foram superadas.
+                                                        Além do atendimento excelente e da flexibilidade que tivemos em todos os momentos, o
+                                                        principal, a qualidade do serviço foi extremamente satisfatória. Aprovei o resultado final e
+                                                        indiquei até para o meu professor da faculdade que também adorou. Já faço planos para novas
+                                                        formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
+                                                    graças a Poli Jr.”</p>
+                                                    <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
+                                                    (Tecnologia).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
+</div>
+</div>
+
+</div>
 </div>
 
 
@@ -501,7 +578,7 @@ background-attachment: fixed; filter:brightness(100%);">
                                                 formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
                                             graças a Poli Jr.”</p>
                                             <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
-(Tecnologia).</p>
+                                            (Tecnologia).</p>
                                         </div>
                                     </div>
                                 </div>
@@ -513,8 +590,8 @@ background-attachment: fixed; filter:brightness(100%);">
         </div>
     </div>
     <a id="subirTopo" style="z-index:999 !important;">
-     <img src="images/up.png" height="20" width="25">
- </a>
+       <img src="images/up.png" height="20" width="25">
+   </a>
 </div> <!-- /#depoimento-section -->
 
 <?php
@@ -553,14 +630,14 @@ include 'componentes/footer.php';
         jQuery("#subirTopo").hide();
 
         jQuery('a#subirTopo').click(function () {
-           jQuery('body,html').animate({
-             scrollTop: 0
-         }, 800);
-           return false;
-       });
+         jQuery('body,html').animate({
+           scrollTop: 0
+       }, 800);
+         return false;
+     });
 
         jQuery(window).scroll(function () {
-           if (jQuery(this).scrollTop() > 1000) {
+         if (jQuery(this).scrollTop() > 1000) {
             jQuery('#subirTopo').fadeIn();
         } else {
             jQuery('#subirTopo').fadeOut();

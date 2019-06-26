@@ -28,6 +28,7 @@ body{
 .card{
   width: 20%;
   height: 100%;
+  opacity: -2;
   float: left;
   position: relative;
   margin: 0px !important;
@@ -36,6 +37,11 @@ body{
   border-width: 2px;
   border-color: #e6e6e6;
 }
+
+.card:hover{
+  opacity: 1;
+}
+
 .container{
   margin-top: 5% !important;
 }
