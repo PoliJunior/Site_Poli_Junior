@@ -7,8 +7,35 @@ body{
   background-image: linear-gradient(to bottom, transparent -80%, #fff 10%), url("../images/Novas/tec.jpg") !important;
   background-position: 25% 90%;
 }
+.fluxo{
+  background-image: url("../images/FLUXO/abcd2.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: 3000px !important;
+  position: center;
+}
+.card-fluxo{
+  width: 20%;
+  float: left;
+  margin-right: 0% !important;
+  margin: 0px 0px 0px 3% !important;
+}
 
+.card-fluxo1{
+  width: 20%;
+  float: left;
+  margin-right: 0% !important;
+  margin: 0px 0px 0px 9.3% !important;
+}
 
+.fluxos-top{
+  width: 20%;
+}
+
+.fluxos-base{
+  width: 20%;
+  margin: 0px 0px 0px 0.8% !important;
+}
 
 .site-header{
   text-align: center;
@@ -28,7 +55,6 @@ body{
 .card{
   width: 20%;
   height: 100%;
-  opacity: -2;
   float: left;
   position: relative;
   margin: 0px !important;
@@ -36,10 +62,6 @@ body{
   border-style: solid;
   border-width: 2px;
   border-color: #e6e6e6;
-}
-
-.card:hover{
-  opacity: 1;
 }
 
 .container{

@@ -196,12 +196,15 @@
 </section>
 
 <!-- Carrosel de serviços de cada setor -->
-
+<br>
+<br>
+<br>
+<br>
 <div class="container">
-  <a role="button" class="btn btn-primary" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+  <a role="button" class="btn btn-primary" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
     Tecnologia
 </a>
-<a class="btn btn-primary" role="button2" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+<a class="btn btn-primary" role="button2" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
     Industria
 </a>
 <a class="btn btn-primary" role="button3" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -210,8 +213,8 @@
 <a class="btn btn-primary" role="button4" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
     Construção Civil
 </a>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-    <div class="panel">
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
+    <div class="panel" style="border-bottom: 0px;">
       <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel">
         <div>
           <div class="container">
@@ -301,19 +304,19 @@
     </div>
 </div>
 </div>
-<div class="panel">
+<div class="panel" style="border-bottom: 0px;">
   <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel">
     <div>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                     <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
-                    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <div id="myCarousel1" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Carousitel indicators -->
                         <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel1" data-slide-to="1"></li>
+                            <li data-target="#myCarousel1" data-slide-to="2"></li>
                         </ol>
                         <!-- Wrapper for carousel items -->
                         <div class="carousel-inner">
@@ -390,19 +393,19 @@
     </div>
 </div>
 </div>
-<div class="panel">
-  <div id="collapseThree" class="panel-collapse collapse" role="tabpanel">
+<div class="panel" style="border-bottom: 0px;">
+  <div id="collapseFour" class="panel-collapse collapse" role="tabpanel">
     <div>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                     <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
-                    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <div id="myCarousel3" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Carousitel indicators -->
                         <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel3" data-slide-to="1"></li>
+                            <li data-target="#myCarousel3" data-slide-to="2"></li>
                         </ol>
                         <!-- Wrapper for carousel items -->
                         <div class="carousel-inner">
@@ -412,7 +415,97 @@
                                         <div class="media">
                                             <div class="media-left d-flex mr-3">
                                                 <a href="#">
+                                                    <img src="images/a1.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>O trabalho da equipe da Poli Junior foi muito bem executado, sempre bastante atenciosos
+                                                    comigo e com o projeto. A solução encontrada por eles foi fundamental para a regularizaçãoda construção da minha casa na prefeitura. Recomendo-os com olhos fechados.</p>
+                                                    <p class="overview"><b>Victor Matheus Santos</b>,cliente de nosso Projeto de Arquitetônico (Construção Civil).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
                                                     <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>Sobre o projeto, eu gostei e aprovo. Fiquei satisfeito e recomendo a Poli Junior Engenharia.</p>
+                                                    <p class="overview"><b>José Carlos da Silva</b>,cliente de nosso Projeto arquitetônico(Construção Civil).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/primeiro.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="testimonial">
+                                                    <p>“Nunca tive dúvidas em contratar o serviço. Conheço a cultura de trabalho das empresas
+                                                        juniores, por isso sempre confiei que teria o que esperava. E as expectativas foram superadas.
+                                                        Além do atendimento excelente e da flexibilidade que tivemos em todos os momentos, o
+                                                        principal, a qualidade do serviço foi extremamente satisfatória. Aprovei o resultado final e
+                                                        indiquei até para o meu professor da faculdade que também adorou. Já faço planos para novas
+                                                        formas de expansão dos meus serviços através do modelo que me foi desenvolvido e devo isso
+                                                    graças a Poli Jr.”</p>
+                                                    <p class="overview"><b>Rodrigo Rodrigues</b>,cliente de nosso Projeto de Sistema de condicionamento físico e saúde
+                                                    (Tecnologia).</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="panel" style="border-bottom: 0px;">
+  <div id="collapseThree" class="panel-collapse collapse" role="tabpanel">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
+                    <div id="myCarousel2" class="carousel slide" data-ride="carousel" data-interval="false">
+                        <!-- Carousitel indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel2" data-slide-to="1"></li>
+                            <li data-target="#myCarousel2" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Wrapper for carousel items -->
+                        <div class="carousel-inner">
+                            <div class="item carousel-item active">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="media">
+                                            <div class="media-left d-flex mr-3">
+                                                <a href="#">
+                                                    <img src="images/a1.png" alt="">
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -624,6 +717,26 @@ include 'componentes/footer.php';
     };
 </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+
+/* Every time the window is scrolled ... */
+$(window).scroll( function(){
+
+    /* Check the location of each desired element */
+    $('.hideme').each( function(i){
+
+        var bottom_of_object = $(this).offset().top + $(this).outerHeight();
+        var bottom_of_window = $(window).scrollTop() + $(window).height();
+
+        /* If the object is completely visible in the window, fade it it */
+        if( bottom_of_window > bottom_of_object ){
+            $(this).animate({'opacity':'1'},1000);
+        }
+    }); 
+  });
+});
+</script>
 <script type="text/javascript">
     jQuery(document).ready(function(){
 

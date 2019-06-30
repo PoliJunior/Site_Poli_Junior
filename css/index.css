@@ -180,6 +180,10 @@ opacity:1;
 }
 #atuacao{
     height:99% !important; 
+    background-image: url("../images/i.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1800px;
 }
 
 .atuacao {
@@ -217,8 +221,9 @@ opacity:1;
     overflow: hidden;
     perspective: 800px;
     position: relative;
+    background-color: white !important;
 }
-.box:before{
+/*.box:before{
     content: "";
     width: 100%;
     height: 100%;
@@ -261,7 +266,7 @@ opacity:1;
     width: 100%;
     height: auto;
 }
-.box .box-content{
+*//*.box .box-content{
     width: 100%;
     height: 100%;
     text-align: center;
@@ -332,7 +337,7 @@ opacity:1;
 .box .icon li a:hover{
     background: #3e0e0c;
     color: #fff;
-}
+}*/
 
 .box {
     width: 40%;
@@ -345,6 +350,10 @@ opacity:1;
     margin-left: 17%;
     margin-top:4%;
     box-shadow:15px 10px 65px -26px rgba(0,0,0,0.75);
+}
+
+.box:hover{
+    box-shadow: 0px 45px 45px 0px !important;
 }
 
 .auto-mec {

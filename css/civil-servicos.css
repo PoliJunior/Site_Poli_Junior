@@ -11,6 +11,11 @@ html body{
   z-index: -1;
 }
 
+.fluxos-base{
+  height: 120px !important;
+  width: 10%;
+}
+
 .view{
   background-color: blue;
   width: 150px;
