@@ -8,11 +8,25 @@ body,html {
     float: left;
 }
 
+.desejo{
+    background-color: black;
+    height: 30%;
+    font-size:20px; 
+    width: 100%;
+    float: left;
+}
+
+.btn{
+    float: left;
+    margin-top: 0.5%;
+
+}
+
 .porque{
     /*text-align: center;*/
 }
 
-#subirTopo {
+#top {
 text-decoration: none;
 /*background: rgba(30,156,161,.9);*/
 background: #f2f2f2 ;
@@ -31,7 +45,7 @@ font-family: sans-serif;
 opacity: .8;
 }
 
-#subirTopo:hover {
+#top:hover {
 opacity:1;
 }
 .bannertext {
@@ -399,8 +413,8 @@ opacity:1;
     height: 2px;
     left: 50%;
     position: absolute;
-    background: #fed116;
-    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    /*background: #fed116;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;*/
     width: 0;
 }
 

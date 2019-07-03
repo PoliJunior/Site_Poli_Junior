@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/topo.js"></script>
 
     <!-- // CSS FILES // -->
     <!-- <link rel="stylesheet" href="https://maxcdn.boo;tstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
@@ -86,7 +87,7 @@
                 <div class="texto2"></div>
                 <div id="log" class="bannertext"></div>
             </div>
-            <button class="reuniao tran3s hvr-bounce-to-right" data-wow-delay="0.2s" style="font-size: 18px">Solicite
+            <button class="reuniao tran3s hvr-bounce-to-right" onclick="contato()" data-wow-delay="0.2s" style="font-size: 18px">Solicite
                 uma reunião gratuita
             </button>
         </div>
@@ -148,7 +149,7 @@
                    <a class="btn btn-warning">Saiba +</a> 
                </div>
            </div>
-           <div class="box">
+           <div class="box" style="margin-left: 5% !important;">
             <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
             <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -177,7 +178,7 @@
            <a class="btn btn-warning">Saiba +</a> 
        </div>
    </div>
-   <div class="box">
+   <div class="box" style="margin-left: 5% !important; padding-bottom: 3%!important;">
     <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
     <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -193,7 +194,13 @@
    </div>
 </div>
 </div>
+<div style="width: 100%; height: 100px"></div>
 </section>
+
+<div class="desejo">
+    <p style="color: white; margin-left: 2%;padding-top: 0.7%; width: 75%; float: left;">Deseja saber mais sobre nossos serviços, curiosidades,entre outros?</p>
+    <a class="btn btn-warning" href="">Clique aqui</a>
+</div>
 
 <!-- Carrosel de serviços de cada setor -->
 <br>
@@ -682,7 +689,7 @@ background-attachment: fixed; filter:brightness(100%);">
             </div>
         </div>
     </div>
-    <a id="subirTopo" style="z-index:999 !important;">
+    <a id="top" style="z-index:999 !important;">
        <img src="images/up.png" height="20" width="25">
    </a>
 </div> <!-- /#depoimento-section -->
@@ -699,6 +706,22 @@ include 'componentes/footer.php';
 
 </div>
 <script src="js/wow.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $('a[href="#top"]').fadeIn();
+        } else {
+            $('a[href="#top"]').fadeOut();
+        }
+    });
+
+    $('a[href="#top"]').click(function(){
+        $('html, body').animate({scrollTop : 0},800);
+        return false;
+    });
+});
+</script>
 <script>
     wow = new WOW(
     {
@@ -718,45 +741,9 @@ include 'componentes/footer.php';
 </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script type="text/javascript">
-    $(document).ready(function() {
-
-/* Every time the window is scrolled ... */
-$(window).scroll( function(){
-
-    /* Check the location of each desired element */
-    $('.hideme').each( function(i){
-
-        var bottom_of_object = $(this).offset().top + $(this).outerHeight();
-        var bottom_of_window = $(window).scrollTop() + $(window).height();
-
-        /* If the object is completely visible in the window, fade it it */
-        if( bottom_of_window > bottom_of_object ){
-            $(this).animate({'opacity':'1'},1000);
-        }
-    }); 
-  });
-});
-</script>
-<script type="text/javascript">
-    jQuery(document).ready(function(){
-
-        jQuery("#subirTopo").hide();
-
-        jQuery('a#subirTopo').click(function () {
-         jQuery('body,html').animate({
-           scrollTop: 0
-       }, 800);
-         return false;
-     });
-
-        jQuery(window).scroll(function () {
-         if (jQuery(this).scrollTop() > 1000) {
-            jQuery('#subirTopo').fadeIn();
-        } else {
-            jQuery('#subirTopo').fadeOut();
-        }
-    });
-    });
+function contato(){
+location.href=" contato.php"
+}
 </script>
 <!-- j Query -->
 
@@ -764,6 +751,7 @@ $(window).scroll( function(){
 <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
 <script type="text/javascript" src="js/theme.js"></script>
 <script type="text/javascript" src="js/map-script.js"></script>
+<script type="text/javascript" src="js/topo.js"></script>
 <script type="text/javascript" src="js/app.js"></script>
 <script type="text/javascript" src="js/funcoes.js"></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
