@@ -434,7 +434,7 @@ include 'componentes/navbar.html';
 </div> <!-- /#project-section -->
 
 <?php
-include 'componentes/news.php';
+include 'componentes/news2.php';
 ?>
 
 <?php

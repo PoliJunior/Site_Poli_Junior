@@ -33,12 +33,12 @@
     <div class="geral">
         <div class="fundo">
             <div class="textos">
-                <div id="particles-js" style="margin-left: 85%; margin-top: 6%; z-index: 0;position: absolute; height: 86%;"></div>
+                <div id="particles-js" style="margin-left: 85%; margin-top: 6%; z-index: 0;position: absolute; height: 96%;"></div>
                 <div class="row-textos1">
                     <div class="texto1">
                         <p>
                             <h2>Quem somos</h2></p>
-                            <p style="width: 100%;">A Poli Júnior Engenharia, em Recife, foi a primeira empresa Júnior de engenharia do
+                            <p style="width: 100%;margin-bottom: 5%;">A Poli Júnior Engenharia, em Recife, foi a primeira empresa Júnior de engenharia do
                                 estado de Pernambuco, apaixonada por desenvolver pessoas que impactem cada vez
                                 mais a sociedade brasileira. Somos uma empresa focada em transformar os sonhos
                                 dos nossos clientes em realidade, através dos nossos serviços. Atuamos desde 2006,
@@ -58,7 +58,7 @@
                         </div>
                         <div class="row-textos2">
                             <div class="texto2">
-                                <p>
+                                <p style="margin-top: 5% !important;">
                                     <h2>M. E. J. (Movimento Empresa Junior)</h2></p>
                                     <p style="margin-bottom: 4% !important;">O Movimento empresa Júnior (MEJ) tem como propósito a busca por um Brasil
                                         Empreendedor. A sigla é pequena, mas a ambição pelo propósito é grande. O
@@ -197,7 +197,7 @@ assinados por eles e entregues aos clientes.</p>
             </div>
 
             <?php
-            include 'componentes/news.php';
+            include 'componentes/news2.php';
             ?>
 
             <?php

@@ -119,7 +119,7 @@
 
         <div class="card31">
             <div id="cardimginovacao1" class="" style="height:128px; width:130px; margin:0px;">
-                <img src="images/icon/Q.png" width="130" height="128" style="margin-left: 120%;">
+                <img src="images/icon/I.png" width="130" height="128" style="margin-left: 140%;">
             </div>
             <div class="card-title1"><h3 style="text-align: center; margin-top:9%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center; margin-left: 33%;" class="textocard">Trabalhamos junto à sua necessidade
@@ -145,8 +145,8 @@
                         simples e tecnológica de solucionar problemas do nosso cotidiano.<br><br>Incluindo IOT, Inteligência das Coisas, entre outros projetos que buscam inovar e
                     automatizar processos, prepare-se para facilitar ainda mais sua rotina.</h5>
                 </div>
-                <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-                   <a class="btn btn-warning">Saiba +</a> 
+                <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
+                   <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
                </div>
            </div>
            <div class="box" style="margin-left: 5% !important;">
@@ -157,8 +157,8 @@
                     produção da nossa indústria, graças a nossos estudos mecânicos e de automação,
                 vemos grande valor em projetar para o secundário.</h5>
             </div>
-            <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-               <a class="btn btn-warning">Saiba +</a> 
+            <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
+               <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
            </div>
        </div>
    </div>
@@ -174,8 +174,8 @@
                 de tecnologia, referente a Engenharia de Computação, trabalha com a precisão que
             você precisa para que seus empreendimentos tornem se verdadeiros sucessos.</h5>
         </div>
-        <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-           <a class="btn btn-warning">Saiba +</a> 
+        <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
+           <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
        </div>
    </div>
    <div class="box" style="margin-left: 5% !important; padding-bottom: 3%!important;">
@@ -189,8 +189,8 @@
             serviço.<br><br>Conseguirmos entregar desde projetos do zero até revitalizações, garantindo a melhor
         qualidade e experiência possível para nossos clientes.</h5>
     </div>
-    <div style="width:23%;height:25%;float:left; margin-left:6.5%;">
-       <a class="btn btn-warning">Saiba +</a> 
+    <div style="width:23%;height:25%;float:left; margin-left:5.3%; margin-top: 3%;">
+       <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
    </div>
 </div>
 </div>
@@ -208,18 +208,20 @@
 <br>
 <br>
 <div class="container">
-  <a role="button" class="btn btn-primary" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-    Tecnologia
-</a>
-<a class="btn btn-primary" role="button2" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-    Industria
-</a>
-<a class="btn btn-primary" role="button3" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-    Inovação
-</a>
-<a class="btn btn-primary" role="button4" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+  <div class="botao">  
+  <a role="button" class="btn1 btn" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
     Construção Civil
 </a>
+<a class="btn1 btn" role="button2" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+    Industria
+</a>
+<a class="btn1 btn" role="button3" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+    Inovação
+</a>
+<a class="btn1 btn" role="button4" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+    Tecnologia
+</a>
+</div>
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
     <div class="panel" style="border-bottom: 0px;">
       <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel">
@@ -243,7 +245,7 @@
                                         <div class="media">
                                             <div class="media-left d-flex mr-3">
                                                 <a href="#">
-                                                    <img src="images/primeiro.png" alt="">
+                                                    <img src="images/atuacao/ino.png" alt="">
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -695,7 +697,7 @@ background-attachment: fixed; filter:brightness(100%);">
 </div> <!-- /#depoimento-section -->
 
 <?php
-include 'componentes/news.php';
+include 'componentes/news2.php';
 ?>
 
 <?php

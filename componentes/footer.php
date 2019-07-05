@@ -129,10 +129,6 @@
 </style>
 
 
-<section style="height:55px; background-color: white">
-
-</section>
-
 <footer class="footer_area p_120">
     <div class="container">
         <div class="row footer_inner" style="font-size: 30%;">
