@@ -20,6 +20,7 @@
 
 <body>
 
+  <div class="imagens"></div>
   <?php
   include 'componentes/navbar.html';
   ?>
@@ -66,7 +67,7 @@
       </div>
     </div>
   </div>
-  <div  class="collapse">
+  <!-- <div  class="collapse">
     <div class="card-body">
       <div class="modal-body">
         <div class="row">
@@ -97,7 +98,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 <!-- <div class="site-header wow slideInLeft" data-wow-delay="0.6s">
     <p>DESENVOLVIMENTO DE SITES</p>
 </div>
@@ -152,41 +153,41 @@
 
 <div class="fluxo">
   <div class="card-fluxo1">
-   <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.1'>
-     <img src="images/FLUXO/a1.png" height="180" width="180" style="margin-left: 1%;">
+   <div class="fluxos-topo wow bounceInDown " data-wow-delay='0.5' style="margin-left: 20% !important;">
+     <img src="images/FLUXO/a1.png" height="195" width="230" style="">
    </div> 
    <div class="fluxos-base wow bounceInUp" data-wow-delay='0.1'>
-    <img src="images/FLUXO/a3.png" height="360" width="180">
+    <img src="images/FLUXO/a3.png" class="base"  height="360" width="180" style="margin-top: 50%; margin-left: 20% !important">
    </div>
  </div>
 
- <div class="card-fluxo">
+ <div class="card-fluxo1">
    <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.5'>
-     <img src="images/FLUXO/b1.png" height="180" width="180" style="margin-left: 1%;">
+     <img src="images/FLUXO/b1.png" height="230" width="220" style="margin-left: 0%;">
    </div> 
    <div class="fluxos-base wow bounceInUp" data-wow-delay='0.5'>
-    <img src="images/FLUXO/b3.png" height="360" width="180">
+    <img src="images/FLUXO/b3.png" class="base1" height="360" width="180">
    </div>
  </div>
 
- <div class="card-fluxo">
+ <div class="card-fluxo1">
    <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.9'>
-     <img src="images/FLUXO/c1.png" height="180" width="180" style="margin-left: 1%;">
+     <img src="images/FLUXO/c1.png" height="180" width="180" style="margin-left: 0%;">
    </div> 
    <div class="fluxos-base wow bounceInUp" data-wow-delay='0.9'>
     <img src="images/FLUXO/c3.png" height="360" width="180">
    </div>
  </div>
  
- <div class="card-fluxo">
+ <div class="card-fluxo1">
    <div class="fluxos-topo wow bounceInDown" data-wow-delay='1.3'>
-     <img src="images/FLUXO/d1.png" height="180" width="180" style="margin-left: 1%;">
+     <img src="images/FLUXO/d1.png" height="180" width="180" style="margin-left: 0%;">
    </div> 
    <div class="fluxos-base wow bounceInUp" data-wow-delay='1.3'>
     <img src="images/FLUXO/d3.png" height="360" width="180">
    </div>
  </div>
-
+<div style="height: 60vh;"></div>
 </div>
 <div style="height: 6vh"></div>
 <div class="vocesabia">
@@ -198,11 +199,11 @@
   </div>
 </div>
 
-<div style="height: 6vh"></div>
+<div style="height: 12vh"></div>
 
 
 <?php
-include 'componentes/news.php';
+include 'componentes/news2.php';
 ?>
 
 <?php

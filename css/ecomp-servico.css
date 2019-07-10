@@ -4,18 +4,28 @@
 
 body{
 	margin-top: 90px;
-  background-image: linear-gradient(to bottom, transparent -80%, #fff 10%), url("../images/Novas/tec.jpg") !important;
   background-position: 25% 90%;
+  background-image: linear-gradient(to bottom, transparent -80%, #fff 10%), url("../images/Novas/tec.jpg") !important;
 }
+
+.imagens{
+  width: 100%;
+  position: relative !important;
+  height: 6px;
+}
+
 .fluxo{
-  background-image: url("../images/FLUXO/abcd2.png") !important;
+  background-image: url("../images/FLUXO/abcd.png") !important;
   background-repeat: no-repeat !important;
-  background-position: center !important;
+  background-position: 52.3% 60% !important;
   background-size: 3000px !important;
-  position: center;
-}
+  z-index: 999989899999999999 !important;
+  width:100%; 
+  background-size: 1300px !important;
+  height: 700px;
+}.
 .card-fluxo{
-  width: 20%;
+  width: 20% !important;
   float: left;
   margin-right: 0% !important;
   margin: 0px 0px 0px 3% !important;
@@ -25,7 +35,17 @@ body{
   width: 20%;
   float: left;
   margin-right: 0% !important;
-  margin: 0px 0px 0px 9.3% !important;
+  margin: 0px 0px 0px 4% !important;
+}
+
+.base{
+  margin-top: 300% !important;
+  margin-left: 151.5% !important;
+
+}
+.base1{
+  margin-top: 210% !important;
+  margin-left: 12% !important; 
 }
 
 .fluxos-top{
@@ -33,8 +53,8 @@ body{
 }
 
 .fluxos-base{
-  width: 20%;
-  margin: 0px 0px 0px 0.8% !important;
+  width: 0%;
+  margin: 10px 0px 0px 0.8% !important;
 }
 
 .site-header{
@@ -66,6 +86,8 @@ body{
 
 .container{
   margin-top: 5% !important;
+  position: relative;
+ 
 }
 
 .vocesabia{

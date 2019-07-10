@@ -92,8 +92,9 @@
                 <input type="submit" class="btn" value="ENVIAR">
             </form>
             
+            </div>
 
-            <!-- </div> -->
+            <div style="height: 18vh;"></div>
 
             <?php
             include 'componentes/footer.php';
