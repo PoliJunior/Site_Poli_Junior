@@ -597,8 +597,8 @@ background-attachment: fixed; filter:brightness(100%);">
         <div class="row" style="text-align: center; width: 145% !important; margin-top:13%; margin-left: 0%;  ">
 
             <div class="col-xs-6" style="  
-            "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%;">86</h2></div>
-            <div class="col-xs-6"><h2 id="numero">274</h2></div>
+            "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%; font-size: 600%;">86</h2></div>
+            <div class="col-xs-6"><h2 id="numero" style="font-size: 600%">274</h2></div>
         </div>
         <div class="row" style="text-align: center; margin-left: 15%; width: 129%;">
             <div class="col-xs-6" id="consultoria"><h2>Associados</h2></div>

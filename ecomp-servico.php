@@ -67,129 +67,54 @@
       </div>
     </div>
   </div>
-  <!-- <div  class="collapse">
-    <div class="card-body">
-      <div class="modal-body">
-        <div class="row">
-          <div class="col-3 text-center">
-            <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg" alt="{{$palestrante->nome}}"
-            class="img-fluid z-depth-1-half rounded-circle">
-            <div style="height: 10px"></div>
-            <p class="title mb-0">{{$palestrante->nome}}</p>
-            <p class="text-muted " style="font-size: 13px">{{$palestrante->cargo}}</p>
-          </div>
-          <div class="col-9">
-            <p>{!! $palestrante->apresentacao !!}</p>
-          </div>
-        </div>
-      </div>
-      <div class="modal-body">
-        <div class="row">
-          <div class="col-3 text-center">
-            <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg" alt="IMG of Avatars"
-            class="img-fluid z-depth-1-half rounded-circle">
-            <div style="height: 10px"></div>
-            <p class="title mb-0">{{$palestrante->nome}}</p>
-            <p class="text-muted " style="font-size: 13px">{{$palestrante->cargo}}</p>
-          </div>
-          <div class="col-9">
-            <p></p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-<!-- <div class="site-header wow slideInLeft" data-wow-delay="0.6s">
-    <p>DESENVOLVIMENTO DE SITES</p>
 </div>
-<div class="color">
-    <div class="container">
-        <div class="col-xs-8 col-sm-6 wow slideInLeft" data-wow-delay="0.9s">
-            <img src="images/servico/clouds_POLIJUNIOR.png" style="width: 80%">
-        </div>
-        <div class="col-xs-8 col-sm-6">
 
-            <div class=" wow slideInRight" data-wow-delay="0.9s">
-                <h2 class="txt-servico">INSTITUCIONAIS</h2>
-                <br>
-                <P><b>QUAL A IMPORTÂNCIA DA CRIAÇÃO DE SITES PARA SUA EMPRESA?</b></P>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                    and scrambled it to make a type specimen book.
-                </p>
-                <br>
-                <P><b>PORQUE VOCÊ PRECISA DE UM SITE PROFISSIONAL?</b></P>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                    and scrambled it to make a type specimen book.
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-</div> -->
-
-<div style="height: 6vh"></div>
-
-<!-- <div class="container">
-    <div class="col-xs-8 col-sm-6 wow slideInLeft" data-wow-delay="0.1s">
-        <h2 class="txt-servico">Nossa metodologia</h2>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-            scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
-            electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-            Letraset sheets containing Lorem Ipsum passages.
-        </p>
-        <br>
-        <li>Sites institucionais</li>
-        <li>Sistemas sob demanda</li>
-    </div>
-   <div class="col-xs-8 col-sm-6 txt-setor wow slideInRight" data-wow-delay="0.1s">
-        <img src="images/servico/pc_POLIJUNIOR.png">
-
-    </div>
-  </div> -->
-</div>
+<div style="height: 14vh"></div>
 
 <div class="fluxo">
+  <div class="titulo-conteudo" style="padding-bottom: 7%;"><h2 style="color:white;text-decoration:underline; text-decoration-color: #ffd100;">..........<strong style="color: black;">NOSSA METODOLOGIA</strong></h2>
+    </div>
+
   <div class="card-fluxo1">
-   <div class="fluxos-topo wow bounceInDown " data-wow-delay='0.5' style="margin-left: 20% !important;">
+   <div class="fluxos-topo wow bounceInDown " data-wow-delay='0.5' style="margin-left: 47.5%; margin-top: 13%;">
      <img src="images/FLUXO/a1.png" height="195" width="230" style="">
    </div> 
-   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.1'>
-    <img src="images/FLUXO/a3.png" class="base"  height="360" width="180" style="margin-top: 50%; margin-left: 20% !important">
+   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.1' style="margin-left: 19.2%; margin-top: 4%;">
+    <img src="images/FLUXO/a3.png" class="base"  height="480" width="230">
    </div>
  </div>
 
  <div class="card-fluxo1">
-   <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.5'>
-     <img src="images/FLUXO/b1.png" height="230" width="220" style="margin-left: 0%;">
+   <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.5' style="margin-left: 19.5%; margin-top: 2%;">
+     <img src="images/FLUXO/b1.png" height="270" width="250" style="margin-left: 0%;">
    </div> 
-   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.5'>
+   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.5' style="margin-left: 29%; margin-top: 9.5%;">
     <img src="images/FLUXO/b3.png" class="base1" height="360" width="180">
    </div>
  </div>
 
- <div class="card-fluxo1">
-   <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.9'>
-     <img src="images/FLUXO/c1.png" height="180" width="180" style="margin-left: 0%;">
+ <div class="card-fluxo1" style="margin-left: 0px !important;">
+   <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.9' style="margin-left: 0%; height: 200px !important;">
+     <img src="images/FLUXO/c1.png" height="230" width="270" style="margin-left: 13%; margin-top: 5%;">
    </div> 
-   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.9'>
-    <img src="images/FLUXO/c3.png" height="360" width="180">
+   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.9' style="margin-left: 29%; margin-top: 73%; margin-bottom: 0px !important; margin-right:0px !important; ">
+    <img src="images/FLUXO/c3.png" height="480" width="180">
    </div>
  </div>
  
- <div class="card-fluxo1">
-   <div class="fluxos-topo wow bounceInDown" data-wow-delay='1.3'>
-     <img src="images/FLUXO/d1.png" height="180" width="180" style="margin-left: 0%;">
+ <div class="card-fluxo1" style="margin-left: 0px !important;">
+   <div class="fluxos-topo wow bounceInDown" data-wow-delay='1.3' style="margin-left: 17.3%; margin-top: 14%;">
+     <img src="images/FLUXO/d1.png" height="180" width="220" style="margin-left: 0%;">
    </div> 
-   <div class="fluxos-base wow bounceInUp" data-wow-delay='1.3'>
+   <div class="fluxos-base wow bounceInUp" data-wow-delay='1.3' style="margin-right:0px !important; margin-left: 26%; margin-top: 73%;">
     <img src="images/FLUXO/d3.png" height="360" width="180">
    </div>
  </div>
-<div style="height: 60vh;"></div>
 </div>
-<div style="height: 6vh"></div>
+
+<div style="height: 60vh;"></div>
+
+
 <div class="vocesabia">
   <div class="titulo-voce">
     <h2>VOÇÊ SABIA?</h2>

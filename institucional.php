@@ -119,20 +119,20 @@
     -->
 
 
-<div class="container">
-  <h2>NOSSOS PARCEIROS</h2>
-   <section class="customer-logos slider">
-      <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
-      <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
-      <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg"></div>
-      <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg"></div>
-      <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg"></div>
-      <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg"></div>
-      <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
-      <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
-   </section>
-</div>
-     
+    <div class="container">
+      <h2>NOSSOS PARCEIROS</h2>
+      <section class="customer-logos slider">
+          <div class="slide"><img src="images/PARCEIROS/11206628164599687212.jpg"></div>
+          <div class="slide" style="padding-top: 1.3%;"><img src="images/PARCEIROS/Ambev_logo.svg.png"></div>
+          <div class="slide"><img src="images/PARCEIROS/coletivo.png"></div>
+          <div class="slide" style="padding-top: 1.7%;"><img src="images/PARCEIROS/EMPOWER - Novo Logo - Principal.png"></div>
+          <div class="slide"><img src="images/PARCEIROS/ferraz.jpg"></div>
+          <div class="slide" style="padding-top: 1.1%;"><img src="images/PARCEIROS/sn-logo.jpg"></div>
+          <div class="slide" style="padding-top: 1.4%;"><img src="images/PARCEIROS/Tigre - Logo Azul.png"></div>
+          <div class="slide"><img src="images/PARCEIROS/wa.png"></div>
+      </section>
+  </div>
+
     <!-- <div class="parceiros" style="background-color: #0d0d0d; padding-top: 4%; padding-left: 3% ">
         <div class="titulo">
             <h3 style="color: white;">NOSSOS <b>PARCEIROS</b></h3>
@@ -163,18 +163,18 @@
                             estudantes irão adquirir durante a execução do projeto raramente é visto durante o
                             período de graduação. As empresas juniores para muitos, é onde começa a surgir o
                             espírito empreendedor, e onde os membros conseguem cada vez mais o
-                        desenvolvimento pessoal e profissional.<br>Em geral, as empresas juniores contam com times bem atenciosos, com atendimentos
-personalizados para cada tipo de situação e especializados na facilidade de resoluçãode problemas.<br>Se você quer inovação e novidade, contratar uma empresa júnior é a melhor escolha pra você.</p>
-                    </div>
-                    <button class="collapsible" style="color: black;">De quem é a assinatura do responsável pelo projeto de uma empresa júnior, se
-os estudantes ainda não são formados?</button>
-                    <div class="content">
-                        <p>Os estudantes que fazem parte de empresas juniores realizam os projetos, sempre
-auxiliados por mestres e doutores da Universidade, além de consultores e
-profissionais excelentes que atuam na área. Os projetos realizados pelos membros da
-empresa júnior, depois de analisados por esses consultores e profissionais, são
-assinados por eles e entregues aos clientes.</p>
-                    </div>
+                            desenvolvimento pessoal e profissional.<br>Em geral, as empresas juniores contam com times bem atenciosos, com atendimentos
+                            personalizados para cada tipo de situação e especializados na facilidade de resoluçãode problemas.<br>Se você quer inovação e novidade, contratar uma empresa júnior é a melhor escolha pra você.</p>
+                        </div>
+                        <button class="collapsible" style="color: black;">De quem é a assinatura do responsável pelo projeto de uma empresa júnior, se
+                        os estudantes ainda não são formados?</button>
+                        <div class="content">
+                            <p>Os estudantes que fazem parte de empresas juniores realizam os projetos, sempre
+                                auxiliados por mestres e doutores da Universidade, além de consultores e
+                                profissionais excelentes que atuam na área. Os projetos realizados pelos membros da
+                                empresa júnior, depois de analisados por esses consultores e profissionais, são
+                            assinados por eles e entregues aos clientes.</p>
+                        </div>
                     <!-- <button class="collapsible" style="color: black;">Open Section 3</button>
                     <div class="content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et

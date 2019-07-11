@@ -17,9 +17,8 @@ body{
 .fluxo{
   background-image: url("../images/FLUXO/abcd.png") !important;
   background-repeat: no-repeat !important;
-  background-position: 52.3% 60% !important;
+  background-position: 52.3% 82% !important;
   background-size: 3000px !important;
-  z-index: 999989899999999999 !important;
   width:100%; 
   background-size: 1300px !important;
   height: 700px;
@@ -50,11 +49,12 @@ body{
 
 .fluxos-top{
   width: 20%;
+  height:100%;
 }
 
 .fluxos-base{
-  width: 0%;
-  margin: 10px 0px 0px 0.8% !important;
+  width: 20%;
+  /*margin: 10px 0px 0px 0.8% !important;*/
 }
 
 .site-header{
