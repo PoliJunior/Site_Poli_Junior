@@ -129,7 +129,7 @@
 </style>
 
 
-<footer class="footer_area p_120">
+<footer id="footer" class="footer_area p_120">
     <div class="container">
         <div class="row footer_inner" style="font-size: 30%;">
             <div class="col-lg-6">
@@ -167,10 +167,9 @@
                     </div>
                     <p style="width: 100%;">Let us be social</p>
                     <ul class="list" id="lista1" style="width: 100%;">
-                        <a href="#"><img src="./images/fac.png" style="width: 25px"></a>
-                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
-                        <a href="#"><img src="./images/fac.png" style="width: 25px"></a>
-                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>
+                        <a href="https://pt-br.facebook.com/PoliJuniorEngenharia/" target="_blank" style="margin-right:6%;"><img src="./images/fac.png" style="width: 25px"></a>
+                        <a href="https://pt.linkedin.com/company/poli-j%C3%BAnior-engenharia" target="_blank"><img src="./images/lin.png" style="width: 25px"></a>
+                        <a href="#" style="margin-left:6%;"><img src="./images/inst.png" style="width: 25px"></a>
                     </ul>
                 </aside>
             </div>

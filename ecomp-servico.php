@@ -76,26 +76,26 @@
     </div>
 
   <div class="card-fluxo1">
-   <div class="fluxos-topo wow bounceInDown " data-wow-delay='0.5' style="margin-left: 47.5%; margin-top: 13%;">
+   <div class="fluxos-topo wow bounceInDown " data-wow-delay='0.5' style="margin-left: 25%; margin-top: 13%;">
      <img src="images/FLUXO/a1.png" height="195" width="230" style="">
    </div> 
-   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.1' style="margin-left: 19.2%; margin-top: 4%;">
+   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.1' style="margin-left: -4.8%; margin-top: 8%;">
     <img src="images/FLUXO/a3.png" class="base"  height="480" width="230">
    </div>
  </div>
 
  <div class="card-fluxo1">
-   <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.5' style="margin-left: 19.5%; margin-top: 2%;">
+   <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.5' style="margin-left: 8%; margin-top: 2%;">
      <img src="images/FLUXO/b1.png" height="270" width="250" style="margin-left: 0%;">
    </div> 
-   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.5' style="margin-left: 29%; margin-top: 9.5%;">
+   <div class="fluxos-base wow bounceInUp" data-wow-delay='0.5' style="margin-left: 19%; margin-top: 9.5%;">
     <img src="images/FLUXO/b3.png" class="base1" height="360" width="180">
    </div>
  </div>
 
  <div class="card-fluxo1" style="margin-left: 0px !important;">
    <div class="fluxos-topo wow bounceInDown" data-wow-delay='0.9' style="margin-left: 0%; height: 200px !important;">
-     <img src="images/FLUXO/c1.png" height="230" width="270" style="margin-left: 13%; margin-top: 5%;">
+     <img src="images/FLUXO/c1.png" height="230" width="270" style="margin-left: 13.5%; margin-top: 5%;">
    </div> 
    <div class="fluxos-base wow bounceInUp" data-wow-delay='0.9' style="margin-left: 29%; margin-top: 73%; margin-bottom: 0px !important; margin-right:0px !important; ">
     <img src="images/FLUXO/c3.png" height="480" width="180">
@@ -103,10 +103,10 @@
  </div>
  
  <div class="card-fluxo1" style="margin-left: 0px !important;">
-   <div class="fluxos-topo wow bounceInDown" data-wow-delay='1.3' style="margin-left: 17.3%; margin-top: 14%;">
+   <div class="fluxos-topo wow bounceInDown" data-wow-delay='1.3' style="margin-left: 30.3%; margin-top: 14%;">
      <img src="images/FLUXO/d1.png" height="180" width="220" style="margin-left: 0%;">
    </div> 
-   <div class="fluxos-base wow bounceInUp" data-wow-delay='1.3' style="margin-right:0px !important; margin-left: 26%; margin-top: 73%;">
+   <div class="fluxos-base wow bounceInUp" data-wow-delay='1.3' style="margin-right:0px !important; margin-left: 39%; margin-top: 87%;">
     <img src="images/FLUXO/d3.png" height="360" width="180">
    </div>
  </div>

@@ -29,6 +29,12 @@
                     <br>
                     <img class="imagem-rede" src="./images/lin.png">
                     Poli Junior Engenharia
+                    <br>
+                    <br>
+                    <img class="imagem-rede" src="./images/inst.png">
+                    @polijunioreng.
+                    <br>
+                    <h3 style="color:white; margin-left: 4%;">Informações de contato</h3>
                 </div>
                 <div class="mapa">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5586.730891005537!2d-34.9043179512288!3d-8.059051085524704!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab18ded1bc6309%3A0x4d4114cf475dc1bb!2sPoli+J%C3%BAnior+Engenharia!5e0!3m2!1spt-BR!2sbr!4v1556180802420!5m2!1spt-BR!2sbr" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>

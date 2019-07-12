@@ -119,7 +119,7 @@
 
         <div class="card31">
             <div id="cardimginovacao1" class="" style="height:128px; width:130px; margin:0px;">
-                <img src="images/icon/I.png" width="130" height="128" style="margin-left: 140%;">
+                <img src="images/icon/I.png" width="130" height="128" style="margin-left: 125%;">
             </div>
             <div class="card-title1"><h3 style="text-align: center; margin-top:9%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center; margin-left: 33%;" class="textocard">Trabalhamos junto à sua necessidade
@@ -139,7 +139,7 @@
                 <img src="images/atuacao/ino.png" style="float:left; margin-top:0px !important;"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0%;" href="">INOVAÇÃO</a>
                 <div style="width:100%;height:40%; margin-left:25%; width:60%;">
-                    <h5 style="height:100% !important; position:flex !important;">Nossas inovações, alinhadas com os conhecimentos de eletrônica e programação,
+                    <h5 style="height:100% !important; position:flex !important;margin-left:5%;">Nossas inovações, alinhadas com os conhecimentos de eletrônica e programação,
                         buscam solucionar os seus problemas. Trabalhamos totalmente de acordo com as
                         ideias e as necessidades que vocês nos trazem, buscando sempre uma forma mais
                         simples e tecnológica de solucionar problemas do nosso cotidiano.<br><br>Incluindo IOT, Inteligência das Coisas, entre outros projetos que buscam inovar e
@@ -153,11 +153,11 @@
             <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
             <div style="width:100%;height:40%; margin-left:25%; width:60%;">
-                <h5 style="height:100% !important; position:flex !important;">Nosso setor de indústria trabalha com empresas de todos os portes, de pequeno a grande, sempre priorizando o resultado da mais alta qualidade para que a vontade de nossos clientes seja completamente atendida.<br><br>Sabendo que o cotidiano da população é diretamente ligado à eficácia dos meios de
+                <h5 style="height:210% !important; position:flex !important; margin-left:5%;">Nosso setor de indústria trabalha com empresas de todos os portes, de pequeno a grande, sempre priorizando o resultado da mais alta qualidade para que a vontade de nossos clientes seja completamente atendida.<br><br>Sabendo que o cotidiano da população é diretamente ligado à eficácia dos meios de
                     produção da nossa indústria, graças a nossos estudos mecânicos e de automação,
                 vemos grande valor em projetar para o secundário.</h5>
             </div>
-            <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
+            <div style="width:23%;height:25%;float:left; margin-left:5.3%; padding-right:5% !important;">
                <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
            </div>
        </div>
@@ -168,7 +168,7 @@
         <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
         style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
         <div style="width:100%;height:40%; margin-left:25%; width:60%;">
-            <h5 style="height:100% !important; position:flex !important;">Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
+            <h5 style="height:100% !important; position:flex !important;margin-left:5%;">Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
                 solução concreta. Explanamos tudo o que nossos clientes desejam do projeto para
                 realizá-lo com a identidade e ideal que você precisa.<br><br>Incluindo serviços de sites simples à sistemas mais complexos de gestão, nosso setor
                 de tecnologia, referente a Engenharia de Computação, trabalha com a precisão que
@@ -182,7 +182,7 @@
     <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
     <div style="width:100%;height:40%; margin-left:25%; width:60%;">
-        <h5 style="height:100% !important; position:flex !important;">Em Construção Civil, composto pelas áreas de Engenharia Civil e Elétrica,
+        <h5 style="height:100% !important; position:flex !important;margin-left:5%;">Em Construção Civil, composto pelas áreas de Engenharia Civil e Elétrica,
             trabalhamos cada vez mais nos mínimos detalhes para que a entrega do seu projeto
             seja feita com a eficácia que você precisa. Além de todas as necessidades básicas,
             buscamos as tecnologias mais completas para dinamizar todo o processo do seu
@@ -199,7 +199,7 @@
 
 <div class="desejo">
     <p style="color: white; margin-left: 2%;padding-top: 0.7%; width: 75%; float: left;">Deseja saber mais sobre nossos serviços, curiosidades,entre outros?</p>
-    <a class="btn btn-warning" href="">Clique aqui</a>
+    <a class="btn btn-warning" href="index.php#new">Clique aqui</a>
 </div>
 
 <!-- Carrosel de serviços de cada setor -->

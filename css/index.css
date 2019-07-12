@@ -38,9 +38,9 @@ margin-left: 13%;
     /*text-align: center;*/
 }
 
-#top {
+#top{
 text-decoration: none;
-/*background: rgba(30,156,161,.9);*/
+background: rgba(30,156,161,.9);
 background: #f2f2f2 ;
 bottom: 30px;
 right: 30px;

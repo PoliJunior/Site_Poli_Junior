@@ -98,7 +98,7 @@
 		</div>
 	</div>
 
-	<div style="height: 10px; margin-bottom: 31%;">
+	<div style="height: 8vh; margin-bottom: 31%;">
 	</div>
 
 	<?php

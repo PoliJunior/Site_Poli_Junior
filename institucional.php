@@ -82,99 +82,46 @@
                             </div>
                         </div>
                     </div>
-            <!-- <div class="porque">
-                <section class="section--blue wow slideInLeft" data-wow-delay="0.1s">
 
-        <div class="card">
-            <div class="cardimgqualidade"></div>
-            <div class="card-title1"><h3>Qualidade</h3></div>
-            <div class="card-text"><p>Revisão feita por consultores e especialistas</p></div>
-        </div>
-    </section>
+                    <div class="container">
+                      <h2>NOSSOS PARCEIROS</h2>
+                      <section class="customer-logos slider">
+                          <div class="slide"><img src="images/PARCEIROS/11206628164599687212.jpg"></div>
+                          <div class="slide" style="padding-top: 1.3%;"><img src="images/PARCEIROS/Ambev_logo.svg.png"></div>
+                          <div class="slide"><img src="images/PARCEIROS/coletivo.png"></div>
+                          <div class="slide" style="padding-top: 1.7%;"><img src="images/PARCEIROS/EMPOWER - Novo Logo - Principal.png"></div>
+                          <div class="slide"><img src="images/PARCEIROS/ferraz.jpg"></div>
+                          <div class="slide" style="padding-top: 1.1%;"><img src="images/PARCEIROS/sn-logo.jpg"></div>
+                          <div class="slide" style="padding-top: 1.4%;"><img src="images/PARCEIROS/Tigre - Logo Azul.png"></div>
+                          <div class="slide"><img src="images/PARCEIROS/wa.png"></div>
+                      </section>
+                  </div>
 
-    <section class="section--blue wow slideInLeft" data-wow-delay="0.5s">
-
-        <div class="card" style="margin-right: 18%;">
-            <div class="cardimgpreco"></div>
-            <div class="card-title1"><h3 style="text-align: center">Preços Competitivos</h3></div>
-            <div class="card-text"><p style="text-align: center">O melhor custo-benefício em serviços de engenharia</p>
-            </div>
-        </div>
-    </section> -->
-<!-- 
-    <section class="section--blue wow slideInLeft" data-wow-delay="0.9s">
-
-        <div class="card31">
-            <div id="cardimginovacao1" class="">
-                <img src="images/qualidade/INO.png" width="130" height="128" style="margin-left: 21.5%;">
-            </div>
-            <div class="card-title1"><h3 style="text-align: center; margin-top:10%;" class="titulocard">Inovação</h3></div>
-            <div class="card-text"><p style="text-align: center;" class="textocard">Trabalhamos junto à sua necessidade
-                para trazer
-                soluções práticas e inovadoras
-            </p></div>
-        </div>
-    </section>
-        </div>
-    -->
-
-
-    <div class="container">
-      <h2>NOSSOS PARCEIROS</h2>
-      <section class="customer-logos slider">
-          <div class="slide"><img src="images/PARCEIROS/11206628164599687212.jpg"></div>
-          <div class="slide" style="padding-top: 1.3%;"><img src="images/PARCEIROS/Ambev_logo.svg.png"></div>
-          <div class="slide"><img src="images/PARCEIROS/coletivo.png"></div>
-          <div class="slide" style="padding-top: 1.7%;"><img src="images/PARCEIROS/EMPOWER - Novo Logo - Principal.png"></div>
-          <div class="slide"><img src="images/PARCEIROS/ferraz.jpg"></div>
-          <div class="slide" style="padding-top: 1.1%;"><img src="images/PARCEIROS/sn-logo.jpg"></div>
-          <div class="slide" style="padding-top: 1.4%;"><img src="images/PARCEIROS/Tigre - Logo Azul.png"></div>
-          <div class="slide"><img src="images/PARCEIROS/wa.png"></div>
-      </section>
-  </div>
-
-    <!-- <div class="parceiros" style="background-color: #0d0d0d; padding-top: 4%; padding-left: 3% ">
-        <div class="titulo">
-            <h3 style="color: white;">NOSSOS <b>PARCEIROS</b></h3>
-            <div class="parceirias" style="padding-bottom: 7%; padding-top: 0.5%;">
-                <a target="_blank" href="https://www.ambev.com.br/"><img src="images/parceiros/AMBEV_LOGO.png"
-                   style="height: 10%; width: 10%; margin-left: 16%;"></a>
-                   <a target="_blank" href="http://www.fejepe.org.br/"><img src="images/parceiros/fejepe.png"
-                       style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;"></a>
-                       <a target="_blank" href="http://www.upe.br/"><img src="images/parceiros/upe.png"
-                          style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;"></a>
-                          <a target="_blank" href="http://www.poli.br/"><img src="images/parceiros/poli.png"
-                             style="height: 13%; width: 10%; margin-top: 1%; padding-left: 1%;"></a>
-                             <a target="_blank" href="http://www.empreenderdinheiro.com/"><img src="images/parceiros/empreender.png"
-                              style="height: 29%; width: 19%; margin-top: 1%; margin-left: 2%;"></a>
-                          </div>
-                      </div>
-                  </div> -->
                   <h2 style="padding-left: 8%; padding-top: 4%;">Dúvidas Frequentes</h2>
                   <div class="duvidas">
                     <button class="collapsible" style="color: black;">Qual a vantagem de se fazer um projeto com Empresa Júnior ao invés de uma
-                    empresa sênior?</button>
-                    <div class="content">
-                        <p>Muitas pessoas pensam que a vantagem é apenas o preço mais baixo, mas não é
-                            apenas esse fator. É claro que um produto mais barato do que já existe no mercado é
-                            bastante atrativo, mas isso é só uma consequência da instituição não ter fins lucrativos
-                            e ser formada por estudantes. Contratando uma empresa júnior, você contribui com a
-                            formação de empreendedores e de profissionais, já que o conhecimento que os
-                            estudantes irão adquirir durante a execução do projeto raramente é visto durante o
-                            período de graduação. As empresas juniores para muitos, é onde começa a surgir o
-                            espírito empreendedor, e onde os membros conseguem cada vez mais o
-                            desenvolvimento pessoal e profissional.<br>Em geral, as empresas juniores contam com times bem atenciosos, com atendimentos
-                            personalizados para cada tipo de situação e especializados na facilidade de resoluçãode problemas.<br>Se você quer inovação e novidade, contratar uma empresa júnior é a melhor escolha pra você.</p>
-                        </div>
-                        <button class="collapsible" style="color: black;">De quem é a assinatura do responsável pelo projeto de uma empresa júnior, se
-                        os estudantes ainda não são formados?</button>
+                        empresa sênior?</button>
                         <div class="content">
-                            <p>Os estudantes que fazem parte de empresas juniores realizam os projetos, sempre
-                                auxiliados por mestres e doutores da Universidade, além de consultores e
-                                profissionais excelentes que atuam na área. Os projetos realizados pelos membros da
-                                empresa júnior, depois de analisados por esses consultores e profissionais, são
-                            assinados por eles e entregues aos clientes.</p>
-                        </div>
+                            <p>Muitas pessoas pensam que a vantagem é apenas o preço mais baixo, mas não é
+                                apenas esse fator. É claro que um produto mais barato do que já existe no mercado é
+                                bastante atrativo, mas isso é só uma consequência da instituição não ter fins lucrativos
+                                e ser formada por estudantes. Contratando uma empresa júnior, você contribui com a
+                                formação de empreendedores e de profissionais, já que o conhecimento que os
+                                estudantes irão adquirir durante a execução do projeto raramente é visto durante o
+                                período de graduação. As empresas juniores para muitos, é onde começa a surgir o
+                                espírito empreendedor, e onde os membros conseguem cada vez mais o
+                                desenvolvimento pessoal e profissional.<br>Em geral, as empresas juniores contam com times bem atenciosos, com atendimentos
+                                personalizados para cada tipo de situação e especializados na facilidade de resoluçãode problemas.<br>Se você quer inovação e novidade, contratar uma empresa júnior é a melhor escolha pra você.</p>
+                            </div>
+                            <button class="collapsible" style="color: black;">De quem é a assinatura do responsável pelo projeto de uma empresa júnior, se
+                                os estudantes ainda não são formados?</button>
+                                <div class="content">
+                                    <p>Os estudantes que fazem parte de empresas juniores realizam os projetos, sempre
+                                        auxiliados por mestres e doutores da Universidade, além de consultores e
+                                        profissionais excelentes que atuam na área. Os projetos realizados pelos membros da
+                                        empresa júnior, depois de analisados por esses consultores e profissionais, são
+                                        assinados por eles e entregues aos clientes.</p>
+                                    </div>
                     <!-- <button class="collapsible" style="color: black;">Open Section 3</button>
                     <div class="content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
@@ -194,36 +141,102 @@
                         ea commodo consequat.</p>
                     </div> -->
                 </div>
-            </div>
+                <div class="row-textos1">
+                    <div class="texto1">
+                        <p>
+                            <h2>Processo Seletivo</h2></p>
+                            <p style="width: 100%;margin-bottom: 5%;">Nosso processo seletivo é realizado pensando em estudantes que querem sempre um
+                                algo a mais, pois não apenas o diploma de Engenheiros, estamos em busca de
+                                características essenciais que um bom profissional precisa ter no que diz respeito ao
+                                mercado de trabalho, como por exemplo: liderança, trabalho em equipe,
+                                empreendedorismo, autocontrole, criatividade, entre tantas outras.<br><br>
+                                Estas características são afloradas cada vez com mais intensidade a cada projeto
+                                realizado, a cada reunião feita com o time, a cada proposta enviada, cada visita feita
+                                ao cliente. As empresas juniores são totalmente ligadas ao Movimento Empresa Júnior
+                                (MEJ), que é considerado o maior movimento de empreendedorismo universitário do
+                                mundo, visando oferecer serviços que ajudam a desenvolver o empreendedorismo no
+                                país, além de fornecer crescimento profissional a seus membros.
+                            </div>
+                        </div>
+                        <h2 style="padding-left: 8%; padding-top: 4%;">Dúvidas Frequentes Sobre o PS</h2>
+                        <div class="duvidas">
+                        <button class="collapsible" style="color: black;">É preciso estar em qual período para ingressar na Poli Júnior?</button>
+                            <div class="content">
+                                <p>Não existe um tempo mínimo de faculdade para fazer parte da Poli Júnior, se você
+                                    estiver matriculado na Universidade, pode se inscrever no Processo Seletivo. O mais
+                                    importante é a força de vontade e querer crescer com junto com a empresa, pois a
+                                    parte técnica é complemente suprida na capacitação para te deixar preparado para
+                                    fazer parte desse batalhão.</p>
+                                </div>
+                                <button class="collapsible" style="color: black;">Preciso ter experiências ou ter o currículo “recheado” para participar de uma
+                                    empresa júnior e ser selecionado no processo seletivo?</button>
+                                    <div class="content">
+                                        <p>Não, absolutamente não! Entendemos que, assim como nós, as pessoas que tem
+                                            interesse em participar da Poli Júnior Engenharia são estudantes em processo de
+                                            aprendizado, e estão em busca de um diferencial, de aprender não apenas o que é
+                                            ensinado na universidade, mas de ter “a cereja do bolo”. Inclusive, é aqui junto com a
 
-            <?php
-            include 'componentes/news2.php';
-            ?>
+                                            gente, que a maioria dos estudantes tem a primeira experiência profissional, um
+                                            contato mais íntimo com o mercado de trabalho.</p>
+                                        </div>
+                                        <button class="collapsible" style="color: black;">Trabalhar de graça? Trabalho voluntário? Por que eu trabalharia sem receber?</button>
+                                    <div class="content">
+                                        <p>Não só a Poli Júnior Engenharia como qualquer outra empresa júnior representa uma
+época de fortes mudanças para seus membros. Esse lugar é um ambiente de muito
+aprendizado, conhecimento, experiências, trabalho em equipe, networks, emoções,
+amizades, descobertas... Aqui você aprende a impulsionar suas qualidades e trabalhar
+em seus defeitos, aprende a trabalhar junto com as personalidades dos outros
+empresários juniores, aprende muita questão técnica do seu curso, aprende a lidar
+com clientes, desenvolver projetos e orçamento e muito mais. Tudo isso enriquece
+bastante tanto seu curriculum quanto você como profissional. Lembre-se, a Poli Júnior
+não vai deixa-lo mais rico, mas vai te deixar mais caro!</p>
+                                        </div>
+                                        <button class="collapsible" style="color: black;">É verdade que tenho que abdicar de muitas coisas, inclusive da faculdade, para
+entrar na Poli Júnior?</button>
+                                    <div class="content">
+                                        <p>Absolutamente, NÃO! Nós fazemos projetos de engenharia em 5 áreas (mecânica,
+civil, automação, computação e elétrica) e a empresa é dividia em 5 setores (Diretoria,
+ADM/FIN, Marketing, Gente e Gestão e Negócios), ao ingressar, você entrará em um
+desses setores e toda semana a equipe terá suas atividades a serem feitas, que estão
+em constantes mudanças. A empresa, assim como qualquer outra, cobra apenas
+responsabilidade e qualidade nas suas tarefas da semana para que haja um
+andamento exponencial do seu setor. Se assim o fizer, não existe nenhuma cobrança
+para ter que "bater o ponto" na empresa todos os dias como muitos pensam. A
+atividade Poli Júnior é baseada em responsabilidade, qualidade e compromisso.</p>
+                                        </div>
 
-            <?php
-            include 'componentes/footer.php';
-            ?>
+                                        <div style="height:20vh;"></div>
+                                    </div>
+
+                                    <div style="height:8vh;"></div>
+                                    <?php
+                                    include 'componentes/news2.php';
+                                    ?>
+
+                                    <?php
+                                    include 'componentes/footer.php';
+                                    ?>
 
 
-            <script src="js/wow.js"></script>
-            <script>
-                wow = new WOW(
-                {
-                    animateClass: 'animated',
-                    offset: 100,
-                    callback: function (box) {
-                        console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
-                    }
-                }
-                );
-                wow.init();
-                document.getElementById('moar').onclick = function () {
-                    var section = document.createElement('section');
-                    section.className = 'section--purple wow fadeInDown';
-                    this.parentNode.insertBefore(section, this);
-                };
-            </script>
-            <script>
+                                    <script src="js/wow.js"></script>
+                                    <script>
+                                        wow = new WOW(
+                                        {
+                                            animateClass: 'animated',
+                                            offset: 100,
+                                            callback: function (box) {
+                                                console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+                                            }
+                                        }
+                                        );
+                                        wow.init();
+                                        document.getElementById('moar').onclick = function () {
+                                            var section = document.createElement('section');
+                                            section.className = 'section--purple wow fadeInDown';
+                                            this.parentNode.insertBefore(section, this);
+                                        };
+                                    </script>
+                                    <script>
     // Collapsible
     var coll = document.getElementsByClassName("collapsible");
     var i;

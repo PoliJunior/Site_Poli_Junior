@@ -68,7 +68,7 @@
 </style>
 
 
-<div class="new">
+<div class="new" id="new">
 	<p style="text-align: justify; font-size: 32px; padding-top: 4.5%; padding-left:25%; margin-bottom: 0px !important;"><strong>Inscreva-se e receba conteúdos exclusivos da Poli Junior Engenharia!</strong></p>
 	<div class="dados1">
 		<p>Seu assunto de interesse:</p>
