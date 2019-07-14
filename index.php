@@ -119,7 +119,7 @@
 
         <div class="card31">
             <div id="cardimginovacao1" class="" style="height:128px; width:130px; margin:0px;">
-                <img src="images/icon/I.png" width="130" height="128" style="margin-left: 125%;">
+                <img src="images/icon/I.png" width="130" height="128" style="margin-left: 140%;">
             </div>
             <div class="card-title1"><h3 style="text-align: center; margin-top:9%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center; margin-left: 33%;" class="textocard">Trabalhamos junto à sua necessidade

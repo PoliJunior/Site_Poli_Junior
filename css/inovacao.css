@@ -1,0 +1,35 @@
+.projeto{
+	margin-top: 10.5%;
+	background-color: blue;
+	height: 100%;
+}
+
+.nome-projeto{
+	margin-top:5%;
+	margin-bottom: 6%;
+	border-bottom-style: solid;
+	border-color: orange;
+	width: 100%;
+	text-align: center;
+
+}
+
+.explica{
+	width: 40%;
+	float: left;
+	margin-left: 8.5%;
+	text-align: justify;
+}
+
+.explica2{
+	width: 40%;
+	float: left;
+	margin-left: 8.5%;
+	text-align: justify;
+}
+#contato{
+	width: 70% !important;
+}
+.texto{
+	height: 30px !important;
+}

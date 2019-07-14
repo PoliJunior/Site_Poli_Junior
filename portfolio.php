@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/atuacoes.css">
     <link rel="stylesheet" href="css/resultados.css">
     <link rel="stylesheet" href="css/depoimento.css">
-
+</head>
 <body>
 <?php
 include 'componentes/navbar.html';
