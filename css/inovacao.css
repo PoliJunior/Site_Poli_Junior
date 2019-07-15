@@ -1,7 +1,7 @@
 .projeto{
 	margin-top: 10.5%;
 	background-color: blue;
-	height: 100%;
+	height: 752px;
 }
 
 .nome-projeto{
@@ -14,22 +14,81 @@
 
 }
 
+.texto-projeto{
+	font-size: 23px;
+	font-weight: 15px;
+}
+
 .explica{
-	width: 40%;
+	width: 50%;
 	float: left;
-	margin-left: 8.5%;
+	margin-left: 6.5%;
+	margin-right: 8.5%;
+	margin-top: 7%;
 	text-align: justify;
 }
 
 .explica2{
-	width: 40%;
+	width: 30%;
+	height: 99.9%;
 	float: left;
-	margin-left: 8.5%;
+	background-color: red;
 	text-align: justify;
 }
-#contato{
-	width: 70% !important;
+.texto{
+	margin-left: 0px !important;
+}
+
+#contatos{
+	width: 95%;
+	padding-left: 4.5%;
 }
 .texto{
 	height: 30px !important;
+}
+
+@media only screen and (max-width: 427px){
+	.projeto{
+		height: 820px;
+	}
+	.explica{
+		width: 100%;
+		margin: 3% 0px 0px 0px;
+	}
+
+	.explica2{
+		width: 100%;
+		margin:0px 0px 0px 0px;
+	}
+
+	.btn{
+		margin: 0px 0px 0px 0px;
+		width: 90%;
+	}
+	.contatos{
+		margin: 0px 0px 0px 3%;
+	}
+
+	.texto-projeto{
+		margin: 0px 6% 0px 6%;
+	}
+}
+
+@media only screen and (max-width: 376px){
+
+	html{
+		width: 100%;
+	}
+
+	.projeto{
+		height: 840px;
+	}
+
+	.explica{
+		margin-top: 8%;
+	}
+
+	.explica2{
+		height: 530px;
+	}
 }

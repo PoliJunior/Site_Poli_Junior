@@ -7,6 +7,7 @@ body,html {
 .box {
     float: left;
     text-align: justify !important;
+
 }
 
 .btn1{
@@ -38,7 +39,7 @@ margin-left: 13%;
     /*text-align: center;*/
 }
 
-#top{
+a[href="#top"]{
 text-decoration: none;
 background: rgba(30,156,161,.9);
 background: #f2f2f2 ;
@@ -54,10 +55,10 @@ text-transform: uppercase;
 position: fixed;
 border: 0;
 font-family: sans-serif;
-opacity: .8;
+opacity:.8;
 }
 
-#top:hover {
+a[href="#top"]:hover{
 opacity:1;
 }
 .bannertext {
@@ -495,12 +496,41 @@ h2 {
     margin-top: 0%;
 
 }
+@media only screen and (max-width: 430px){
+    .box{
+        margin:0px 0px 0px 0px;
+        width: 900px !important;
+        margin-left: 0px !important;
+
+    }
+    #log{
+        margin-left: 8%;
+    }
+    .atuacoes1{
+        margin:0px 0px 0px 0px;
+        margin-left: 0px !important;
+        width:100%;
+    }
+    .imagem{
+        margin:0px 0px 0px 0px !important;
+    }
+    .titulocard{
+    margin:0px 0px 0px 0px !important;
+    }
+    .textocard{
+        margin-right: 0px !important;
+    }
+}
 
 @media (max-width: 992px) {
     .opaque-navbar {
         background-color: black;
         height: 75px;
         transition: background-color .5s ease 0s;
+    }
+
+    body,html{
+        width: 100%;
     }
 
 }

@@ -10,9 +10,9 @@
     <script type="text/javascript" src="js/topo.js"></script>
 
     <!-- // CSS FILES // -->
-    <!-- <link rel="stylesheet" href="https://maxcdn.boo;tstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://maxcdn.boo;tstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.css"> -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link rel="stylesheet" href="css/animate.min.css">
@@ -119,7 +119,7 @@
 
         <div class="card31">
             <div id="cardimginovacao1" class="" style="height:128px; width:130px; margin:0px;">
-                <img src="images/icon/I.png" width="130" height="128" style="margin-left: 140%;">
+                <img src="images/icon/I.png" class="imagem" width="130" height="128" style="margin-left: 140%;">
             </div>
             <div class="card-title1"><h3 style="text-align: center; margin-top:9%;" class="titulocard">Inovação</h3></div>
             <div class="card-text"><p style="text-align: center; margin-left: 33%;" class="textocard">Trabalhamos junto à sua necessidade
@@ -134,8 +134,7 @@
     <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> NOSSA ATUAÇÃO </h1>
     <div class="atuacoes">
         <div class="atuacoes1">
-
-            <div class="box">
+            <div class="box" id="box">
                 <img src="images/atuacao/ino.png" style="float:left; margin-top:0px !important;"><a
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0%;" href="">INOVAÇÃO</a>
                 <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -691,7 +690,7 @@ background-attachment: fixed; filter:brightness(100%);">
             </div>
         </div>
     </div>
-    <a id="top" style="z-index:999 !important;">
+    <a id="#top" style="z-index:999 !important;">
        <img src="images/up.png" height="20" width="25">
    </a>
 </div> <!-- /#depoimento-section -->
