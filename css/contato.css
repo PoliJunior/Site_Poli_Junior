@@ -93,3 +93,27 @@ body,html{
 .nome{
 	border-style: solid;
 }
+@media only screen and (max-width: 430px){
+	#contato{
+		width: 100% !important;
+		margin: 0px 0px 0px 0px !important;
+	}
+	iframe{
+		width: 100%;
+	}
+
+	.redes-mapa{
+		width: 100% !important;
+		margin:0px 0px 0px 0px !important;
+	}
+	html{
+		width: 100% !important;
+		margin:0px 0px 0px 0px !important;
+	}
+	#formulario{
+		width: 100% !important;
+	}
+	#titulo{
+		margin-top: 23% !important;
+	}
+} 

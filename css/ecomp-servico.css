@@ -107,9 +107,24 @@ body{
   font-family: lato black;
   color: black;
 }
+@media only screen and (max-width: 450px){
+  .card{
+    width: 100% !important;
+    margin:0px 0px 5% 0px !important;
+  }
+}
 
 @media (max-width: 670px) {
 	.response{
 		text-align: center;
 	}
+
+  .fluxo{
+    width: 100% !important;
+    background-image: url("../images/FLUXO/abcd.png") !important;
+    background-size: 400px !important;
+  }
+  .espaco{
+    height: 40vh !important;
+  }
 }

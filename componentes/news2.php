@@ -64,12 +64,21 @@
 	text-align: center;
 }
 
+@media only screen and (max-width: 450px){
+	.texto0{
+		padding: 0px 0px 0px 0px !important;
+	}
+	.dados1{
+		/*float: left !important;*/
+	}
+}
+
 
 </style>
 
 
 <div class="new" id="new">
-	<p style="text-align: justify; font-size: 32px; padding-top: 4.5%; padding-left:25%; margin-bottom: 0px !important;"><strong>Inscreva-se e receba conteúdos exclusivos da Poli Junior Engenharia!</strong></p>
+	<p class="texto0" style="text-align: justify; font-size: 32px; padding-top: 4.5%; padding-left:25%; margin-bottom: 0px !important;"><strong>Inscreva-se e receba conteúdos exclusivos da Poli Junior Engenharia!</strong></p>
 	<div class="dados1">
 		<p>Seu assunto de interesse:</p>
 		<select class="texto12" required="required">
