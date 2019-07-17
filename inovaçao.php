@@ -91,8 +91,15 @@
 				<input type="submit" class="btn" value="ENVIAR">
 			</form>
 		</div>
-	</div>	
-	<div style="height: 160px;"></div>
+	</div>
+	<div class="pq">
+			<h2>Por quê fazer um projeto de (...)</h2>
+		</div>	
+	<section class="container flex">
+		<div class="caixa3">1<br>Personalize sua construção de acordo com todas as normas de segurança</div>
+		<div class="caixa3">2<br>Personalize sua construção de acordo com todas as normas de segurança</div>
+		<div class="caixa3">3<br>Personalize sua construção de acordo com todas as normas de segurança</div>
+	</section>
 	<?php include 'componentes/news2.php';?>
 
 	<?php include 'componentes/footer.php';?>

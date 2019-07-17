@@ -1,0 +1,29 @@
+.ps{
+height: 100%;
+width: 75%;
+margin: 3% 0px 0px 3%;
+text-align: justify;
+}
+
+.titulo{
+	width: 100%;
+	color: #ffd100;
+	margin: 15% 0px 0px 3%;
+}
+
+.item{
+	border-radius: 1px;
+	margin: 2% 9% 2% 2%;
+	width: 20%;
+	height: 30px;
+	text-align: center;
+	background-color: #ffd100;
+}
+.center{
+	display: flex;
+	margin-top: 4%;
+}
+
+a{
+	color: black;
+}
