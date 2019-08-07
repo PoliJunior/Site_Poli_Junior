@@ -72,7 +72,7 @@ margin:3% 0px 0px 0px;
 	flex:1;
 }
 
-@media only screen and (max-width: 427px){
+@media only screen and (max-width: 430px){
 	.projeto{
 		height: 820px;
 	}

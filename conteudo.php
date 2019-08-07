@@ -52,7 +52,7 @@
 		</div>
 	</div>  
 	<div class="assunto-conteudo">
-		<div style="width: 35%;float: left; margin-left: 3%;">
+		<div class="amarelo">
 			<h3>Quais assuntos voçê gostaria de saber mais? Conte para gente!</h3>
 		</div>
 		<div style="float: left; width: 50%; height: 40%;">
@@ -61,6 +61,8 @@
 			</form> 
 		</div>
 	</div> 
+	<div id="cardtodo">
+
 	<div class="card-conteudo">
 		<div class="aleatorio">
 			<div class="card">
@@ -74,7 +76,7 @@
 		</div>
 	</div>
 
-	<div class="card-conteudo" style="margin-left:12% !important;">
+	<div class="card-conteudo">
 		<div class="aleatorio">
 			<div class="card">
 			<a href="">
@@ -87,7 +89,7 @@
 		</div>
 	</div>
 
-	<div class="card-conteudo" style="margin-left:12% !important;">
+	<div class="card-conteudo">
 		<div class="aleatorio">
 			<div class="card">
 				<a href=""><img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80"></a>
@@ -97,9 +99,10 @@
 			</div>
 		</div>
 	</div>
+</div>
 
-	<div style="height: 8vh; margin-bottom: 31%;">
-	</div>
+	<!-- <div style="height: 8vh; margin-bottom: 31%;"> -->
+	<!-- </div> -->
 
 	<?php
 	include 'componentes/footer.php'
