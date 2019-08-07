@@ -30,10 +30,10 @@
 	font-weight: 400;
 	text-align: center;
 	box-sizing: border-box;
-	background: gray;
+	background: black;
 	border: 3px solid black;
 	border-radius: 3px;
-	color: black;
+	color: white;
 	display: inline-block;
 	width: 65%;
 	margin-left: 18%;
@@ -72,7 +72,6 @@
 		/*float: left !important;*/
 	}
 }
-
 
 </style>
 

@@ -129,7 +129,7 @@
 </style>
 
 
-<footer id="footer" class="footer_area p_120">
+<footer id="footer" class="footer_area p_120" style="display: flex; justify-content: center; width: 100%;">
     <div class="container">
         <div class="row footer_inner" style="font-size: 30%;">
             <div class="col-lg-6">

@@ -18,7 +18,8 @@ body,html {
 .botao{
 width: 100%;
 height: 70px;
-margin-left: 13%;
+/*margin-left: 13%;*/
+padding-left: 4%;
 
 }
 .desejo{

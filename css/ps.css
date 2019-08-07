@@ -1,3 +1,7 @@
+body,html{
+font-family: 'Montserrat', sans-serif;
+}
+
 .ps{
 height: 100%;
 width: 75%;
@@ -13,17 +17,98 @@ text-align: justify;
 
 .item{
 	border-radius: 1px;
-	margin: 2% 9% 2% 2%;
+	margin: 4% 9% 2% 2%;
 	width: 20%;
 	height: 30px;
-	text-align: center;
+	font-weight: bolder;
+	display: flex;
+	justify-content: center;
+	align-items: center;	
 	background-color: #ffd100;
+}.item:hover{
+	color: white;
 }
+
+.collapsible {
+    /*background-color: #ffff33;*/
+    background-color: #1a1a1a;
+    color:white !important;
+    cursor: pointer;
+    padding: 1%;
+    width: 93%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+
+.active, .collapsible:hover {
+    background-color: #ebebe0;
+    border-bottom-style: solid;
+    border-bottom-color: #ebebe0;
+}
+
+.collapsible:after {
+    content: '\002B';
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.content {
+    padding: 0 0.5%;
+    max-height: 0;
+    width: 93%;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #ebebe0;
+}
+
+.duvidas {
+    padding-left: 8%;
+    padding-bottom: 3%;
+}
+
 .center{
 	display: flex;
 	margin-top: 4%;
+
+}
+.container{
+	margin-left: 0px;
+    width: 80% !important;
+    margin-right: 0px !important;
+    display: flex;
+    justify-content: center;
 }
 
 a{
 	color: black;
+}
+
+@media only screen and (max-width: 430px){
+	.titulo{
+		margin-top: 30%;
+		margin-bottom: 5%;
+	}
+
+	.particle-js{
+		display: none;
+		/*height: 70%;*/
+	}
+	.item{
+		width: 80%;
+	}
+}
+
+@media only screen and (max-width: 330px){
+	.item{
+		width: 100%;
+	}
 }
