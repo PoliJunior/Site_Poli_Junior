@@ -461,6 +461,18 @@ h2 {
     }
 }
 
+@media only screen and (max-width: 430px){
+    .particles-js-canvas-el{
+        display: none;
+    }
+    .texto1{
+        margin:0px 0px 0px 5%;
+    }
+    .texto2{
+        margin: 0px 0px 0px 5%;
+    }    
+}
+
 @media (max-width: 300px) {
     .card-text {
         width: 250px;

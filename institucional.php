@@ -12,6 +12,8 @@
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- // CSS FILES // -->
@@ -245,7 +247,7 @@
 <script type="text/javascript" src="js/animated.js"></script>
 <script type="text/javascript" src="js/map-script.js"></script>
 <script type="text/javascript" src="js/app.js"></script>
-<script type="text/javascript" src="js/funcoes.js"></script>
+<!-- <script type="text/javascript" src="js/funcoes.js"></script> -->
 <script src="js/institucional.js"></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>

@@ -128,7 +128,7 @@
     </section>
 </div>
 
-<section id="atuacao">
+<div id="atuacao">
     <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> NOSSA ATUAÇÃO </h1>
     <div class="atuacoes">
         <div class="atuacoes1">
@@ -146,7 +146,7 @@
                    <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
                </div>
            </div>
-           <div class="box" style="margin-left: 5% !important;">
+           <div class="box" id="box" style="margin-left: 5% !important;">
             <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
             <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -161,7 +161,7 @@
    </div>
 
    <div class="atuacoes1">
-    <div class="box">
+    <div class="box" id="box">
         <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
         style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
         <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -175,7 +175,7 @@
            <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
        </div>
    </div>
-   <div class="box" style="margin-left: 5% !important; padding-bottom: 3%!important;">
+   <div class="box" id="box" style="margin-left: 5% !important; padding-bottom: 3%!important;">
     <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
     <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -191,8 +191,8 @@
    </div>
 </div>
 </div>
-<div style="width: 100%; height: 100px"></div>
-</section>
+<div class="espaco" style="width: 100%; height: 100px"></div>
+</div>
 
 <div class="desejo">
     <p style="color: white; margin-left: 2%;padding-top: 0.7%; width: 75%; float: left;">Deseja saber mais sobre nossos serviços, curiosidades,entre outros?</p>
