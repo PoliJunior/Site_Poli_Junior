@@ -143,10 +143,10 @@
                     automatizar processos, prepare-se para facilitar ainda mais sua rotina.</h5>
                 </div>
                 <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
-                   <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
-               </div>
-           </div>
-           <div class="box" id="box" style="margin-left: 5% !important;">
+                 <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
+             </div>
+         </div>
+         <div class="box" id="box" style="margin-left: 5% !important;">
             <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
             <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -155,12 +155,12 @@
                 vemos grande valor em projetar para o secundário.</h5>
             </div>
             <div style="width:23%;height:25%;float:left; margin-left:5.3%; padding-right:5% !important;">
-               <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
-           </div>
-       </div>
-   </div>
+             <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
+         </div>
+     </div>
+ </div>
 
-   <div class="atuacoes1">
+ <div class="atuacoes1">
     <div class="box" id="box">
         <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
         style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
@@ -172,10 +172,10 @@
             você precisa para que seus empreendimentos tornem se verdadeiros sucessos.</h5>
         </div>
         <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
-           <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
-       </div>
-   </div>
-   <div class="box" id="box" style="margin-left: 5% !important; padding-bottom: 3%!important;">
+         <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
+     </div>
+ </div>
+ <div class="box" id="box" style="margin-left: 5% !important; padding-bottom: 3%!important;">
     <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
     <div style="width:100%;height:40%; margin-left:25%; width:60%;">
@@ -187,8 +187,8 @@
         qualidade e experiência possível para nossos clientes.</h5>
     </div>
     <div style="width:23%;height:25%;float:left; margin-left:5.3%; margin-top: 3%;">
-       <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
-   </div>
+     <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
+ </div>
 </div>
 </div>
 <div class="espaco" style="width: 100%; height: 100px"></div>
@@ -206,18 +206,18 @@
 <br>
 <div class="container">
   <div class="botao">  
-  <a role="button" class="btn1 btn" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-    Construção Civil
-</a>
-<a class="btn1 btn" role="button2" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-    Industria
-</a>
-<a class="btn1 btn" role="button3" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-    Inovação
-</a>
-<a class="btn1 btn" role="button4" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-    Tecnologia
-</a>
+      <a role="button" class="btn1 btn" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+        Construção Civil
+    </a>
+    <a class="btn1 btn" role="button2" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Industria
+    </a>
+    <a class="btn1 btn" role="button3" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Inovação
+    </a>
+    <a class="btn1 btn" role="button4" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        Tecnologia
+    </a>
 </div>
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
     <div class="panel" style="border-bottom: 0px;">
@@ -689,8 +689,8 @@ background-attachment: fixed; filter:brightness(100%);">
         </div>
     </div>
     <a id="#top" style="z-index:999 !important;">
-       <img src="images/up.png" height="20" width="25">
-   </a>
+     <img src="images/up.png" height="20" width="25">
+ </a>
 </div> <!-- /#depoimento-section -->
 
 <?php
@@ -707,19 +707,19 @@ include 'componentes/footer.php';
 <script src="js/wow.js"></script>
 <script type="text/javascript">
     $(document).ready(function(){
-    $(window).scroll(function(){
-        if ($(this).scrollTop() > 100) {
-            $('a[href="#top"]').fadeIn();
-        } else {
-            $('a[href="#top"]').fadeOut();
-        }
-    });
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 100) {
+                $('a[href="#top"]').fadeIn();
+            } else {
+                $('a[href="#top"]').fadeOut();
+            }
+        });
 
-    $('a[href="#top"]').click(function(){
-        $('html, body').animate({scrollTop : 0},800);
-        return false;
+        $('a[href="#top"]').click(function(){
+            $('html, body').animate({scrollTop : 0},800);
+            return false;
+        });
     });
-});
 </script>
 <script>
     wow = new WOW(
@@ -740,9 +740,9 @@ include 'componentes/footer.php';
 </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script type="text/javascript">
-function contato(){
-location.href=" contato.php"
-}
+    function contato(){
+        location.href=" contato.php"
+    }
 </script>
 <!-- j Query -->
 

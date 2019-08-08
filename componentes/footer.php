@@ -120,6 +120,66 @@
         padding-left: 0%;
     }
 
+    @media only screen and (max-width: 430px){
+        #footer{
+            display: flex;
+            justify-content: center;
+        }
+        .row{
+            display: flex;
+            flex: 1;
+            flex-direction: column;
+            justify-content: center;
+        }
+        p{
+            margin-top: 3% !important;
+        }
+        #copy-right{
+            padding-top: 0px !important;
+            text-align: center;
+        }
+        #seila{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #seila1{
+            padding-left: 0px !important;
+        }
+        #siganos{
+            margin-left:14%;
+            width: 72%;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+        }
+        #siganos1{
+            display: flex;
+            justify-content: flex-start;
+            margin-left: 0px;
+        }
+        #contato{
+            display: flex;
+            flex-direction: column;
+        }
+        .f_title{
+            display: flex;
+
+        }
+        .col-lg-6{
+            text-align: justify;
+        }
+        .f_title1{
+            display: flex;
+            justify-content: center;
+            margin-bottom: 5%;
+        }
+
+
+    }
+
     @media (max-width: 900px) {
         .col-lg-6{
             margin-right: 0%;
@@ -134,7 +194,7 @@
         <div class="row footer_inner" style="font-size: 30%;">
             <div class="col-lg-6">
 
-                <div class="f_title">
+                <div class="f_title1">
                     <img src="images/logo_POLIJUNIOR.png" style="width: 50%">
                 </div>
                 <p style="text-align: left; font-size: 320%;">If you own an Iphone, you’ve probably already worked out how much fun it is
@@ -148,6 +208,7 @@
                     <div class="f_title">
                         <h3 style="width: 100%;"><font color="#ffffff">Contate-nos</font></h3>
                     </div>
+                    <div id="contato">
                     <p style="width: 100%;;margin-bottom: 0%;font-size: 320%;">(81) 99999-9999</p>
                     <p style="width: 100%; margin-top: 0%;font-size: 320%;">emailempresa@polijuniorengenharia.com.br</p>
                     <ul class="list" id="lista" style="width: 100%;">
@@ -156,6 +217,7 @@
 <!--                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>-->
 <!--                        <a href="#"><img src="./images/lin.png" style="width: 25px"></a>-->
                     </ul>
+                </div>
                 </aside>
             </div>
             <!--style="width: 20%;"-->
@@ -173,7 +235,7 @@
                     </ul>
                 </aside>
             </div>
-    <div class="copy_right_text" style="position: center; padding-top: 18%;">
+    <div class="copy_right_text" id="copy-right" style="position: center; padding-top: 18%;">
         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             Copyright &copy;<script>document.write(new Date().getFullYear());</script>
             Poli Junior Engenharia All rights reserved

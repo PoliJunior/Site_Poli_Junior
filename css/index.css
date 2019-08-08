@@ -16,10 +16,10 @@ body,html {
 }
 
 .botao{
-width: 100%;
-height: 70px;
-/*margin-left: 13%;*/
-padding-left: 4%;
+    width: 100%;
+    height: 70px;
+    /*margin-left: 13%;*/
+    padding-left: 4%;
 
 }
 .desejo{
@@ -41,26 +41,26 @@ padding-left: 4%;
 }
 
 a[href="#top"]{
-text-decoration: none;
-background: rgba(30,156,161,.9);
-background: #f2f2f2 ;
-bottom: 30px;
-right: 30px;
-color: #f2f2f2;
-text-align: center;
-cursor: pointer;
-padding: 15px;
-font-size: 15px;
-font-weight: bold;
-text-transform: uppercase;
-position: fixed;
-border: 0;
-font-family: sans-serif;
-opacity:.8;
+    text-decoration: none;
+    background: rgba(30,156,161,.9);
+    background: #f2f2f2 ;
+    bottom: 30px;
+    right: 30px;
+    color: #f2f2f2;
+    text-align: center;
+    cursor: pointer;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: fixed;
+    border: 0;
+    font-family: sans-serif;
+    opacity:.8;
 }
 
 a[href="#top"]:hover{
-opacity:1;
+    opacity:1;
 }
 .bannertext {
     color: white;
@@ -251,7 +251,7 @@ opacity:1;
 
 .resultado:after{
     background-color:black;
-     content:'';
+    content:'';
 }
 .row{
     /*height: 40% !important;*/
@@ -377,68 +377,68 @@ opacity:1;
 .box .icon li a:hover{
     background: #3e0e0c;
     color: #fff;
-}*/
+    }*/
 
-.box {
-    width: 40%;
-    height: 280px;
-    display: inline-block;
-    font-size: 3vw;
-    padding: 0vw 0vw 0vw 0vw;
-    margin-left: 8% !important;
-    min-width: 27vw;
-    margin-left: 17%;
-    margin-top:4%;
-    box-shadow:15px 10px 65px -26px rgba(0,0,0,0.75);
-}
+    .box {
+        width: 40%;
+        height: 280px;
+        display: inline-block;
+        font-size: 3vw;
+        padding: 0vw 0vw 0vw 0vw;
+        margin-left: 8% !important;
+        min-width: 27vw;
+        margin-left: 17%;
+        margin-top:4%;
+        box-shadow:15px 10px 65px -26px rgba(0,0,0,0.75);
+    }
 
-.box:hover{
-    box-shadow: 0px 45px 45px 0px !important;
-}
+    .box:hover{
+        box-shadow: 0px 45px 45px 0px !important;
+    }
 
-.auto-mec {
-    height: 100%;
-    width: 30%;
-}
+    .auto-mec {
+        height: 100%;
+        width: 30%;
+    }
 
-.auto-list {
-    float: left;
-}
+    .auto-list {
+        float: left;
+    }
 
-.mec {
-    float: left;
-    width: 23%;
-    margin-top: 3%;
-}
+    .mec {
+        float: left;
+        width: 23%;
+        margin-top: 3%;
+    }
 
-.mec-list {
-    float: left;
-}
+    .mec-list {
+        float: left;
+    }
 
-.navbar-brand {
-    float: left;
-    height: 50px;
-    padding: 11px 0px;
-    font-size: 18px;
-    line-height: 20px;
-}
+    .navbar-brand {
+        float: left;
+        height: 50px;
+        padding: 11px 0px;
+        font-size: 18px;
+        line-height: 20px;
+    }
 
-.navbar-brand img {
-    height: 50px;
-}
+    .navbar-brand img {
+        height: 50px;
+    }
 
-.nav.navbar-nav.pull-right {
-    padding-top: 10px;
-}
+    .nav.navbar-nav.pull-right {
+        padding-top: 10px;
+    }
 
-.nav.navbar-nav.pull-right a:after {
-    background: none repeat scroll 0 0 transparent;
-    bottom: 0;
-    content: "";
-    display: block;
-    height: 2px;
-    left: 50%;
-    position: absolute;
+    .nav.navbar-nav.pull-right a:after {
+        background: none repeat scroll 0 0 transparent;
+        bottom: 0;
+        content: "";
+        display: block;
+        height: 2px;
+        left: 50%;
+        position: absolute;
     /*background: #fed116;
     transition: width 0.3s ease 0s, left 0.3s ease 0s;*/
     width: 0;
@@ -528,7 +528,7 @@ h2 {
         margin:0px 0px 0px 0px !important;
     }
     .titulocard{
-    margin:0px 0px 0px 0px !important;
+        margin:0px 0px 0px 0px !important;
     }
     .textocard{
         margin-right: 0px !important;
@@ -670,4 +670,4 @@ h2 {
     height: 45vh;
 }
 
- 
+

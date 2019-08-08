@@ -8,11 +8,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+	<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
 	<script type="text/javascript" src="js/topo.js"></script>
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 	<!-- // CSS FILES // -->
 	<!-- <link rel="stylesheet" href="https://maxcdn.boo;tstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
@@ -63,79 +69,80 @@
 	</div> 
 	<div id="cardtodo">
 
-	<div class="card-conteudo">
-		<div class="aleatorio">
-			<div class="card">
-				<a href="">
-				<img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80">
-			</a>
-			</div>
-			<div class="texto-card">
-				<h3>E-book:Como<br>E-commerce pode<br>aumentar as suas<br>vendas?</h3>	
+		<div class="card-conteudo">
+			<div class="aleatorio">
+				<div class="card">
+					<a href="">
+						<img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80">
+					</a>
+				</div>
+				<div class="texto-card">
+					<h3>E-book:Como<br>E-commerce pode<br>aumentar as suas<br>vendas?</h3>	
+				</div>
 			</div>
 		</div>
-	</div>
 
-	<div class="card-conteudo">
-		<div class="aleatorio">
-			<div class="card">
-			<a href="">
-				<img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80">
-			</a>
-			</div>
-			<div class="texto-card">
-				<h3>E-book:Como<br>E-commerce pode<br>aumentar as suas<br>vendas?</h3>	
+		<div class="card-conteudo">
+			<div class="aleatorio">
+				<div class="card">
+					<a href="">
+						<img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80">
+					</a>
+				</div>
+				<div class="texto-card">
+					<h3>E-book:Como<br>E-commerce pode<br>aumentar as suas<br>vendas?</h3>	
+				</div>
 			</div>
 		</div>
-	</div>
 
-	<div class="card-conteudo">
-		<div class="aleatorio">
-			<div class="card">
-				<a href=""><img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80"></a>
-			</div>
-			<div class="texto-card">
-				<h3>E-book:Como<br>E-commerce pode<br>aumentar as suas<br>vendas?</h3>	
+		<div class="card-conteudo">
+			<div class="aleatorio">
+				<div class="card">
+					<a href=""><img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80"></a>
+				</div>
+				<div class="texto-card">
+					<h3>E-book:Como<br>E-commerce pode<br>aumentar as suas<br>vendas?</h3>	
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
 
 	<!-- <div style="height: 8vh; margin-bottom: 31%;"> -->
-	<!-- </div> -->
+		<!-- </div> -->
 
-	<?php
-	include 'componentes/footer.php'
-	?>
+		<?php
+		include 'componentes/footer.php'
+		?>
 
-	<script>
-		$('.filtering').slick({
-			slidesToShow: 1,
-			slidesToScroll: 1
-		});
+		<script>
+			$('.filtering').slick({
+				slidesToShow: 1,
+				slidesToScroll: 1
+			});
 
-		var filtered = true;
+			var filtered = true;
 
-		$('.js-filter').on('click', function(){
-			if (filtered === true) {
-				$('.filtering').slick('slickFilter',':even');
-				$(this).text('Unfilter Slides');
-				filtered = true;
-			} else {
-				$('.filtering').slick('slickUnfilter');
-				$(this).text('Filter Slides');
-				filtered = false;
-			}
-		});
-	</script>
+			$('.js-filter').on('click', function(){
+				if (filtered === true) {
+					$('.filtering').slick('slickFilter',':even');
+					$(this).text('Unfilter Slides');
+					filtered = true;
+				} else {
+					$('.filtering').slick('slickUnfilter');
+					$(this).text('Filter Slides');
+					filtered = false;
+				}
+			});
+		</script>
 
-	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-	<script type="text/javascript" src="slick/slick.min.js"></script>
-	<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+		<script type="text/javascript" src="slick/slick.min.js"></script>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
-	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
-</body>
-</html>
+	</body>
+	</html>

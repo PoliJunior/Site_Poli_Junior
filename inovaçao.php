@@ -6,6 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<script type="text/javascript" src="js/funcoes.js"></script>
 	<script type="text/javascript" src="js/MainTemplate.js"></script>
 	<script type="text/javascript" src="js/map-script.js"></script>
@@ -100,8 +102,8 @@
 		</div>
 	</div>
 	<div class="pq">
-			<h2>Por quê fazer um projeto de (...)</h2>
-		</div>	
+		<h2>Por quê fazer um projeto de (...)</h2>
+	</div>	
 	<section class="container flex">
 		<div class="caixa3">1<br>Personalize sua construção de acordo com todas as normas de segurança</div>
 		<div class="caixa3">2<br>Personalize sua construção de acordo com todas as normas de segurança</div>

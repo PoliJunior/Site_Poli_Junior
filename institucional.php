@@ -13,6 +13,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
 <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
