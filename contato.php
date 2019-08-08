@@ -22,6 +22,7 @@
         include 'componentes/navbar.html';
         ?>
         <!-- <div class="dados"> -->
+            <div class="tudo">
             <h1 id="titulo">Contato</h1>
             <div class="redes-mapa">
                 <div class="redes">

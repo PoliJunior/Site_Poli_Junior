@@ -133,6 +133,7 @@
         }
         p{
             margin-top: 3% !important;
+            text-align: unset !important;
         }
         #copy-right{
             padding-top: 0px !important;
@@ -169,7 +170,8 @@
 
         }
         .col-lg-6{
-            text-align: justify;
+            text-align: justify !important;
+            text-align: unset;
         }
         .f_title1{
             display: flex;

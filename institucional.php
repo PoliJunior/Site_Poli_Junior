@@ -327,4 +327,9 @@
         a{
             color: black;
         }
+        @media only screen and (max-width: 430px){
+            .item{
+                width: 100%;
+            }
+        }
     </style>
