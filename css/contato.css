@@ -98,7 +98,9 @@ body,html{
 @media only screen and (max-width: 430px){
 	#contato{
 		width: 100% !important;
+		order: -1;
 		margin: 0px 0px 0px 0px !important;
+		padding: 0px 5% 0px 0px !important;
 	}
 	iframe{
 		width: 100%;
@@ -117,5 +119,15 @@ body,html{
 	}
 	#titulo{
 		margin-top: 23% !important;
+	}
+	.redes{
+		order:3;
+	}
+	.mapa{
+		order: 2;
+	}
+	.tudo{
+		display: flex;
+		flex-grow: 1;
 	}
 } 
