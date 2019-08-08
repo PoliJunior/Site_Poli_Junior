@@ -146,6 +146,9 @@
                                     mundo, visando oferecer serviços que ajudam a desenvolver o empreendedorismo no
                                     país, além de fornecer crescimento profissional a seus membros.
                                 </div>
+                                <section class="container center">
+                                    <a href="ps.php" class="item">INCREVA-SE</a>
+                                </section>
                             </div>
                             <h2 style="padding-left: 8%; padding-top: 4%;">Dúvidas Frequentes Sobre o PS</h2>
                             <div class="duvidas">
@@ -295,3 +298,33 @@
 
 </body>
 </html>
+
+<style type="text/css">
+
+    .item{
+        border-radius: 1px;
+        margin: 4% 9% 7% 2%;
+        width: 20%;
+        height: 30px;
+        font-weight: bolder;
+        display: flex;
+        justify-content: center;
+        align-items: center;    
+        background-color: #ffd100;
+
+        }.item:hover{
+            color: white;
+        }
+        .duvidas {
+            padding-left: 8%;
+            padding-bottom: 3%;
+        }
+
+        .center{
+            display: flex;
+        }
+
+        a{
+            color: black;
+        }
+    </style>
