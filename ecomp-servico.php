@@ -122,7 +122,7 @@
     <h2>VOÇÊ SABIA?</h2>
   </div>
   <div class="texto" style="height: 60%; margin-bottom: 4%; margin-top: 3%;">
-    <p style="margin-left: 12.5%;">A implementação dessas plataformas otimiza em até x% o seu negócio!Saiba mais <a>clicando aqui</a>.</p>
+    <p style="margin-left: 12.5%;">A implementação dessas plataformas otimiza em até x% o seu negócio! Saiba mais <a>clicando aqui</a>.</p>
   </div>
 </div>
 

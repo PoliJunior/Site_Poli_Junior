@@ -1,0 +1,32 @@
+
+.tudo{
+	width: 100%;
+}
+
+.todo-titulo{
+	width: 100%;
+	height: 150px;
+	background-color: purple;
+}
+
+.titulo-topo{
+	margin-top:5%;
+	padding-top: 3.5%;
+	padding-bottom: 0.7%;
+	border-bottom-style: solid;
+	border-color: #ffd100;
+	color:black;
+	width: 28%;
+	text-align: right;
+}
+
+.textinho{
+	width: 100%;
+	height: 120px;
+	margin: 5% 5% 5% 0px;
+}
+
+.te{
+	text-align: justify;
+	margin: 0px 15% 0px 15%;
+}

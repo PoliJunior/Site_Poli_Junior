@@ -85,7 +85,7 @@
                 <div class="texto2"></div>
                 <div id="log" class="bannertext"></div>
             </div>
-            <button class="reuniao tran3s hvr-bounce-to-right" onclick="contato()" data-wow-delay="0.2s" style="font-size: 18px">Solicite
+            <button id="reuniao" class="reuniao tran3s hvr-bounce-to-right" onclick="contato()" data-wow-delay="0.2s" style="font-size: 18px">Solicite
                 uma reunião gratuita
             </button>
         </div>
@@ -129,7 +129,7 @@
 </div>
 
 <div id="atuacao">
-    <h1 id="atuacoesres" style="font-family: 'Montserrat'; float: left; margin-left: 7%;"> NOSSA ATUAÇÃO </h1>
+    <h1 id="atuacoesres" style="font-family: 'Montserrat';"> NOSSA ATUAÇÃO </h1>
     <div class="atuacoes">
         <div class="atuacoes1">
             <div class="box" id="box">
@@ -195,8 +195,8 @@
 </div>
 
 <div class="desejo">
-    <p style="color: white; margin-left: 2%;padding-top: 0.7%; width: 75%; float: left;">Deseja saber mais sobre nossos serviços, curiosidades,entre outros?</p>
-    <a class="btn btn-warning" href="index.php#new">Clique aqui</a>
+    <p id="cliqueaqui" style="color: white; margin-left: 2%;padding-top: 0.7%; width: 75%; float: left;">Deseja saber mais sobre nossos serviços, curiosidades,entre outros?</p>
+    <button class="btn btn-warning" id="button9">Clique aqui</button>
 </div>
 
 <!-- Carrosel de serviços de cada setor -->
@@ -226,7 +226,7 @@
           <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2>
+                    <!-- <h2 style="float: left;font-family: 'Montserrat';">DEPOIMENTO CLIENTES</h2> -->
                     <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Carousitel indicators -->
                         <ol class="carousel-indicators">
@@ -743,6 +743,15 @@ include 'componentes/footer.php';
     function contato(){
         location.href=" contato.php"
     }
+</script>
+<!-- Rolar tela para o final da tela -->
+<script type="text/javascript">
+  const btn = document.getElementById('button9');
+
+btn.addEventListener('click', () => window.scrollTo({
+  top: 3500,
+  behavior: 'smooth',
+}));
 </script>
 <!-- j Query -->
 

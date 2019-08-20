@@ -73,7 +73,7 @@
 			<div class="aleatorio">
 				<div class="card">
 					<a href="">
-						<img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80">
+						<img class="card-img-top" src="images/civi.jpg" alt="Card image cap" height="200" width="150">
 					</a>
 				</div>
 				<div class="texto-card">
@@ -86,7 +86,7 @@
 			<div class="aleatorio">
 				<div class="card">
 					<a href="">
-						<img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80">
+						<img class="card-img-top" src="images/ecom.jpg" alt="Card image cap" height="200" width="150">
 					</a>
 				</div>
 				<div class="texto-card">
