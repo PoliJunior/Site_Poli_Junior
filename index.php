@@ -133,28 +133,28 @@
     <div class="atuacoes">
         <div class="atuacoes1">
             <div class="box" id="box">
-                <img src="images/atuacao/ino.png" style="float:left; margin-top:0px !important;"><a
+                <img src="images/atuacao/ino.png" style="float:left; margin-top:0px !important;"><a class="ti" 
                 style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0%;" href="">INOVAÇÃO</a>
-                <div style="width:100%;height:40%; margin-left:25%; width:60%;">
+                <div style="width:100%;height:40%; margin-left:25%; width:60%;" class="te">
                     <h5 style="height:100% !important; position:flex !important;margin-left:5%;">Nossas inovações, alinhadas com os conhecimentos de eletrônica e programação,
                         buscam solucionar os seus problemas. Trabalhamos totalmente de acordo com as
                         ideias e as necessidades que vocês nos trazem, buscando sempre uma forma mais
                         simples e tecnológica de solucionar problemas do nosso cotidiano.<br><br>Incluindo IOT, Inteligência das Coisas, entre outros projetos que buscam inovar e
                     automatizar processos, prepare-se para facilitar ainda mais sua rotina.</h5>
                 </div>
-                <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
+                <div class="botaoz" style="width:23%;height:25%;float:left; margin-left:5.3%;">
                  <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
              </div>
          </div>
-         <div class="box" id="box" style="margin-left: 5% !important;">
-            <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a
+         <div class="box" id="box" style="margin-left: 7%;">
+            <img src="images/atuacao/industria.png" style="float:left; margin-top:0px !important;"><a class="ti" 
             style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">INDUSTRIA</a>
-            <div style="width:100%;height:40%; margin-left:25%; width:60%;">
+            <div style="width:100%;height:40%; margin-left:25%; width:60%;" class="te">
                 <h5 style="height:210% !important; position:flex !important; margin-left:5%;">Nosso setor de indústria trabalha com empresas de todos os portes, de pequeno a grande, sempre priorizando o resultado da mais alta qualidade para que a vontade de nossos clientes seja completamente atendida.<br><br>Sabendo que o cotidiano da população é diretamente ligado à eficácia dos meios de
                     produção da nossa indústria, graças a nossos estudos mecânicos e de automação,
                 vemos grande valor em projetar para o secundário.</h5>
             </div>
-            <div style="width:23%;height:25%;float:left; margin-left:5.3%; padding-right:5% !important;">
+            <div class="botaoz" style="width:23%;height:25%;float:left; margin-left:5.3%; padding-right:5% !important;">
              <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
          </div>
      </div>
@@ -162,23 +162,23 @@
 
  <div class="atuacoes1">
     <div class="box" id="box">
-        <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a
+        <img src="images/atuacao/inst.png" style="float:left; margin-top:0px !important;"><a class="ti" 
         style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">TECNOLOGIA</a>
-        <div style="width:100%;height:40%; margin-left:25%; width:60%;">
+        <div style="width:100%;height:40%; margin-left:25%; width:60%;" class="te">
             <h5 style="height:100% !important; position:flex !important;margin-left:5%;">Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
                 solução concreta. Explanamos tudo o que nossos clientes desejam do projeto para
                 realizá-lo com a identidade e ideal que você precisa.<br><br>Incluindo serviços de sites simples à sistemas mais complexos de gestão, nosso setor
                 de tecnologia, referente a Engenharia de Computação, trabalha com a precisão que
             você precisa para que seus empreendimentos tornem se verdadeiros sucessos.</h5>
         </div>
-        <div style="width:23%;height:25%;float:left; margin-left:5.3%;">
+        <div class="botaoz" style="width:23%;height:25%;float:left; margin-left:5.3%;">
          <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
      </div>
  </div>
- <div class="box" id="box" style="margin-left: 5% !important; padding-bottom: 3%!important;">
-    <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a
+ <div class="box" id="box" style="margin-left: 7%; padding-bottom: 3%!important;">
+    <img src="images/atuacao/cc.png" style="float:left; margin-top:0px !important;"><a class="ti" 
     style="text-transform: uppercase; font-weight: 400; font-size: 50%; margin-left: 0.3%;" href="">CONSTRUÇÃO CIVIL</a>
-    <div style="width:100%;height:40%; margin-left:25%; width:60%;">
+    <div style="width:100%;height:40%; margin-left:25%; width:60%;" class="te">
         <h5 style="height:100% !important; position:flex !important;margin-left:5%;">Em Construção Civil, composto pelas áreas de Engenharia Civil e Elétrica,
             trabalhamos cada vez mais nos mínimos detalhes para que a entrega do seu projeto
             seja feita com a eficácia que você precisa. Além de todas as necessidades básicas,
@@ -186,7 +186,7 @@
             serviço.<br><br>Conseguirmos entregar desde projetos do zero até revitalizações, garantindo a melhor
         qualidade e experiência possível para nossos clientes.</h5>
     </div>
-    <div style="width:23%;height:25%;float:left; margin-left:5.3%; margin-top: 3%;">
+    <div class="botaoz" style="width:23%;height:25%;float:left; margin-left:5.3%; margin-top: 3%;">
      <a class="btn btn-warning" style="background-color: #ffd100; border-color: #ffd100;">Saiba mais</a> 
  </div>
 </div>
@@ -749,9 +749,33 @@ include 'componentes/footer.php';
   const btn = document.getElementById('button9');
 
 btn.addEventListener('click', () => window.scrollTo({
-  top: 3500,
+  top: 4900,
   behavior: 'smooth',
 }));
+</script>
+<!-- função que faz número aumentar até valor x -->
+<script type="text/javascript">
+$(window).hover(function() {
+  var numero = document.getElementById('numero');
+  var min = 0;
+  var max = 20;
+  var duração = 10000; // 5 segundos
+if ($(this).scrollTop() > 500){
+  for (var i = min; i <= max; i++) {
+    setTimeout(function(nr) {
+      numero.innerHTML = nr;
+    }, i * 5000 / max, i);
+  }
+}else{
+   var max = 20;
+   var duração = 10000;
+}
+},5000);
+
+$("#voltarValor").scroll(function() {
+  $("#numero").text("0");
+});
+
 </script>
 <!-- j Query -->
 
@@ -762,6 +786,7 @@ btn.addEventListener('click', () => window.scrollTo({
 <script type="text/javascript" src="js/topo.js"></script>
 <script type="text/javascript" src="js/app.js"></script>
 <script type="text/javascript" src="js/funcoes.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js'></script>
