@@ -591,8 +591,18 @@ background-attachment: fixed; filter:brightness(100%);">
     <div class="col-xs-12" style="width: 70%; height: 60%;">
         <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;float: left; margin-left: 7%;">OS NOSSOS
         RESULTADOS</h2>
-        <div class="row" style="text-align: center; width: 145% !important; margin-top:13%; margin-left: 0%;  ">
+        <div id="flex1">
+            
+             <div class="col-xs-6" id="consultoria"><h2>Associados</h2></div>
+              <div class="col-xs-6" style="margin-left: 23%; margin-bottom: 2%;width: 30%;"><h2>Clientes satisfeitos</h2></div>
+        </div>
+        <div id="flex2">
+            <div class="col-xs-60" style="  
+            "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%; font-size: 600%;">86</h2></div>
+            <div class="col-xs-61"><h2 id="numero" style="font-size: 600%">274</h2></div>
+        </div>
 
+        <!-- <div class="row" style="text-align: center; width: 145% !important; margin-top:13%; margin-left: 0%;  ">
             <div class="col-xs-6" style="  
             "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%; font-size: 600%;">86</h2></div>
             <div class="col-xs-6"><h2 id="numero" style="font-size: 600%">274</h2></div>
@@ -600,7 +610,7 @@ background-attachment: fixed; filter:brightness(100%);">
         <div class="row" style="text-align: center; margin-left: 15%; width: 129%;">
             <div class="col-xs-6" id="consultoria"><h2>Associados</h2></div>
             <div class="col-xs-6" style="margin-left: 23%; margin-bottom: 2%;width: 30%;"><h2>Clientes satisfeitos</h2></div>
-        </div>
+        </div> -->
     </div>
 </div>
 </div>

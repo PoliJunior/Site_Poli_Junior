@@ -57,7 +57,7 @@
 
 ::-webkit-input-placeholder{
 	text-align: center;
-	font-size: 75%;
+	/*font-size: 75%;*/
 }
 
 ::-moz-placeholder {
@@ -65,12 +65,16 @@
 }
 
 @media only screen and (max-width: 450px){
+	select,input{
+		font-size: 15px !important;
+	}
+	.texto0{
+		text-align: center !important;
+	}
 	.texto0{
 		padding: 0px 0px 0px 0px !important;
 	}
-	.dados1{
-		/*float: left !important;*/
-	}
+
 	#new{
 		display: flex;
 		flex-direction: column;
@@ -84,7 +88,7 @@
 	}
 	.dados1{
 		width: 100%;
-		margin-left: 3vh !important;
+		margin-left: 4vh !important;
 	}
 	.btn2{
 		width: 100%;
