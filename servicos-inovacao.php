@@ -1,7 +1,7 @@
 <DOCTYPE html>
     <html>
     <head>
-        <title>Serviços</title>
+        <title>Serviços Industria</title>
     </head>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +25,7 @@
         <div class="tudo">
             <div class="todo-titulo">
                 <div class="titulo-topo">
-                    <h2><strong>SERVIÇOS DE ENGENHARIA</strong></h2>
+                    <h2><strong>PROJETOS DE INOVAÇÃO</strong></h2>
                 </div>
             </div>
             <div class="textinho">
@@ -34,13 +34,44 @@
             <div class="engenharias">
                 <div class="listagem">
                     <div class="enge">
-                        
+                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/INO/automacao-bombas.png"></a></div>
+                    </div>
+                    <div class="ger">
+                    <div class="ti">
+                       <a href="#"><h2 style="padding-bottom: 3.2%;">AUTOMAÇÃO DE BOMBAS</h2></a>
+                    </div>
+                    <div class="tex">
+                        <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
-                
+                <div class="enge1">
+                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/INO/automacao-industrial.png"></a></div>
+                    </div>
+                    <div class="ger">
+                    <div class="ti">
+                       <a href="#"><h2 style="padding-bottom: 3.2%;">AUTOMAÇÃO INDUSTRIAL</h2></a>
+                    </div>
+                    <div class="tex">
+                        <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
+                    </div>
+                </div>
             </div>
-        </div>
-
+            <div class="listagem">
+                    <div class="enge">
+                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/INO/iot.png"></a></div>
+                    </div>
+                    <div class="ger">
+                    <div class="ti">
+                       <a href="#"><h2 style="padding-bottom: 3.2%;">IOT</h2></a>
+                    </div>
+                    <div class="tex">
+                        <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
+                    </div>
+                </div>
+            </div>
+            
+            </div>
+            </div>
         
         <?php 
         include 'componentes/news2.php'

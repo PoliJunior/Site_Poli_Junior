@@ -83,16 +83,16 @@
 						<option  value="Facebook">
 							Selecione
 						</option>
-						<option  value="Instagram">
+						<option  value="residêncial">
 							Residêncial
 						</option>
-						<option  value="LinkedIn">
+						<option  value="comercial">
 							Comercial
 						</option>
-						<option  value="Busca no Google">
+						<option  value="industria">
 							Industrial
 						</option>
-						<option  value="Evento">
+						<option  value="outros">
 							Outros
 						</option>
 					</select>

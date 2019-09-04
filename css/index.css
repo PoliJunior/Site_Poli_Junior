@@ -207,7 +207,7 @@ a[href="#top"]:hover{
     background-image: url("../images/i.png");
     background-repeat: no-repeat;
     background-position: unset;
-    background-size: 100% 26%;
+    background-size: 100% 29%;
     flex-direction: column;
     display: flex;
 }

@@ -5,8 +5,8 @@
 
 .todo-titulo{
 	width: 100%;
-	height: 150px;
-	background-color: purple;
+	height: 180px;
+	background-color: gray;
 }
 
 .titulo-topo{
@@ -16,17 +16,42 @@
 	border-bottom-style: solid;
 	border-color: #ffd100;
 	color:black;
-	width: 28%;
+	width: 32%;
 	text-align: right;
 }
 
 .textinho{
 	width: 100%;
 	height: 120px;
-	margin: 5% 5% 5% 0px;
+	margin: 3.5% 5% 5% 0px;
 }
 
 .te{
 	text-align: justify;
-	margin: 0px 15% 0px 15%;
+	margin: 0px 20% 0px 20%;
+}
+
+.listagem{
+	display: flex;
+	margin-bottom: 3%;
+}
+.ger{
+	width: 30%;
+	margin-left: 5%;
+}
+.enge{
+	margin-left: 6%;
+}
+.enge1{
+	margin-left: 6%;
+}
+.ti{
+	border-bottom-style: solid;
+	border-bottom-width: 3.7px;
+	border-color:#ffd100;
+	color:black;
+	text-align: center;
+}
+.tex{
+	text-align: justify;
 }

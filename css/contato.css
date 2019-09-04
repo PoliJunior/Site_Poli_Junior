@@ -127,7 +127,7 @@ body,html{
 		order: 2;
 	}
 	.tudo{
-		display: flex;
-		flex-grow: 1;
+		/*display: flex;*/
+		/*flex-grow: 1;*/
 	}
 } 
