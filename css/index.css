@@ -88,7 +88,7 @@ a[href="#top"]:hover{
 .reuniao {
     border: 2px;
     border-style: solid;
-    border-radius: 40px;
+    border-radius: 20px !important;
     border-color: #fed116;
     background-color: transparent;
     color: white;
@@ -98,7 +98,7 @@ a[href="#top"]:hover{
 
 .reuniao:hover {
     background-color: black;
-    border-radius: 40px;
+    border-radius: 20px !important;
     color: white;
 }
 
@@ -431,7 +431,7 @@ ul.dropdown-menu {
     margin-top: 5%;
     margin-left: 36%;
     transition: 0.25s;
-    border-radius: 40px;
+    border-radius: 20px !important;
 }
 
 #log {

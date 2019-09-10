@@ -34,7 +34,7 @@
             <div class="engenharias">
                 <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/hidrossanitarios.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/hidrossanitarios.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/instalações-elétricas.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/instalações-elétricas.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -58,7 +58,7 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/luminotecnico.png"></a></div>
+                        <div class="ima" id="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/luminotecnico.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -69,7 +69,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/orcamento-avaliativo.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/orcamento-avaliativo.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -82,7 +82,7 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/pci.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/pci.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-arquitetonico.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-arquitetonico.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -106,7 +106,7 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-centro-de-medicao.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-centro-de-medicao.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -117,7 +117,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-estrutural.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-estrutural.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -130,7 +130,7 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-fotovoltaico.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-fotovoltaico.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -141,7 +141,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-patologia.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-patologia.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -154,7 +154,7 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/spda.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/spda.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -165,7 +165,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/subesteção.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/subesteção.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">

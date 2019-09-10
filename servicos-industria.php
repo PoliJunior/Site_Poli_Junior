@@ -34,7 +34,7 @@
             <div class="engenharias">
                 <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/analise-layout.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/analise-layout.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/design-de-pecas.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/design-de-pecas.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -58,7 +58,7 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/ind/mapeamento-de-processos.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/ind/mapeamento-de-processos.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -69,7 +69,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/nr12.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/nr12.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -82,7 +82,7 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcm.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcm.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
                 <div class="enge1">
-                        <div><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcp.png"></a></div>
+                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcp.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
