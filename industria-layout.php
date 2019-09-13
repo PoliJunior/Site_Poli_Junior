@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Inovação</title>
+	<title>Análise de Layout</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
@@ -22,16 +22,16 @@
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-	<link rel="stylesheet" href="css/portfolio.css">
-	<link rel="stylesheet" href="css/responsive.css">
-	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="./css/portfolio.css">
+	<link rel="stylesheet" href="./css/responsive.css">
+	<link rel="stylesheet" href="./css/index.css">
 
-	<link rel="stylesheet" href="css/qualidade.css">
-	<link rel="stylesheet" href="css/atuacoes.css">
-	<link rel="stylesheet" href="css/resultados.css">
-	<link rel="stylesheet" href="css/depoimento.css">
-	<link rel="stylesheet" type="text/css" href="css/inovacao.css">
-	<link rel="stylesheet" type="text/css" href="css/contato.css">
+	<link rel="stylesheet" href="./css/qualidade.css">
+	<link rel="stylesheet" href="./css/atuacoes.css">
+	<link rel="stylesheet" href="./css/resultados.css">
+	<link rel="stylesheet" href="./css/depoimento.css">
+	<link rel="stylesheet" type="text/css" href="./css/inovacao.css">
+	<link rel="stylesheet" type="text/css" href="./css/contato.css">
 
 </head>
 <body>
@@ -41,15 +41,14 @@
 	<div class="projeto">
 		<div class="explica">
 			<div class="nome-projeto">
-				<h2>Projeto arquitetônico</h2>
+				<h2>Projeto de Análise de Layout</h2>
 			</div>
 			<div class="textinho">
-				<p class="texto-projeto">O projeto pretende criar um espaço que atenda a todas as necessidades que seu uso
-					pode trazer no futuro, buscando uma otimização do mesmo, analisando aspectos
-					funcionais, de conforto ambiental e estético, garantindo sua qualidade.<br><br> Dentre outras
-					coisas visa garantir atender às necessidades do cliente como acessibilidade, conforto
-					e melhor ocupação de espaço de forma a evitar desapontamentos pessoais e gastos
-				proporcionando um entendimento entre executor da obra e o contratante.</p>
+				<p class="texto-projeto">Mudança no Layout da região indicada afim de otimizar a disposição da área de
+trabalho para aumentar o desempenho do processo. Melhora diretamente a qualidade
+do produto, pois utilizar melhor o espaço reduz riscos de acidentes, melhora as
+condições de trabalho, otimiza controle de qualidade e reduz movimentação de
+pessoas, materiais e equipamentos.</p>
 			</div>
 		</div>
 		<div class="explica2">
