@@ -29,7 +29,12 @@
                 </div>
             </div>
             <div class="textinho">
-                <p class="te">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <p class="te">O nosso setor de tecnologia trabalha com foco exclusivamente no desejo de nosso
+cliente. Explanamos tudo o que o ele quer, tudo que ele pensa e espera da nossa
+solução para seu problema, com a ideia as vezes já formada ou construída em
+conjunto com nossa equipe.
+Incluindo serviços de sites simples à sistemas mais complexos de gestão, nosso setor
+de tecnologia é referente a Engenharia de Computação.</p>
             </div>
             <div class="engenharias">
                 <div class="listagem">
