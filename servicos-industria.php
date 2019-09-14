@@ -34,22 +34,22 @@
             <div class="engenharias">
                 <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/analise-layout.png"></a></div>
+                        <div class="ima"><a href="industria-layout.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/analise-layout.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">ANALISE LAYOUT</h2></a>
+                       <a href="industria-layout.php"><h2 style="padding-bottom: 3.2%;">ANALISE LAYOUT</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/design-de-pecas.png"></a></div>
+                        <div class="ima"><a href="industria-pecas.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/design-de-pecas.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">DESIGN DE PEÇAS</h2></a>
+                       <a href="industria-pecas.php"><h2 style="padding-bottom: 3.2%;">DESIGN DE PEÇAS</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -58,22 +58,22 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/ind/mapeamento-de-processos.png"></a></div>
+                        <div class="ima"><a href="industria-mapeamento.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/ind/mapeamento-de-processos.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">MAPEAMENTO DE PROCESSOS</h2></a>
+                       <a href="industria-mapeamento.php"><h2 style="padding-bottom: 3.2%;">MAPEAMENTO DE PROCESSOS</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/nr12.png"></a></div>
+                        <div class="ima"><a href="industria-nr12.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/nr12.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">NR12</h2></a>
+                       <a href="industria-nr12.php"><h2 style="padding-bottom: 3.2%;">NR12</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -82,22 +82,22 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcm.png"></a></div>
+                        <div class="ima"><a href="industria-pcm.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcm.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">PCM</h2></a>
+                       <a href="industria-pcm.php"><h2 style="padding-bottom: 3.2%;">PCM</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcp.png"></a></div>
+                        <div class="ima"><a href="industria-pcp.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/IND/pcp.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">PCP</h2></a>
+                       <a href="industria-pcp.php"><h2 style="padding-bottom: 3.2%;">PCP</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>

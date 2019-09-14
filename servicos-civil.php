@@ -34,11 +34,11 @@
             <div class="engenharias">
                 <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/hidrossanitarios.png"></a></div>
+                        <div class="ima"><a href="civil-hidrossanitario.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/hidrossanitarios.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">HIDROSSANITÁRIO</h2></a>
+                       <a href="civil-hidrossanitario.php"><h2 style="padding-bottom: 3.2%;">HIDROSSANITÁRIO</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -58,11 +58,11 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima" id="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/luminotecnico.png"></a></div>
+                        <div class="ima" id="ima"><a href="civil-luminotecnico.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/luminotecnico.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">LUMINOTÉCNICO</h2></a>
+                       <a href="civil-luminotecnico.php"><h2 style="padding-bottom: 3.2%;">LUMINOTÉCNICO</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -82,22 +82,22 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/pci.png"></a></div>
+                        <div class="ima"><a href="civil-pci.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/pci.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">PCI</h2></a>
+                       <a href="civil-pci.php"><h2 style="padding-bottom: 3.2%;">PCI</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-arquitetonico.png"></a></div>
+                        <div class="ima"><a href="civil-arquitetonico.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-arquitetonico.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">PROJETO ARQUITETÔNICO</h2></a>
+                       <a href="civil-arquitetonico.php"><h2 style="padding-bottom: 3.2%;">PROJETO ARQUITETÔNICO</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -106,22 +106,22 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-centro-de-medicao.png"></a></div>
+                        <div class="ima"><a href="civil-centromedicao.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-centro-de-medicao.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">CENTRO DE MEDIÇÃO</h2></a>
+                       <a href="civil-centromedicao.php"><h2 style="padding-bottom: 3.2%;">CENTRO DE MEDIÇÃO</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-estrutural.png"></a></div>
+                        <div class="ima"><a href="civil-estrutural.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-estrutural.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">PROJETO ESTRUTURAL</h2></a>
+                       <a href="civil-estrutural.php"><h2 style="padding-bottom: 3.2%;">PROJETO ESTRUTURAL</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -130,22 +130,22 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-fotovoltaico.png"></a></div>
+                        <div class="ima"><a href="civil-fotovoltaico.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-fotovoltaico.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">PROJETO FOTOVOLTAICO</h2></a>
+                       <a href="civil-fotovoltaico.php"><h2 style="padding-bottom: 3.2%;">PROJETO FOTOVOLTAICO</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-patologia.png"></a></div>
+                        <div class="ima"><a href="civil-patologia.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/projeto-patologia.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">PROJETO PATOLOGICO</h2></a>
+                       <a href="civil-patologia.php"><h2 style="padding-bottom: 3.2%;">PROJETO PATOLOGICO</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -154,11 +154,11 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/spda.png"></a></div>
+                        <div class="ima"><a href="civil-spdi.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/CC/spda.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">SPDA</h2></a>
+                       <a href="civil-spdi.php"><h2 style="padding-bottom: 3.2%;">SPDA</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>

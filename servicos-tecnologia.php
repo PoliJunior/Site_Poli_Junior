@@ -34,22 +34,22 @@
             <div class="engenharias">
                 <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/automacao-ares-condicionado.png"></a></div>
+                        <div class="ima"><a href="tecnologia-automacaoares.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/automacao-ares-condicionado.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">AUTOMAÇÃO ARES-CONDICIONADO</h2></a>
+                       <a href="tecnologia-automacaoares.php"><h2 style="padding-bottom: 3.2%;">AUTOMAÇÃO ARES-CONDICIONADO</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/condicionamento-saude.png"></a></div>
+                        <div class="ima"><a href="tecnologia-condicionamentoesaude.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/condicionamento-saude.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">CONDICIONAMENTO SAÚDE</h2></a>
+                       <a href="tecnologia-condicionamentoesaude.php"><h2 style="padding-bottom: 3.2%;">CONDICIONAMENTO SAÚDE</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -58,22 +58,22 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/ecommerce.png"></a></div>
+                        <div class="ima"><a href="tecnologia-ecommerce.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/ecommerce.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">E-COMMERCE</h2></a>
+                       <a href="tecnologia-ecommerce.php"><h2 style="padding-bottom: 3.2%;">E-COMMERCE</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/gestao-empresarial.png"></a></div>
+                        <div class="ima"><a href="tecnologia-gestao.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/gestao-empresarial.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">GESTÃO EMPRESARIAL</h2></a>
+                       <a href="tecnologia-gestao.php"><h2 style="padding-bottom: 3.2%;">GESTÃO EMPRESARIAL</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -82,22 +82,22 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/sistema-web.png"></a></div>
+                        <div class="ima"><a href="tecnologia-sistemaweb.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/sistema-web.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">SISTEMA-WEB</h2></a>
+                       <a href="tecnologia-sistemaweb.php"><h2 style="padding-bottom: 3.2%;">SISTEMA-WEB</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
                     </div>
                 </div>
                 <div class="enge1">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/site-institucional.png"></a></div>
+                        <div class="ima"><a href="tecnologia-institucional.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/site-institucional.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">SITE INSTITUCIONAL</h2></a>
+                       <a href="tecnologia-institucional.php"><h2 style="padding-bottom: 3.2%;">SITE INSTITUCIONAL</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
@@ -106,11 +106,11 @@
             </div>
             <div class="listagem">
                     <div class="enge">
-                        <div class="ima"><a href="#"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/site-onde-page.png"></a></div>
+                        <div class="ima"><a href="tecnologia-onepage.php"><img width="93" height="78" style="margin-top: 30%;" src="images/ICONS/TEC/site-onde-page.png"></a></div>
                     </div>
                     <div class="ger">
                     <div class="ti">
-                       <a href="#"><h2 style="padding-bottom: 3.2%;">SITE ONE PAGE</h2></a>
+                       <a href="tecnologia-onepage.php"><h2 style="padding-bottom: 3.2%;">SITE ONE PAGE</h2></a>
                     </div>
                     <div class="tex">
                         <p style="margin-top: 3%;">A Poli Junior Engenharia conta com uma área exclusiva em soluções de Engenharia Civil e elétrica com elaboração de Desenhos e Instalações Prediais usados na legalização e construção de imóveis.</p>
