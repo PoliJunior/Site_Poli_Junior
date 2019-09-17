@@ -200,7 +200,23 @@
     <p id="cliqueaqui" style="color: white; margin-left: 2%;padding-top: 0.7%; width: 75%; float: left;">Deseja saber mais sobre nossos serviços, curiosidades,entre outros?</p>
     <button class="btn btn-warning" id="button9">Clique aqui</button>
 </div>
-<div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 
+
+<div class="resu">
+    <div class="titi">OS NOSSOS RESULTADOS</div>
+    <div class="asso"> 
+        <div class="boxes">
+        <div class="titi1">ASSOCIADOS</div>
+        <div class="dados">80</div>
+        </div>
+        <div class="boxes">
+            <div class="titi1">PROJETOS</div>
+            <div class="dados">273</div>      
+        </div>
+    </div>
+</div>
+
+
+<!-- <div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 
 background-attachment: fixed; filter:brightness(100%);">
 <div class="row-resultado" style="width: 100%; height: 100%;">
     <div class="col-xs-12" style="width: 70%; height: 60%;">
@@ -217,18 +233,10 @@ background-attachment: fixed; filter:brightness(100%);">
             <div class="col-xs-61"><h2 id="numero" style="font-size: 600%">274</h2></div>
         </div>
 
-        <!-- <div class="row" style="text-align: center; width: 145% !important; margin-top:13%; margin-left: 0%;  ">
-            <div class="col-xs-6" style="  
-            "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%; font-size: 600%;">86</h2></div>
-            <div class="col-xs-6"><h2 id="numero" style="font-size: 600%">274</h2></div>
-        </div>
-        <div class="row" style="text-align: center; margin-left: 15%; width: 129%;">
-            <div class="col-xs-6" id="consultoria"><h2>Associados</h2></div>
-            <div class="col-xs-6" style="margin-left: 23%; margin-bottom: 2%;width: 30%;"><h2>Clientes satisfeitos</h2></div>
-        </div> -->
+
     </div>
 </div>
-</div>
+</div> -->
 
 
 <div class="container">
@@ -377,31 +385,6 @@ btn.addEventListener('click', () => window.scrollTo({
   top: 4900,
   behavior: 'smooth',
 }));
-</script>
-<!-- função que faz número aumentar até valor x -->
-<script type="text/javascript">
-$(window).hover(function() {
-    // mudei nome para numero1 apenas para para de mudar
-  var numero = document.getElementById('numero1');
-  var min = 0;
-  var max = 20;
-  var duração = 10000; // 5 segundos
-if ($(this).scrollTop() > 500){
-  for (var i = min; i <= max; i++) {
-    setTimeout(function(nr) {
-      numero.innerHTML = nr;
-    }, i * 5000 / max, i);
-  }
-}else{
-   var max = 20;
-   var duração = 10000;
-}
-},5000);
-
-$("#voltarValor").scroll(function() {
-  $("#numero").text("0");
-});
-
 </script>
 <!-- j Query -->
 
