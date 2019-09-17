@@ -1,0 +1,38 @@
+#nossaatuacao{
+    border: 1px solid black;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.boxatuacao{
+    width: 550px;
+    border: 1px solid black;
+    height: 300px;
+    padding: 10px;
+    display: flex;
+    flex-direction: center;
+    margin-bottom: 100px !important;
+}
+
+.boxdivatuacao{
+    width: 150px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.boxbtnatuacao{
+    background-color: #ffd100;
+    border-color: #ffd100;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+.boxtextatuacao{
+
+}
