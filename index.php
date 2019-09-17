@@ -77,16 +77,19 @@
     <?php
     include 'componentes/navbar.html';
     ?>
-
     <section class="banner">
         <div class="container">
             <div class="row" id="row1" style="height: 100%;">
                 <div class="texto2"></div>
                 <div id="log" class="bannertext"></div>
             </div>
-            <button id="reuniao" class="reuniao tran3s hvr-bounce-to-right" onclick="contato()" data-wow-delay="0.2s" style="font-size: 18px">Solicite
+            <!-- <button id="reuniao" class="reuniao tran3s hvr-bounce-to-right" onclick="contato()" data-wow-delay="0.2s" style="font-size: 18px">Solicite
                 uma reunião gratuita
-            </button>
+            </button> -->
+            <div class="btns">
+            <button type="button" class="efeito efeito-1">Solicite
+                uma reunião gratuita</button>
+            </div>
         </div>
     </div>
 </section>

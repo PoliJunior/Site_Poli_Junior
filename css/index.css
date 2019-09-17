@@ -3,6 +3,8 @@ body,html {
     font-family: 'Montserrat';
 }
 
+
+
 /*---make a basic box ---*/
 .box {
     float: left;
@@ -21,10 +23,17 @@ body,html {
     padding-left: 4%;
 
 }
+.btn-warning{
+    color: black !important;
+}
+.btn-warning:hover{
+    color:white !important;
+    }
 .desejo{
     background-color: black;
     height: 30%;
     font-size:20px; 
+    margin-top: 4%;
     width: 100%;
     float: left;
 }
@@ -203,11 +212,11 @@ a[href="#top"]:hover{
 
 }
 #atuacao{
-    height:9% !important; 
+    height:15% !important; 
     background-image: url("../images/i.png");
     background-repeat: no-repeat;
     background-position: unset;
-    background-size: 100% 29%;
+    background-size: 100% 32%;
     flex-direction: column;
     display: flex;
 }
@@ -332,6 +341,47 @@ a[href="#top"]:hover{
     position: relative;
     background-color: white !important;
 }
+.btns{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.efeito{
+    border: none;
+    color: #ffffff;
+    padding:20px;
+    margin:10px;
+    font-size: 20px;
+    line-height: 24px;
+    border-radius: 10px;
+    position: relative;
+    box-sizing: border-box;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: yellow;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+
+.efeito-1{
+    background-color: transparent;
+}
+
+.efeito-1:before{
+    content: '';
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 0px;
+    height: 64px;
+    background: rgba(255,255,255,0.3);
+    border-radius: 50px;
+    transition: all 0.3s ease;
+}
+
+.efeito-1:hover:before{
+    width: 100%;
+}
 .box {
     width: 40%;
     height: 280px;
@@ -342,9 +392,9 @@ a[href="#top"]:hover{
     min-width: 27vw;
     margin-left: 17%;
     margin-top:4%;
-    box-shadow:15px 10px 65px -26px rgba(0,0,0,0.75);
+    box-shadow:15px 10px 65px -26px rgba(0,0,0,.3);
+    transition: box-shadow .4s;
 }
-
 .box:hover{
     box-shadow: 0px 5px 5px 0px !important;
 }

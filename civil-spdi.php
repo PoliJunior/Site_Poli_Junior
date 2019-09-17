@@ -32,6 +32,7 @@
 	<link rel="stylesheet" href="./css/depoimento.css">
 	<link rel="stylesheet" type="text/css" href="./css/inovacao.css">
 	<link rel="stylesheet" type="text/css" href="./css/contato.css">
+	<link rel="stylesheet" type="text/css" href="css/servicos.css">
 
 </head>
 <body>
