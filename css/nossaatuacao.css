@@ -42,7 +42,7 @@
 }
 
 .boxdivatuacao{
-    width: 150px;
+    width: 38%;
     height: 250px;
     display: flex;
     flex-direction: column;
@@ -60,4 +60,19 @@
     width: 100%;
     height: 100%;
     text-align: justify !important;
+}
+
+@media only screen and (max-width: 430px){
+    .boxatuacao{
+        width: 100%;
+    }
+    .boxdivatuacao{
+    }
+    .boxtextatuacao{
+        width: 60%;
+        z-index: 1;
+    }
+    .divisinhas{
+        width: 100%;
+    }
 }

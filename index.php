@@ -85,13 +85,13 @@
                 <div class="texto2"></div>
                 <div id="log" class="bannertext"></div>
             </div>
-            <!-- <button id="reuniao" class="reuniao tran3s hvr-bounce-to-right" onclick="contato()" data-wow-delay="0.2s" style="font-size: 18px">Solicite
+            <button id="reuniao" class="reuniao tran3s hvr-bounce-to-right" onclick="contato()" data-wow-delay="0.2s" style="font-size: 18px">Solicite
                 uma reunião gratuita
-            </button> -->
-            <div class="btns">
+            </button>
+           <!--  <div class="btns">
                 <button type="button" class="efeito efeito-1">Solicite
                 uma reunião gratuita</button>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
@@ -166,7 +166,7 @@
        <button class="boxbtnatuacao"><a class="boxbt-natuacao" href=""> Saiba Mais </a></button>  
    </div>
    <div class="boxtextatuacao">
-    <h1>TECNOLOGIA</h1>
+    <div class="divisinhas"><h1>TECNOLOGIA</h1></div>
     <p> Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
         solução concreta. Explanamos tudo o que nossos clientes desejam do projeto para
     realizá-lo com a identidade e ideal que você precisa.</p>
