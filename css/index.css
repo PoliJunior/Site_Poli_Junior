@@ -1,4 +1,4 @@
-body,html {
+gitbody,html {
     margin: 0px;
     font-family: 'Montserrat';
 }
@@ -8,7 +8,7 @@ body,html {
     background-image: url("../images/Novas/n.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 1350px;
+    background-size: 100%;
     width: 100%;
     height: 500px;
 }
@@ -297,7 +297,7 @@ a[href="#top"]:hover{
     margin-top: -12% !important;
 }
     .titi{
-        width: 100%;
+        width: 97%;
     }
     .asso{
         display: flex;
@@ -710,7 +710,7 @@ h2 {
     }
     #cliqueaqui{
         text-align: center !important;
-        width: 100% !important;
+        width: 96% !important;
     }
     #button9{
         margin-left: 37%;

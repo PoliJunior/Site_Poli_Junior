@@ -89,7 +89,7 @@
                 uma reunião gratuita
             </button> -->
             <div class="btns">
-            <button type="button" class="efeito efeito-1">Solicite
+                <button type="button" class="efeito efeito-1">Solicite
                 uma reunião gratuita</button>
             </div>
         </div>
@@ -132,40 +132,73 @@
     </section>
 </div>
 
-<h1 style="text-align:center;" >Nossa Atuação</h1>
+<h1 style="text-align:center; margin-bottom: 3%;" >Nossa Atuação</h1>
 <div id="nossaatuacao"> <!-- nossa atuação -->
-        <div class="boxatuacao">
-            <div class="boxdivatuacao">
-                 <img src="images/atuacao/ino.png" width="150px">
-                  <button class="boxbtnatuacao"> <a href=""> Saiba Mais </a>  </button>  
-            </div>
+    <div class="boxatuacao">
+        <div class="boxdivatuacao">
+           <img src="images/atuacao/ino.png" width="150px">
+           <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href=""> Saiba Mais </a>  </button>  
+       </div>
+       <div class="boxtextatuacao">
+        <h1>INOVAÇÃO</h1>
+        <p> Nossas inovações, alinhadas com os conhecimentos de eletrônica e programação, buscam solucionar os seus problemas. Trabalhamos totalmente de acordo com as ideias e as necessidades que vocês nos trazem, buscando sempre uma forma mais simples e tecnológica de solucionar problemas do nosso cotidiano. </p>
+        <p> Incluindo IOT, Inteligência das Coisas, entre outros projetos que buscam inovar e automatizar processos, prepare-se para facilitar ainda mais sua rotina. </p>    
+    </div>
 
-            <div class="boxtextatuacao">
-                <h1>Inovação</h1>
-                <p> Nossas inovações, alinhadas com os conhecimentos de eletrônica e programação, buscam solucionar os seus problemas. Trabalhamos totalmente de acordo com as ideias e as necessidades que vocês nos trazem, buscando sempre uma forma mais simples e tecnológica de solucionar problemas do nosso cotidiano. </p>
-                <p> Incluindo IOT, Inteligência das Coisas, entre outros projetos que buscam inovar e automatizar processos, prepare-se para facilitar ainda mais sua rotina. </p>    
-            </div>
+</div>
 
-        </div>
-        <div class="boxatuacao"> 
+<div class="boxatuacao"> 
+    <div class="boxdivatuacao">
+       <img src="images/atuacao/industria.png" width="150px">
+       <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href=""> Saiba Mais </a>  </button>  
+   </div>
+   <div class="boxtextatuacao">
+    <h1>INDUSTRIA</h1>
+    <p> Nosso setor de indústria trabalha com empresas de todos os portes, de pequeno a grande, sempre priorizando o resultado da mais alta qualidade para que a vontade de nossos clientes seja completamente atendida.</p>
+    <p>Sabendo que o cotidiano da população é diretamente ligado à eficácia dos meios de
+        produção da nossa indústria, graças a nossos estudos mecânicos e de automação,
+    vemos grande valor em projetar para o secundário. </p>    
+</div>
+</div>
+<div class="boxatuacao"> 
+   <div class="boxdivatuacao">
+       <img src="images/atuacao/inst.png" width="150px">
+       <button class="boxbtnatuacao"><a class="boxbt-natuacao" href=""> Saiba Mais </a></button>  
+   </div>
+   <div class="boxtextatuacao">
+    <h1>TECNOLOGIA</h1>
+    <p> Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
+        solução concreta. Explanamos tudo o que nossos clientes desejam do projeto para
+    realizá-lo com a identidade e ideal que você precisa.</p>
+    <p>Incluindo serviços de sites simples à sistemas mais complexos de gestão, nosso setor
+        de tecnologia, referente a Engenharia de Computação, trabalha com a precisão que
+    você precisa para que seus empreendimentos tornem se verdadeiros sucessos.</p>    
+</div>
+</div>
+<div class="boxatuacao"> 
+    <div class="boxdivatuacao">
+       <img src="images/atuacao/cc.png" width="150px">
+       <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href=""> Saiba Mais </a>  </button>  
+   </div>
+   <div class="boxtextatuacao">
+    <h1>CIVIL</h1>
+    <p> Em Construção Civil, composto pelas áreas de Engenharia Civil e Elétrica,
+        trabalhamos cada vez mais nos mínimos detalhes para que a entrega do seu projeto
+        seja feita com a eficácia que você precisa. Além de todas as necessidades básicas,
+        buscamos as tecnologias mais completas para dinamizar todo o processo do seu
+    serviço.</p>
+    <P>Conseguirmos entregar desde projetos do zero até revitalizações, garantindo a melhor
+    qualidade e experiência possível para nossos clientes.</p>    
+</div>
+</div>
 
-        </div>
-        <div class="boxatuacao"> 
-
-        </div>
-        <div class="boxatuacao"> 
-
-        </div>
 
 
 
-   
- </div> <!-- final nossa atuação -->
+</div> <!-- final nossa atuação -->
 
 
 </div>
-</div>
-<div class="espaco" style="width: 100%; height: 25px"></div>
 </div>
 
 <div class="desejo">
@@ -177,8 +210,8 @@
     <div class="titi">OS NOSSOS RESULTADOS</div>
     <div class="asso"> 
         <div class="boxes">
-        <div class="titi1">ASSOCIADOS</div>
-        <div class="dados">80</div>
+            <div class="titi1">ASSOCIADOS</div>
+            <div class="dados">80</div>
         </div>
         <div class="boxes">
             <div class="titi1">PROJETOS</div>
@@ -293,9 +326,9 @@ background-attachment: fixed; filter:brightness(100%);">
             </div>
         </div>
     </div>
-    <a id="#top" style="z-index:999 !important;">
-     <img src="images/up.png" height="20" width="25">
- </a>
+    <!-- <a id="#top" style="z-index:999 !important;">
+       <img src="images/up.png" height="20" width="25">
+   </a> -->
 </div> <!-- /#depoimento-section -->
 
 <?php
@@ -353,10 +386,10 @@ include 'componentes/footer.php';
 <script type="text/javascript">
   const btn = document.getElementById('button9');
 
-btn.addEventListener('click', () => window.scrollTo({
-  top: 4900,
-  behavior: 'smooth',
-}));
+  btn.addEventListener('click', () => window.scrollTo({
+      top: 4900,
+      behavior: 'smooth',
+  }));
 </script>
 <!-- j Query -->
 
