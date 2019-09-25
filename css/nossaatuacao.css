@@ -67,6 +67,9 @@
         width: 100%;
     }
     .boxdivatuacao{
+        /*margin-top: 108%;*/
+        /*width: 100% !important;*/
+        /*height: 10%;*/
     }
     .boxtextatuacao{
         width: 60%;
@@ -74,5 +77,8 @@
     }
     .divisinhas{
         width: 100%;
+    }
+    .imgg{
+        display: none;
     }
 }

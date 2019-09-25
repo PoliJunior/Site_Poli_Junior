@@ -69,6 +69,9 @@ text-align: justify;
     transition: max-height 0.2s ease-out;
     background-color: #ebebe0;
 }
+.col-xs-8{
+    position: inherit;
+}
 
 .duvidas {
     padding-left: 8%;

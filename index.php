@@ -162,7 +162,7 @@
 </div>
 <div class="boxatuacao"> 
    <div class="boxdivatuacao">
-       <img src="images/atuacao/inst.png" width="150px">
+       <div class="imgg"><img src="images/atuacao/inst.png" width="150px"></div>
        <button class="boxbtnatuacao"><a class="boxbt-natuacao" href=""> Saiba Mais </a></button>  
    </div>
    <div class="boxtextatuacao">

@@ -260,6 +260,7 @@ h2{
     height: 10%;
     padding-left: 4%;
     margin-top: 6%;
+    margin-bottom: 5%;
     float: left;
     text-align: justify;
 }
@@ -269,6 +270,7 @@ h2{
     height: 100%;
     padding-left: 4%;
     margin-bottom: 1%;
+    margin-top: 5% !important;
     text-align: justify;
 }
 #partner-section {
@@ -471,7 +473,10 @@ h2 {
     }
     .texto2{
         margin: 0px 0px 0px 5%;
-    }    
+    }  
+    .row-textos1{
+        margin-bottom: 20% !important;
+    }  
 }
 
 @media (max-width: 300px) {

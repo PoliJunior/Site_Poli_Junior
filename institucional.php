@@ -8,23 +8,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
 <script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
 <script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- // CSS FILES // -->
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 <link rel="stylesheet" href="css/animate.min.css">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/responsive.css">
 <link rel="stylesheet" href="css/index.css">
@@ -63,7 +62,7 @@
                                 médio porte, estabelecidas ou sediadas em Pernambuco e estados adjacentes.
                             </div>
                         </div>
-                        <div class="row-textos2">
+                        <div class="row-textos2" style="margin-top: 5% !important">
                             <div class="texto2">
                                 <p style="margin-top: 5% !important;">
                                     <h2>M. E. J. (Movimento Empresa Junior)</h2></p>
@@ -197,7 +196,7 @@
                                     atividade Poli Júnior é baseada em responsabilidade, qualidade e compromisso.</p>
                                 </div>
 
-                                <div style="height:20vh;"></div>
+                                <div style="height:1vh;"></div>
                             </div>
 
                             <div style="height:8vh;"></div>
@@ -246,11 +245,10 @@
     }
 </script>
 <!-- j Query -->
-
-<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
-<script type="text/javascript" src="js/theme.js"></script>
 <script type="text/javascript" src="js/animated.js"></script>
+<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/theme.js"></script>
 <script type="text/javascript" src="js/map-script.js"></script>
 <script type="text/javascript" src="js/app.js"></script>
 <!-- <script type="text/javascript" src="js/funcoes.js"></script> -->
