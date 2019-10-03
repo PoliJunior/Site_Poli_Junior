@@ -119,7 +119,7 @@
         </div>
     </section>
 
-    <section class="section--blue wow slideInLeft" data-wow-delay="0.9s">
+    <section class="section--blue wow slideInLeft" data-wow-delay="0.5s">
 
         <div class="card31">
             <div id="cardimginovacao1" class="" style="height:128px; width:130px; margin:0px;">
@@ -134,7 +134,7 @@
     </section>
 </div>
 
-<h1 style="text-align:center; margin-bottom: 7%;" >Nossa Atuação</h1>
+<h1 style="text-align:center; margin-bottom: 17%;" >Nossa Atuação</h1>
 <div id="nossaatuacao"> <!-- nossa atuação -->
     <div class="boxatuacao">
         <div class="boxdivatuacao">
