@@ -27,14 +27,13 @@
   include 'componentes/navbar.html';
   ?>
   <div class="container">
-    <div class="col-xs-8 col-sm-6 response wow slideInLeft" data-wow-delay="0.1s" style="width:40% !important;">
+    <div class="col-xs-8 col-sm-6 response wow slideInLeft" data-wow-delay="0.1s" style="width:100% !important;">
       <h1 class="txt-servico"><strong>Tecnologia:<br>O que o meu negócio precisa para decolar?</strong></h1>
-      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+      <p class="res">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
         industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
         scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
         electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
         Letraset sheets containing Lorem Ipsum passages.
-      </div>
     </div>
   </div>
 

@@ -115,8 +115,11 @@ body{
 }
 
 @media (max-width: 670px) {
+  .col-xs-8.col-sm-6.response.wow.slideInLeft{
+    width: 100% !important;
+  }
 	.response{
-		text-align: center;
+		text-align: justify;
 	}
 
   .fluxo{

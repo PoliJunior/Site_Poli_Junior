@@ -292,6 +292,22 @@ a[href="#top"]:hover{
     margin-left: 13%;
 
 }
+@media only screen and (max-width: 1024px){
+    #reuniao{
+        margin-left: 13%;
+    }
+    .imagem{
+        margin-left: 5% !important;
+    }
+}
+@media only screen and (max-width: 768px){
+    .boxes{
+        margin: 10% 10% 10% 6%;
+    }
+    #cloqueaqui{
+        margin-left: 0px !important;
+    }
+}
 @media only screen and (max-width: 430px){
     #row1 {
     margin-top: -12% !important;
@@ -580,6 +596,10 @@ h2 {
         margin-left: 0px !important;
 
     }
+    .dropdown-menu{
+        text-align: center;
+        margin-left: -35px;   
+    }
     #log{
         margin-left: 8%;
     }
@@ -611,6 +631,12 @@ h2 {
     }
 
 }
+@media only screen and (max-width: 320px){
+    #reuniao{
+        margin-left: 0px;
+        margin: 5% 0% 0px -3% !important;
+    }
+}
 
 @media only screen and (max-width: 820px){
     .section--blue {
@@ -641,7 +667,7 @@ h2 {
     .card31 {
         height: 100%;
         margin-bottom: 9%;
-        padding-top: 18%;
+        /*padding-top: 18%;*/
         margin-top: 3%;
     }
 
@@ -715,17 +741,18 @@ h2 {
         width: 96% !important;
     }
     #button9{
-        margin-left: 37%;
+        /*margin-left: 37%;*/
+        width: 100%;
     }
 }
 
 
-@media (max-width: 380px){
+@media only screen and (max-width: 380px){
     #reuniao {
         margin-top: 7%;
         margin-left: 5%;
-        margin-right: 90%;
-        margin: 5% 5% 0px 5% !important;
+        /*margin-right: 90%;*/
+        /*margin: 5% 5% 0px 5% !important;*/
     }
 }
 

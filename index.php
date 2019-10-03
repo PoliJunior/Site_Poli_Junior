@@ -11,14 +11,16 @@
 
     <!-- // CSS FILES // -->
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.boo;tstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="css/animate.min.css">
 
     <link rel="stylesheet" href="css/portfolio.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/index.css">
-
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/qualidade.css">
     <link rel="stylesheet" href="css/atuacoes.css">
     <link rel="stylesheet" href="css/resultados.css">
@@ -132,7 +134,7 @@
     </section>
 </div>
 
-<h1 style="text-align:center; margin-bottom: 3%;" >Nossa Atuação</h1>
+<h1 style="text-align:center; margin-bottom: 7%;" >Nossa Atuação</h1>
 <div id="nossaatuacao"> <!-- nossa atuação -->
     <div class="boxatuacao">
         <div class="boxdivatuacao">
@@ -394,6 +396,8 @@ include 'componentes/footer.php';
 <script type="text/javascript" src="js/topo.js"></script>
 <script type="text/javascript" src="js/app.js"></script>
 <script type="text/javascript" src="js/funcoes.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
 <script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>

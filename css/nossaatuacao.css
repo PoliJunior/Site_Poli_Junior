@@ -86,9 +86,19 @@
         display: none;
     }
 }
+@media only screen and (max-width: 770px){  
+    .boxtextatuacao{
+        width: 70%;
+    }
+}
 
 @media only screen and (max-width: 360px){
     .divisinhas-2{
         font-size: 240%;
+    }
+}
+@media only screen and (max-width: 320px){
+    .divisinhas-2{
+        font-size: 211%;
     }
 }

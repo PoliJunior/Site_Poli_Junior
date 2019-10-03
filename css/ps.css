@@ -107,6 +107,10 @@ a{
 	.item{
 		width: 80%;
 	}
+    .ps{
+        width: 100%;
+        margin-right: 4%;
+    }
 }
 
 @media only screen and (max-width: 330px){

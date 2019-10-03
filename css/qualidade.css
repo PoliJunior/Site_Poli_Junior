@@ -1,3 +1,4 @@
+
 body,html{
     font-family: 'Montserrat';
 }
@@ -209,3 +210,25 @@ body,html{
         width: 250px;
     }
      }
+     @media only screen and (max-width: 1024px){
+        .imagem{
+            margin-left: 83% !important;
+            margin-top: 2%;
+        }
+        .titulocard{
+            margin-left: 88% !important;
+        }
+        .card31{
+            margin-top: 7%;
+            /*padding-right: 35px;*/
+        }
+     }
+
+       @media only screen and (max-width: 1024px){
+        .imagem{
+            margin-left: 69% !important;
+        }
+        .titulocard{
+            margin-left: 2% !important;
+        }
+       }

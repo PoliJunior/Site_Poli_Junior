@@ -95,6 +95,25 @@
 		margin:9% 0px 0px 0px;
 	}
 }
+@media only screen and (max-width: 377px){
+	.new{
+		height: 100% !important;
+		padding-bottom: 8%;
+		background-size: 2100px;
+	}
+}
+@media only screen and (max-width: 770px){
+	.btn2{
+		margin-left: -2%;
+		width: 110%;
+	}
+}
+@media only screen and (max-width: 1030px){
+.btn2{
+	width: 100%;
+	margin-left: 0.5%;
+}
+}
 
 </style>
 

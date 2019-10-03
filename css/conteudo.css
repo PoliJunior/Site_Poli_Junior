@@ -88,9 +88,44 @@ margin-left: 3%;
 	text-align: center;
 	color: black;
 }
+@media only screen and (max-width: 1024px){
+	.assunto-conteudo{
+		width: 70%;
+	}
+	.amarelo{
+		width: 84%;
+	}
+	.form-assunto{
+	width: 74%;
+    margin-top: 3%;
+    margin-left: 26%;
+    align-items: center;
+	}
+}
+@media only screen and (max-width: 380px){
+	.assunto-conteudo{
+		width: 100%;
+	}
+	#cardtodo{
+		margin-left: 0px!important;
+	}
+}
+
+@media only screen and (max-width: 320px){
+	.assunto-conteudo{
+		width: 100%;
+	}
+	#cardtodo{
+		margin-left: 0px!important;
+	}
+}
+
 @media only screen and (max-width: 430px){
 	#cardtodo{
-		flex-direction: column;
+		flex-direction: column;width: 100%;
+    margin-top: 3%;
+    margin-left: 26%;
+    align-items: center;
 		padding-top: 3%;
 	}
 	.card-conteudo{
@@ -111,6 +146,12 @@ margin-left: 3%;
 		display: flex;
 		align-items: center;
 		flex-direction: column;
+	}
+	.assunto-conteudo{
+		width: 100%;
+	}
+	#cardtodo{
+		margin-left: 0px!important;
 	}
 	.tconteudo{
 		width: 90%;
