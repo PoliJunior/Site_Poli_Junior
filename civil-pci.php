@@ -103,7 +103,7 @@ projeto de instalação, distribuindo assim rotas de fuga inteligentes e bem sin
 		<h2>Por quê fazer um projeto de (...)</h2>
 	</div>	
 	<section class="container flex">
-		<div class="caixa3">1<br>Personalize sua construção de acordo com todas as normas de segurança</div>
+		<div class="caixa3"><img class="imgs" src="images/icon/Q.png" width="120" height="80" ><br>Personalize sua construção de acordo com todas as normas de segurança</div>
 		<div class="caixa3">2<br>Personalize sua construção de acordo com todas as normas de segurança</div>
 		<div class="caixa3">3<br>Personalize sua construção de acordo com todas as normas de segurança</div>
 	</section>

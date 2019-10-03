@@ -1,6 +1,12 @@
+body{
+	background-position: 25% 90%;
+  background-image: linear-gradient(to bottom, transparent -80%, #fff 10%), url("../images/Novas/tec.jpg") !important;
+}
+
 .projeto{
 	margin-top: 10.5%;
-	background-color: blue;
+	/*background-color: blue;*/
+	background:linear-gradient(rgba(63,127,191,.88),rgba(1,0,0,.3)), url("../images/bg.jpg");
 	height: 752px;
 }
 
@@ -64,7 +70,9 @@ width: 100%;
 height: 100%;
 margin:3% 0px 0px 0px;
 }
-
+.imgs{
+	margin-bottom: 5%;
+}
 .caixa3{
 	margin:3%;
 	width: 20%;
