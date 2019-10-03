@@ -8,13 +8,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
-	<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
-	<script type="text/javascript" src="js/topo.js"></script>
-
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 	<link rel="stylesheet" href="css/animate.min.css">
@@ -98,7 +93,7 @@
 		<div class="card-conteudo">
 			<div class="aleatorio">
 				<div class="card">
-					<a href=""><img class="card-img-top" src="images/icon/PC.png" alt="Card image cap" height="80" width="80"></a>
+					<a href=""><img class="card-img-top" src="images/ecom.jpg" alt="Card image cap" height="200" width="150"></a>
 				</div>
 				<div class="texto-card">
 					<h3>E-book:Como<br>E-commerce pode<br>aumentar as suas<br>vendas?</h3>	
@@ -135,14 +130,25 @@
 			});
 		</script>
 
+		<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+		<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+		<script type="text/javascript" src="js/theme.js"></script>
+		<script type="text/javascript" src="js/map-script.js"></script>
+		<script type="text/javascript" src="js/app.js"></script>
+		<script type="text/javascript" src="js/funcoes.js"></script>
 		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 		<script type="text/javascript" src="slick/slick.min.js"></script>
 		<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
+		<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>
+		<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js'></script>
 
 	</body>
 	</html>

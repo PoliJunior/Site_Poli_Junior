@@ -298,6 +298,7 @@ a[href="#top"]:hover{
 }
     .titi{
         width: 97%;
+        text-align: center;
     }
     .asso{
         display: flex;
@@ -640,7 +641,8 @@ h2 {
     .card31 {
         height: 100%;
         margin-bottom: 9%;
-        padding-top: 8%;
+        padding-top: 18%;
+        margin-top: 3%;
     }
 
     .card {

@@ -101,7 +101,7 @@ país, além de fornecer crescimento profissional a seus membros.</p>
                                 </div>
                             </div>
 
-	<div style="height: 160px;"></div>
+	<div style="height: 80px;"></div>
 
 	<?php include 'componentes/news2.php';?>
 

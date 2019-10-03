@@ -77,8 +77,18 @@
     }
     .divisinhas{
         width: 100%;
+
+    }
+    .divisinhas-2{
+        font-size: 250%;
     }
     .imgg{
         display: none;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    .divisinhas-2{
+        font-size: 240%;
     }
 }

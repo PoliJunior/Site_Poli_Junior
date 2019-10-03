@@ -162,11 +162,11 @@
 </div>
 <div class="boxatuacao"> 
    <div class="boxdivatuacao">
-       <div class="imgg"><img src="images/atuacao/inst.png" width="150px"></div>
+       <div class="img"><img src="images/atuacao/inst.png" width="150px"></div>
        <button class="boxbtnatuacao"><a class="boxbt-natuacao" href=""> Saiba Mais </a></button>  
    </div>
    <div class="boxtextatuacao">
-    <div class="divisinhas"><h1>TECNOLOGIA</h1></div>
+    <div class="divisinhas"><h1 class="divisinhas-2">TECNOLOGIA</h1></div>
     <p> Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
         solução concreta. Explanamos tudo o que nossos clientes desejam do projeto para
     realizá-lo com a identidade e ideal que você precisa.</p>
@@ -262,9 +262,7 @@ background-attachment: fixed; filter:brightness(100%);">
                             <div class="col-sm-12">
                                 <div class="media">
                                     <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
+                                            <img src="images/ecom.jpg" alt="">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
@@ -282,9 +280,7 @@ background-attachment: fixed; filter:brightness(100%);">
                             <div class="col-sm-12">
                                 <div class="media">
                                     <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
+                                            <img src="images/ecom.jpg" alt="">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
@@ -301,9 +297,7 @@ background-attachment: fixed; filter:brightness(100%);">
                             <div class="col-sm-12">
                                 <div class="media">
                                     <div class="media-left d-flex mr-3">
-                                        <a href="#">
-                                            <img src="images/primeiro.png" alt="">
-                                        </a>
+                                            <img src="images/ecom.jpg" alt="">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
