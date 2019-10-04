@@ -34,12 +34,10 @@
             padding-bottom: 25px;
             font-family: lato black;
         }
-
         .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
             color: #fff;
             background-color: transparent;
         }
-
         .dropdown-menu > li > a {
             display: block;
             padding: 3px 20px;
@@ -49,7 +47,6 @@
             color: white;
             white-space: nowrap;
         }
-
         .nav.navbar-nav.pull-right .dropdown a:after {
             background: none repeat scroll 0 0 transparent;
             bottom: 0;
@@ -63,21 +60,16 @@
             width: 0;
             background-color: transparent;
         }
-
         .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
             padding-bottom: 10px;
         }
-
         .col-sm-12{
             padding-bottom: 5%;
             padding-top: 4%;
         }
-
     </style>
-
 </head>
 <body>
-
     <?php
     include 'componentes/navbar.html';
     ?>
@@ -97,20 +89,15 @@
         </div>
     </div>
 </section>
-
 <div class="porque">
-
     <section class="section--blue wow slideInLeft" data-wow-delay="0.1s">
-
         <div class="card">
             <div class="cardimgqualidade"></div>
             <div class="card-title1"><h3 style="margin-bottom: 0px;">Qualidade</h3></div>
             <div class="card-text"><p>Revisão feita por consultores e especialistas</p></div>
         </div>
     </section>
-
     <section class="section--blue wow slideInLeft" data-wow-delay="0.5s">
-
         <div class="card" style="margin-right: 18%;">
             <div class="cardimgpreco"></div>
             <div class="card-title1"><h3 style="text-align: center; margin-bottom:0px !important;">Preços Competitivos</h3></div>
@@ -118,7 +105,6 @@
             </div>
         </div>
     </section>
-
     <section class="section--blue wow slideInLeft" data-wow-delay="0.8s">
 
         <div class="card31">
@@ -133,28 +119,25 @@
         </div>
     </section>
 </div>
-
 <h1 class="at" >Nossa Atuação</h1>
 <div id="nossaatuacao"> <!-- nossa atuação -->
     <div class="boxatuacao">
         <div class="boxdivatuacao">
-           <img src="images/atuacao/ino.png" width="150px">
-           <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href=""> Saiba Mais </a>  </button>  
-       </div>
-       <div class="boxtextatuacao">
+         <img src="images/atuacao/ino.png" width="150px">
+         <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href="servicos-inovacao.php"> Saiba Mais </a>  </button>  
+     </div>
+     <div class="boxtextatuacao">
         <h1>INOVAÇÃO</h1>
         <p> Nossas inovações, alinhadas com os conhecimentos de eletrônica e programação, buscam solucionar os seus problemas. Trabalhamos totalmente de acordo com as ideias e as necessidades que vocês nos trazem, buscando sempre uma forma mais simples e tecnológica de solucionar problemas do nosso cotidiano. </p>
         <p> Incluindo IOT, Inteligência das Coisas, entre outros projetos que buscam inovar e automatizar processos, prepare-se para facilitar ainda mais sua rotina. </p>    
     </div>
-
 </div>
-
 <div class="boxatuacao"> 
     <div class="boxdivatuacao">
-       <img src="images/atuacao/industria.png" width="150px">
-       <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href=""> Saiba Mais </a>  </button>  
-   </div>
-   <div class="boxtextatuacao">
+     <img src="images/atuacao/industria.png" width="150px">
+     <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href="servicos-industria.php"> Saiba Mais </a>  </button>  
+ </div>
+ <div class="boxtextatuacao">
     <h1>INDUSTRIA</h1>
     <p> Nosso setor de indústria trabalha com empresas de todos os portes, de pequeno a grande, sempre priorizando o resultado da mais alta qualidade para que a vontade de nossos clientes seja completamente atendida.</p>
     <p>Sabendo que o cotidiano da população é diretamente ligado à eficácia dos meios de
@@ -163,11 +146,11 @@
 </div>
 </div>
 <div class="boxatuacao"> 
-   <div class="boxdivatuacao">
-       <div class="img"><img src="images/atuacao/inst.png" width="150px"></div>
-       <button class="boxbtnatuacao"><a class="boxbt-natuacao" href=""> Saiba Mais </a></button>  
-   </div>
-   <div class="boxtextatuacao">
+ <div class="boxdivatuacao">
+     <div class="img"><img src="images/atuacao/inst.png" width="150px"></div>
+     <button class="boxbtnatuacao"><a class="boxbt-natuacao" href="servicos-tecnologia.php"> Saiba Mais </a></button>  
+ </div>
+ <div class="boxtextatuacao">
     <div class="divisinhas"><h1 class="divisinhas-2">TECNOLOGIA</h1></div>
     <p> Setor que trabalha com foco exclusivamente em tornar o seu problema em uma
         solução concreta. Explanamos tudo o que nossos clientes desejam do projeto para
@@ -179,10 +162,10 @@
 </div>
 <div class="boxatuacao"> 
     <div class="boxdivatuacao">
-       <img src="images/atuacao/cc.png" width="150px">
-       <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href=""> Saiba Mais </a>  </button>  
-   </div>
-   <div class="boxtextatuacao">
+     <img src="images/atuacao/cc.png" width="150px">
+     <button class="boxbtnatuacao"> <a class="boxbt-natuacao" href="servicos-civil.php"> Saiba Mais </a></button>  
+ </div>
+ <div class="boxtextatuacao">
     <h1>CIVIL</h1>
     <p> Em Construção Civil, composto pelas áreas de Engenharia Civil e Elétrica,
         trabalhamos cada vez mais nos mínimos detalhes para que a entrega do seu projeto
@@ -193,16 +176,9 @@
     qualidade e experiência possível para nossos clientes.</p>    
 </div>
 </div>
-
-
-
-
 </div> <!-- final nossa atuação -->
-
-
 </div>
 </div>
-
 <div class="desejo">
     <p id="cliqueaqui" style="color: white; margin-left: 2%;padding-top: 0.7%; width: 75%; float: left;">Deseja saber mais sobre nossos serviços, curiosidades,entre outros?</p>
     <button class="btn btn-warning" id="button9">Clique aqui</button>
@@ -221,31 +197,6 @@
         </div>
     </div>
 </div>
-
-
-<!-- <div id="resultado" src="images/Novas/n.jpg" style="background-image: url(images/Novas/n.jpg); 
-background-attachment: fixed; filter:brightness(100%);">
-<div class="row-resultado" style="width: 100%; height: 100%;">
-    <div class="col-xs-12" style="width: 70%; height: 60%;">
-        <h2 style="text-transform: uppercase;font-weight: bold;font-family:'Montserrat'; padding-top:2%; font-size: 31px;float: left; margin-left: 7%;">OS NOSSOS
-        RESULTADOS</h2>
-        <div id="flex1">
-            
-             <div class="col-xs-6" id="consultoria"><h2>Associados</h2></div>
-              <div class="col-xs-6" style="margin-left: 23%; margin-bottom: 2%;width: 30%;"><h2>Clientes satisfeitos</h2></div>
-        </div>
-        <div id="flex2">
-            <div class="col-xs-60" style="  
-            "><h2 id="numero" style="float:right; width: 100%;margin-top: 0%; font-size: 600%;">86</h2></div>
-            <div class="col-xs-61"><h2 id="numero" style="font-size: 600%">274</h2></div>
-        </div>
-
-
-    </div>
-</div>
-</div> -->
-
-
 <div class="container">
     <div class="row">
         <div class="col-sm-12">
@@ -264,7 +215,7 @@ background-attachment: fixed; filter:brightness(100%);">
                             <div class="col-sm-12">
                                 <div class="media">
                                     <div class="media-left d-flex mr-3">
-                                            <img src="images/ecom.jpg" alt="">
+                                        <img src="images/ecom.jpg" alt="">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
@@ -282,7 +233,7 @@ background-attachment: fixed; filter:brightness(100%);">
                             <div class="col-sm-12">
                                 <div class="media">
                                     <div class="media-left d-flex mr-3">
-                                            <img src="images/ecom.jpg" alt="">
+                                        <img src="images/ecom.jpg" alt="">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
@@ -299,7 +250,7 @@ background-attachment: fixed; filter:brightness(100%);">
                             <div class="col-sm-12">
                                 <div class="media">
                                     <div class="media-left d-flex mr-3">
-                                            <img src="images/ecom.jpg" alt="">
+                                        <img src="images/ecom.jpg" alt="">
                                     </div>
                                     <div class="media-body">
                                         <div class="testimonial">
