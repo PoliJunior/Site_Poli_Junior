@@ -579,7 +579,10 @@ ul.dropdown-menu {
     padding: 0px 0px 0px 0px !important;
     width: 34%;
 }
-
+.at{
+    text-align:center;
+    margin-bottom: 7%;
+}
 .col-xs-12 {
     width: 100%;
 }
@@ -595,6 +598,9 @@ h2 {
         width: 900px !important;
         margin-left: 0px !important;
 
+    }
+    .at{
+        margin-bottom: 17%;
     }
     .dropdown-menu{
         text-align: center;
